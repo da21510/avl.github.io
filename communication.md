@@ -6,10 +6,10 @@ navigation_weight: 2
 
 ## Framework for Effective Communication
 
-### Take notes
+### 1. Take notes
 * Capture in bullet points. Process, synthesize, and frame in real time.
 
-### Don’t criticize or complain
+### 1. Don’t criticize or complain
 * Never say anything about a person you wouldn’t say to them directly.
 
 ### Communicate specific expectations clearly, openly, and often
