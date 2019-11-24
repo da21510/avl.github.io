@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Framework for Effective Communication
+description: Best Practices
 navigation_weight: 2
 ---
 
