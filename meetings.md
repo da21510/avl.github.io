@@ -25,31 +25,31 @@ navigation_weight: 5
   * **Communication Method Details** – Provide logistics on setting up the meeting/call  
   * To maximize efficiency, please put your laptop screens down unless you are  taking notes. If taking notes, proactively let people know
 
-### No spectators 
-Consider who is invited: “who really needs to be there?”
+### 5. No spectators 
+* Consider who is invited: “who really needs to be there?”
 
-### Start on time, end on time
+### 6. Start on time, end on time
 * Arrive early to get the admin pieces in pace before starting  
 * Don’t wait too long for stragglers; it's their responsibility to catch up
 * Stick to your schedule. If you notice one person monopolizing the conversation, call  him/her out. Say, “We appreciate your contributions, but now we need input from  others before making a decision.”  
 
-### Encourage participations by asking participants questions
+### 7. Encourage participations by asking participants questions
 
-### State the meeting purpose/goal up front
+### 8. State the meeting purpose/goal up front
 * This is the first agenda item: review the agenda and expectations
 
-### Assign tasks to people
+### 9. Assign tasks to people
 
-### Put your screens down during meetings
+### 10. Put your screens down during meetings
 * Don’t bring computers/phones unless taking notes 
 
-### CC Management on all important meetings
+### 11. CC Management on all important meetings
 
-### Recap
+### 12. Recap
 * This is the last agenda item: formally close the meeting with a recap of specific next steps to confirm mutual expectations
 
-### Follow up 
+### 13. Follow up 
 * Email a memo highlighting what was accomplished and next steps to all who attended within 24 hours after the meeting
 
-### Have fun
+### 14. Have fun
 * Meetings are where you can have interaction with people and solve problems creatively and collaboratively

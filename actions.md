@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Actions Expected
-navigation_weight: 1
+description: Best Practices
+navigation_weight: 2
 ---
 
 ## Actions Expected
