@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Company Principles
 
-You can use the [editor on GitHub](https://github.com/avanceventurelab/avl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are one team working towards a common goal: we believe technology, social responsibility, and new ideas about how to create value are more important than ever before. We believe the quality standards of our product, and its experience, can never be compromised. We are honest, people-first, and operate with integrity.  We value offering practical solutions and providing unique experience to our customers, over financial results.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> “You are not a lottery ticket. Everything around you that you call life was made up by people that were no smarter than you; and you can change it, you can influence it, you can build your own things that other people can use.”
 
-### Markdown
+### Vision
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Build extraordinary products.
 
-```markdown
-Syntax highlighted code block
+### Mission
 
-# Header 1
-## Header 2
-### Header 3
+We're solving challenges in search relevance, loyalty rewards, payments, security, and growth — all the while creating a seamless experience.
 
-- Bulleted
-- List
+### Purpose
 
-1. Numbered
-2. List
+Focus on delighting, building trust, and creating a loyal customer base.
 
-**Bold** and _Italic_ and `Code` text
+### Strategy
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/avanceventurelab/avl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+It's a marathon, not a sprint.
