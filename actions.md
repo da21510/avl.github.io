@@ -1,10 +1,11 @@
-### Actions Expected
+## Actions Expected
 
-Be honest
-We are built on trust — always be honest with your team and with yourself 
-We do not tolerate dishonesty 
-Truth — an accurate understanding of reality — is the essential foundation for producing good outcomes
-Act with integrity
+### Be Honest
+* We are built on trust — always be honest with your team and with yourself 
+* We do not tolerate dishonesty 
+* Truth — an accurate understanding of reality — is the essential foundation for producing good outcomes
+
+### Act with integrity
 Practice and demand integrity from your team
 Do not let anything stand in the way of integrity, truth, and transparency
 Be polite, professional, and respectful, but firm
