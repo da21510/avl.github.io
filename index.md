@@ -1,3 +1,10 @@
+---
+layout: default
+title: Principles
+description: Build Extraordinary Products
+navigation_weight: 1
+---
+
 ## Principles
 
 We are one team working towards a common goal: we believe technology, social responsibility, and new ideas about how to create value are more important than ever before. We believe the quality standards of our product, and its experience, can never be compromised. We are honest, people-first, and operate with integrity.  We value offering practical solutions and providing unique experience to our customers, over financial results.
