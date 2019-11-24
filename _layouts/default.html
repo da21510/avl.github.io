@@ -1,4 +1,10 @@
-<nav class="main-nav">
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <nav class="main-nav">
   <ul>
     {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
     {% for p in navigation_pages %}
@@ -12,3 +18,7 @@
     {% endfor %}
   </ul>
 </nav>
+  <body>
+    {{ content }}
+  </body>
+</html>
