@@ -1,7 +1,4 @@
----
-layout: page
-title: Actions Expected
----
+### Actions Expected
 
 Be honest
 We are built on trust — always be honest with your team and with yourself 
