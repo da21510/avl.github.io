@@ -21,7 +21,6 @@
   </head>
 
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
@@ -35,9 +34,9 @@
       {% endif %}
     </header>
 
-      <nav class="main-nav">
-        <ul>
-          {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
+    <nav class="main-nav">
+      <ul>
+        {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
           {% for p in navigation_pages %}
             {% if p.navigation_weight %}
               <li>
@@ -45,10 +44,10 @@
                   {{ p.title }}
                 </a>
               </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </nav>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
