@@ -1,3 +1,9 @@
+---
+layout: default
+title: Actions Expected
+navigation_weight: 1
+---
+
 ## Actions Expected
 
 ### Be Honest
