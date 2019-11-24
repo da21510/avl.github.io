@@ -4,9 +4,9 @@ title: Framework for Effective Communication
 navigation_weight: 2
 ---
 
-1. ## Framework for Effective Communication
+## Framework for Effective Communication
 
-1. ### Take notes
+### Take notes
 * Capture in bullet points. Process, synthesize, and frame in real time.
 
 ### Don’t criticize or complain
