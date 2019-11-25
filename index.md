@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Principles
-description: Build Extraordinary Products
+description: "I am not a product of my circumstances. I am a product of my decisions."
 navigation_weight: 1
 ---
 
