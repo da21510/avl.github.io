@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deliverables Etiquette
-description: Best Practices
+description: "Great things are done by a series of small things done together."
 navigation_weight: 7
 ---
 

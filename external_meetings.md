@@ -1,7 +1,7 @@
 ---
 layout: default
 title: External Meetings
-description: Best Practices
+description: "What you lack in talent can be made up with desire, hustle, and giving 110% all the time."
 navigation_weight: 8
 ---
 

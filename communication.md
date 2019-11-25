@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Framework for Effective Communication
-description: Best Practices
+description: "Wise men speak because they have something to say; Fools because they have to say something."
 navigation_weight: 3
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Management's Responsibility
-description: Best Practices
+description: “Hire people who are better than you are, then leave them to get on with it. Look for people who will aim for the remarkable, who will not settle for the routine.”
 navigation_weight: 9
 ---
 

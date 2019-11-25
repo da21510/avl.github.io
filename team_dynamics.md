@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Team Dynamics Expectations
-description: Best Practices
+description: "If everyone is moving forward together, then success takes care of itself."
 navigation_weight: 4
 ---
 

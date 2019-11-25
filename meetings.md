@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Protocol for Meetings
-description: Best Practices
+description: “I think there needs to be a meeting to set an agenda for more meetings about meetings.”
 navigation_weight: 5
 ---
 
