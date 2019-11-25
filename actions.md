@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Actions Expected
-description: > "Perfect is the enemy of the good."
+description: "Perfect is the enemy of the good."
 navigation_weight: 2
 ---
 
