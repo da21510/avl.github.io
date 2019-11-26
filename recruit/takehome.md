@@ -6,7 +6,7 @@ description: Because we value your time.
 
 ## Why we do take home exams?
 
-### 1. Stop wasting time practicing on LeetCode.
+### 1. Stop wasting time practicing LeetCode
 * You won't need to spend time practicing, preparing, or studying for our interview process.
 * Real developers will never have to implement binary search or bubble sort, so we don't waste your time on irrelevant tests for the sake of testing.
 
