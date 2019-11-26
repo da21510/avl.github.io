@@ -23,5 +23,5 @@ toc:
       - page: Take Home Exams
         url: /recruit/takehome.html
         subsubfolderitems:
-          - page: Full Stack Developer
-            url: /recruit/fullstackdev.html
+          - page: Web Developer
+            url: /recruit/webdev.html

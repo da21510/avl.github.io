@@ -1,14 +1,27 @@
 ---
 layout: default
-title: Full Stack Developer
+title: Web Developer
 description: Take Home Exam
 ---
 
-## Exam Description
-1. You will build and launch 1 fully functional web app (RWD) in **2 hours**
-1. You choose the programming language and framework.
-	1. Choose language and framework you are the most familiar and proficient in. However, we use JS, Express, Node, and React Redux at AVL.
-1. We will ask you to spin up and host your app for 1 week.
+## For Positions
+1. Full Stack Developer
+1. JavaScript Developer
+1. Front-End Developer
+1. Back-End Developer
+
+## Exam Instructions
+1. You will have **2 hours**.
+1. You will be given a list of web app features at the start of the exam. 
+1. **Pick a few features.**
+	1. You can choose and implement features you're most interested in.
+1. **Any framework.** You choose the programming language and framework.
+	1. Choose language and framework you are the most familiar and proficient in. 
+	1. However, we use **JS, Express, Node, and React Redux at AVL.**
+	1. **Modern RWD.** Bonus points for fully responsive web / mobile design.
+1. **Quality over quantity.** We value working prototypes, so make sure your site is live and running before you move onto additional features.
+1. **Reuse and leverage.** We highly encourage you to reuse other people's work. Don't reinvent the wheel.
+1. **Self host.** We will ask you to spin up and host your app for 1 week.
 
 ## How You Will Be Evaluated
 * Our exam is designed to be an accurate reflection of the type of work you will be doing at our fast growing, lean startup. 
@@ -34,3 +47,8 @@ description: Take Home Exam
 	1. Open a port that is more secure than commonly scanned ports (e.g. Port 22)
 	1. Make sure firewall configured so you can see your web page outside of your local area network.
 1. **GitHub Account.** Make sure you have a public GitHub account that you can host your exam submission code for us to evaluate.
+
+## How to Submit
+1. Upload code to public github or gitlab account.
+1. Run your app in production for 1 week.
+1. **Please submit exam by completing this [survey](https://forms.gle/fNj5fj2hbwwPQ9Bk9)**
