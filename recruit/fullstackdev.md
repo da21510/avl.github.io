@@ -6,7 +6,8 @@ description: Take Home Exam
 
 ## Exam Description
 1. You will build and launch 1 fully functional web app (RWD) in **2 hours**
-1. You choose the programming language and framework. (Choose language and framework you are the most familiar and proficient in. However, we use JS, Express, Node, and React Redux at AVL)
+1. You choose the programming language and framework.
+	1. Choose language and framework you are the most familiar and proficient in. However, we use JS, Express, Node, and React Redux at AVL.
 1. We will ask you to spin up and host your app for 1 week.
 
 ## How You Will Be Evaluated
