@@ -20,3 +20,9 @@ toc:
         url: /external_meetings.html
       - page: Management's Responsibility
         url: /management.html
+  - title: Recruiting
+    subfolderitems:
+      - page: Take Home Exams
+        subsubfolderitems:
+          - page: Full Stack Developer
+          - url: /fullstackdev.html
