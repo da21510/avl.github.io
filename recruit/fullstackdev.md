@@ -12,7 +12,8 @@ description: Take Home Exam
 
 ## How You Will Be Evaluated
 * Our exam is designed to be an accurate reflection of the type of work you will be doing at our fast growing, lean startup. 
-* Your Engineer Level (E0-10) and therefore salary package will be decided by the completeness of your web app and the quality of your work. The more functional features you are able to complete on our checklist, the higher your engineering/salary level.
+* Your Engineer Level (E0-10) and therefore salary package will be decided by the completeness of your web app and the quality of your work. 
+	* The more functional features you are able to complete on our checklist, the higher your engineering/salary level.
 
 ### We value:
 1. **Speed.** How quickly can you build a working app with a list of features?
