@@ -1,18 +1,21 @@
-- title: Principles
-  url: /index.html
-- title: Actions Expected
-  url: /actions.html
-- title: Effective Communication
-  url: /communication.html
-- title: Team Dynamics Expectation
-  url: /team_dynamics.html
-- title: Protocol for Meetings
-  url: /meetings.html
-- title: Written Communication Etiquette
-  url: /written.html
-- title: Deliverables Etiquette
-  url: /deliverables.html
-- title: External Meetings
-  url: /external_meetings.html
-- title: Management's Responsibility
-  url: /management.html
+toc:
+  - title: Principles
+    subfolderitems:
+      - page: Principles
+        url: /index.html
+      - page: Actions Expected
+        url: /actions.html
+      - page: Effective Communication
+        url: /communication.html
+      - page: Team Dynamics Expectation
+        url: /team_dynamics.html
+      - page: Protocol for Meetings
+        url: /meetings.html
+      - page: Written Communication Etiquette
+        url: /written.html
+      - page: Deliverables Etiquette
+        url: /deliverables.html
+      - page: External Meetings
+        url: /external_meetings.html
+      - page: Management's Responsibility
+        url: /management.html
