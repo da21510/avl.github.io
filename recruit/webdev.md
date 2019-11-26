@@ -32,7 +32,7 @@ description: Take Home Exam
 1. **Speed.** How quickly can you build a working app with a list of features?
 1. **Code Quality.** How easy is it for other engineers to maintain your app?
 
-### We will evaluate:
+### We will look at:
 1. Your live web app with features as described by the exam, hosted on your own computer.
 	1. **Functional and working.** We value functional, working prototypes, so make sure your site is live and running before you move onto additional features. Before your exam date to save time, we recommend setting a blank single page site on your development machine accessible on the web.
 	1. **Quality over quantity.** We would rather you focus on fewer features that are working and bug-free, rather than a bunch of broken, buggy features.
