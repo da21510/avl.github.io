@@ -25,4 +25,4 @@ toc:
       - page: Take Home Exams
         subsubfolderitems:
           - page: Full Stack Developer
-          - url: /fullstackdev.html
+            url: /fullstackdev.html
