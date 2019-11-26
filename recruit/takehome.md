@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Take Home Exam
+title: Take Home Exam Manifesto
 description: Because we value your time.
 ---
 
