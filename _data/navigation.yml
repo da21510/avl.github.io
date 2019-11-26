@@ -2,24 +2,22 @@ toc:
   - title: Principles
     url: /index.html
     subfolderitems:
-      - page: Principles
-        url: /index.html
       - page: Actions Expected
-        url: /actions.html
+        url: /principles/actions.html
       - page: Effective Communication
-        url: /communication.html
+        url: /principles/communication.html
       - page: Team Dynamics Expectation
-        url: /team_dynamics.html
+        url: /principles/team_dynamics.html
       - page: Protocol for Meetings
-        url: /meetings.html
+        url: /principles/meetings.html
       - page: Written Communication Etiquette
-        url: /written.html
+        url: /principles/written.html
       - page: Deliverables Etiquette
-        url: /deliverables.html
+        url: /principles/deliverables.html
       - page: External Meetings
-        url: /external_meetings.html
+        url: /principles/external_meetings.html
       - page: Management's Responsibility
-        url: /management.html
+        url: /principles/management.html
   - title: Recruiting
     subfolderitems:
       - page: Take Home Exams
