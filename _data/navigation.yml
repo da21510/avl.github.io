@@ -21,7 +21,7 @@ toc:
   - title: Recruiting
     subfolderitems:
       - page: Take Home Exams
-        ur: /recruit/takehome.html
+        url: /recruit/takehome.html
         subsubfolderitems:
           - page: Full Stack Developer
             url: /recruit/fullstackdev.html
