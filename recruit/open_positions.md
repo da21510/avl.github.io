@@ -55,35 +55,54 @@ Full Time | Remote | Taipei | Web Developer
 
 ---
 
-### [Python Developer]({{ site.baseurl }}/recruit/jd_pydev.html)
+### [Python Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/python-software-engineer-can-work-remotely)
 Full Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}
 
 ---
 
-### [Mobile Developer]({{ site.baseurl }}/recruit/jd_mobiledev.html)
+### [iOS/Android Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android)
 Full Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}
 
 ---
 
-### [C++ Developer]({{ site.baseurl }}/recruit/jd_cdev.html)
+### [C++ Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/c-software-engineer-can-work-remotely)
 Full Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}
 
 ---
 
-### [DevOps Engineer]({{ site.baseurl }}/recruit/jd_devops.html)
+### [DevOps Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/devops-sre-engineer-remote-work)
 Full Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}
 
 ---
 
-### [QC/QA Engineer]({{ site.baseurl }}/recruit/jd_qcqa.html)
+### [QC/QA Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/qa-qc-engineer-remote-work)
+Full Time | Remote | Taipei
+
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+
+---
+
+### [Data Scientist](https://www.cakeresume.com/companies/avance-venture-lab/jobs/data-analysis-engineer-remote-work)
+Full Time | Remote | Taipei
+
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+
+---
+
+
+## Design
+
+---
+
+### [Graphic UX Designer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8)
 Full Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}
@@ -92,6 +111,9 @@ Full Time | Remote | Taipei
 
 ## Internship
 
-## Design
+---
 
+### [Student Intern](https://www.avancevl.com/students)
+Part Time | Remote | Taipei
+---
 
