@@ -12,7 +12,7 @@ description: You are a full stack web ninja
 ## Description
 - [Team Culture]({{ site.baseurl }}/principles/princples.html)
 - [Employee Benefits]({{ site.baseurl }}/people/benefits.html)
-- [Salary Levels]({{ site.baseurl }}/people/engineering_levels.html)
+- [Salary Levels]({{ site.baseurl }}/people/engineering_level.html)
 - [Interview Process]({{ site.baseurl }}/recruit/interview_process.html)
 
 ## Requirements
