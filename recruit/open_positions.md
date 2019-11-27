@@ -18,8 +18,6 @@ We hope you apply to one of our open positions below.
 
 ## Engineering
 
----
-
 ### [Full Stack Developer]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
 Full Time | Remote | Taipei | Web Developer
 
@@ -95,28 +93,21 @@ Full Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}
 
----
-
 
 ## Design
-
----
 
 ### [Graphic UX Designer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8)
 Full Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}
 
----
 
 ## Internship
 
----
 
 ### [Student Intern](https://www.avancevl.com/students)
 Part Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}
 
----
 
