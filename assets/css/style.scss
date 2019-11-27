@@ -9,11 +9,11 @@
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     color: #ff6f61;
 }
-.pagebtn {
+.page-btn {
 	color: #002fa7;
 	border-color: #002fa7;
 
-&:hover {
-    color: rgba(200, 200, 200, 0.8);
-  }
+	&:hover {
+		color: rgba(150, 150, 1500, 0.8);
+	}
 }
