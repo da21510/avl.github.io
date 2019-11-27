@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AVL
-description: "I am not a product of my circumstances. I am a product of my decisions."
+description: "Open Sourced Company"
 ---
 
 ## Radical Transparency
