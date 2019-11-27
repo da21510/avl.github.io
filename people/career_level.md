@@ -15,5 +15,5 @@ Has the individual's team reached its annual OKRs? How much is the under or over
 ## 3. Peer Performance Review
 How is the individual contributor reviewed by his or her peers?
 
-## 4. Managemr Performance Review
+## 4. Manager Performance Review
 How does the individual contributor's manager review his or her performance for the year?

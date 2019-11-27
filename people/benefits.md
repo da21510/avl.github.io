@@ -24,10 +24,6 @@ description: Seeking Engineers, Designers, and Inventors
 * Rotational roles to explore non-engineering functions
 * Opportunity for overseas work opportunities (US, China, Europe) 
 
-## Office benefits
-* Unlimited snack, tea, coffee
-* Weekly afternoon tea
-
 ## Team building & networking events
 * Monthly employee activities: lunch, dinner, bar hop, sports, hiking, games, escape the room
 * Monthly organized talks and events
