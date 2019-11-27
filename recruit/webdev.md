@@ -5,10 +5,11 @@ description: Take Home Exam
 ---
 
 ## For Positions
-1. Full Stack Developer
-1. JavaScript Developer
-1. Front-End Developer
-1. Back-End Developer
+1. [Full Stack Developer]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
+1. [JavaScript Developer]({{ site.baseurl }}/recruit/jd_jsdev.html)
+1. [React Developer]({{ site.baseurl }}/recruit/jd_reactdev.html)
+1. [Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
+1. [Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
 
 ## Exam Instructions
 1. You will have **2 hours**.
