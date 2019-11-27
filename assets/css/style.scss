@@ -14,7 +14,8 @@
 	border-color: #002fa7;
 
 	&:hover {
-		color: #ff7164;
-		border-color: #002fa7;
+		color: rgba(255, 255, 255, 0.8);
+	    text-decoration: none;
+	    background-color: #002fa7;
 	}
 }
