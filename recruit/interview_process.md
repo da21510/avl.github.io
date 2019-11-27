@@ -15,8 +15,8 @@ description: Seeking Engineers, Designers, and Inventors
 
 ## Quick decision and onboarding
 
-| # | Stage | Time Duration | Evaluation |
-| --- | --- | --- | --- |
+| # | Stage | Time Duration |
+| --- | --- | --- |
 | 1 | Offer Decision | 2 week |
 | 2 | Probationary Trial Period | 4 month |
 | 3 | Full time employment | N/A |
