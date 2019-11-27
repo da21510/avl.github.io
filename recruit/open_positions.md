@@ -93,6 +93,7 @@ Full Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}
 
+---
 
 ## Design
 
@@ -101,6 +102,7 @@ Full Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}
 
+---
 
 ## Internship
 
@@ -110,4 +112,4 @@ Part Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}
 
-
+---
