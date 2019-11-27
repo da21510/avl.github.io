@@ -4,12 +4,16 @@ title: Full Stack Developer
 description: You are a full stack web ninja
 ---
 
+# Full Stack Developer
+
+| Employment Type | Full Time |
+| Location | Remote, Taipei |
+
 ## Description
-- [Culture]({{ site.baseurl }}/principles/princples.html)
+- [Team Culture]({{ site.baseurl }}/principles/princples.html)
 - [Employee Benefits]({{ site.baseurl }}/people/benefits.html)
 - [Salary Levels]({{ site.baseurl }}/people/engineering_levels.html)
 - [Interview Process]({{ site.baseurl }}/recruit/interview_process.html)
-
 
 ## Requirements
 
