@@ -6,8 +6,8 @@ description: You are a full stack web ninja
 
 # Full Stack Developer
 
-| Employment Type | Full Time |
-| Location | Remote, Taipei |
+| **Employment Type** | Full Time |
+| **Location** | Remote, Taipei |
 
 ## Description
 - [Team Culture]({{ site.baseurl }}/principles/princples.html)
