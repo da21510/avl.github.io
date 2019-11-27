@@ -42,4 +42,4 @@ description: You are a full stack web ninja
 - Enjoys problem solving
 - Customer driven
 
-[Apply Now]({{ site.job_form_url }}){: .pagebtn.btn}
+[Apply Now]({{ site.job_form_url }}){: .btn.pagebtn}
