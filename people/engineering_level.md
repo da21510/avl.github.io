@@ -4,7 +4,7 @@ title: Engineering Levels
 description: Rewarding technical skills objectively
 ---
 
-## Engineering levels for new hires are determined by a take-home exam.
+## Engineering levels for new hires are determined by a [take-home exam.]({{ site.baseurl }}recruit/takehome.html)
 
 | Level | Title | Monthly Salary |
 | --- | --- | --- |
