@@ -19,6 +19,7 @@ toc:
       - page: Management's Responsibility
         url: /principles/management.html
   - title: Recruiting
+    url: /recruit/recruit.html
     subfolderitems:
       - page: Take Home Exams
         url: /recruit/takehome.html
