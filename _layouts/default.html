@@ -35,7 +35,11 @@
     </header>
 
     <main id="content" class="main-content" role="main">
+      
+      {{ content }}
+
       <nav class="main-nav">
+        <hr />
         {% if site.data.navigation.toc[0] %}
           {% for item in site.data.navigation.toc %}
             <h3>
@@ -59,10 +63,6 @@
             {% endfor %}
         {% endif %}
       </nav>
-
-      <hr />
-
-      {{ content }}
 
       <footer class="site-footer">
         <span class="site-footer-owner"><a href="https://www.avancevl.com/?utm_source=githubpage">Avance Venture Lab</a></span>
