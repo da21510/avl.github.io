@@ -16,9 +16,6 @@ We hope you apply to one of our open positions below.
 
 # Open Positions
 
-## Internship
-
-
 ## Engineering
 
 ---
@@ -43,6 +40,8 @@ Full Time | Remote | Taipei
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}
 
 ---
+
+## Internship
 
 ## Design
 
