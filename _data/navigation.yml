@@ -25,8 +25,8 @@ toc:
     subfolderitems:
       - page: Employee Benefits
         url: /people/benefits.html
-      - page: Career Level & Promotion
-        url: /people/career_level.html
+      - page: Compensation
+        url: /people/compensation.html
         subsubfolderitems:
           - page: Engineer Level
             url: /people/engineering_level.html

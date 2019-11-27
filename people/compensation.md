@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Career Levels & Promotion
+title: Compensation
 description: Fulfill your potential
 ---
 
-## Promotions are decided annually with several objective evaluations:
+## Salary, end-year bonus, promotions are decided annually with several objective evaluations:
 
 ### 1. Company OKRs
 Has the company as whole reached its annual OKRs? How much is the under or over performance?
