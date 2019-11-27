@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Career Levels & Promotion
-description: Full your potential
+description: Fulfill your potential
 ---
 
 ## Promotions are decided annually with several objective evaluations:
