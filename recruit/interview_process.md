@@ -4,7 +4,7 @@ title: Interview Process
 description: Seeking Engineers, Designers, and Inventors
 ---
 
-## Interview Process, Total Time Less Than 3 Hours
+## Total interview process takes less than 3 hours of your time
 
 | # | Stage | Time Duration | Evaluation |
 | --- | --- | --- | --- |
@@ -15,5 +15,10 @@ description: Seeking Engineers, Designers, and Inventors
 | 5 | Offer Decision | 2 week | N/A |
 | 6 | Probationary Trial Period | 4 month | N/A |
 | 7 | Full time employment | N/A | N/A |
+
+## Exploding offer deadlines
+
+If you already have an exploding offer, please let us know and we can expediate our process to accomodate your deadlines.
+
 
 ## [Apply Now]({{ site.job_form_url }})
