@@ -18,6 +18,16 @@ toc:
         url: /principles/external_meetings.html
       - page: Management's Responsibility
         url: /principles/management.html
+  - title: People
+    url: /people/people.html
+    subfolderitems:
+      - page: Benefits
+        url: /people/benefits.html
+      - page: Career Level
+        url: /people/career_level.html
+        subsubfolderitems:
+          - page: Engineer Level
+            url: /people/engineering_level.html
   - title: Recruiting
     url: /recruit/recruit.html
     subfolderitems:
