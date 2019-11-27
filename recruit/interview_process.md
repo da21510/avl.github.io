@@ -9,7 +9,7 @@ description: Seeking Engineers, Designers, and Inventors
 | # | Stage | Time Duration | Evaluation |
 | --- | --- | --- | --- |
 | 1 | [Online Application]({{ site.job_form_url }}) | 15 min | Cultural Fit |
-| 2 | [Take Home Exam]({{ site.baseurl }}recruit/takehome.html) | 2 hour | Technical |
+| 2 | [Take Home Exam]({{ site.baseurl }}/recruit/takehome.html) | 2 hour | Technical |
 | 3 | Phone Interview | 30 min | Personality |
 | 4 | In-Person Interview | 1 hour | Personality |
 
