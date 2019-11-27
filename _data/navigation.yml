@@ -23,7 +23,7 @@ toc:
   - title: People
     url: /people/people.html
     subfolderitems:
-      - page: Benefits
+      - page: Employee Benefits
         url: /people/benefits.html
       - page: Career Level & Promotion
         url: /people/career_level.html
@@ -33,6 +33,10 @@ toc:
   - title: Recruiting
     url: /recruit/recruit.html
     subfolderitems:
+      - page: Open Positions
+        url: /recruit/open_positions.html
+      - page: Interview Process
+        url: /recruit/interview_process.html
       - page: Take Home Exams
         url: /recruit/takehome.html
         subsubfolderitems:

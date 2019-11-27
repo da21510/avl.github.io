@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Benefits
-description: Seeking Engineers, Designers, and Inventors
+title: Employee Benefits
+description: “Home is where our story begins…”
 ---
 
 ## Compensation
@@ -16,7 +16,6 @@ description: Seeking Engineers, Designers, and Inventors
 * Paid sick days
 * Health insurance coverage
 * Annual paid time off
-
 
 ## Work flexibility
 * Flexible working hours
