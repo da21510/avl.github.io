@@ -14,6 +14,7 @@ description: You are a full stack web ninja
 - [Employee Benefits]({{ site.baseurl }}/people/benefits.html)
 - [Salary Levels]({{ site.baseurl }}/people/engineering_level.html)
 - [Interview Process]({{ site.baseurl }}/recruit/interview_process.html)
+- [Expectations]({{ site.baseurl }}/principles/actions.html)
 
 ## Requirements
 
@@ -36,12 +37,4 @@ description: You are a full stack web ninja
 - Passionate about creating problem-solving products
 - GitHub profile preferred in addition to a resume
 
-## [Expectations]({{ site.baseurl }}/principles/actions.html)
-- Eager to learn and grow
-- Actively contributing
-- Enjoys problem solving
-- Customer driven
-  
-
-  
 [Apply Now]({{ site.job_form_url }}){: .btn#page-btn}
