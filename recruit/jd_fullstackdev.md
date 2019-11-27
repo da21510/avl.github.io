@@ -10,7 +10,7 @@ description: You are a Full Stack Web Ninja
 | **Location** | Remote, Taipei |
 
 ## Description
-- [Team Culture]({{ site.baseurl }}/principles/princples.html)
+- [Team Culture]({{ site.baseurl }}/principles/principles.html)
 - [Employee Benefits]({{ site.baseurl }}/people/benefits.html)
 - [Salary Levels]({{ site.baseurl }}/people/engineering_level.html)
 - [Interview Process]({{ site.baseurl }}/recruit/interview_process.html)
