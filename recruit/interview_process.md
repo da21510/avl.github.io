@@ -26,4 +26,4 @@ description: Seeking Engineers, Designers, and Inventors
 If you already have an exploding offer, please let us know and we can expediate our process to accomodate your deadlines.
 
 
-[Apply Now]({{ site.job_form_url }}){: .btn.pagebtn}
+[Apply Now]({{ site.job_form_url }}){: .btn#pagebtn}
