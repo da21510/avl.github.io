@@ -10,5 +10,10 @@
     color: #ff6f61;
 }
 .pagebtn {
-	background-color: #002fa7;
+	color: #002fa7;
+	border-color: #002fa7;
+
+&:hover {
+    color: rgba(200, 200, 200, 0.8);
+  }
 }
