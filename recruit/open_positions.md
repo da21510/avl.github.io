@@ -21,8 +21,8 @@ We hope you apply to one of our open positions below.
 
 ## Engineering
 
-# [Full Stack Developer]({{ site.baseurl }}/recruit/fullstackdev.html)
-Full Time | Remote | Taipei
+### [Full Stack Developer]({{ site.baseurl }}/recruit/fullstackdev.html)
+[Full Time]({{ site.baseurl }}/recruit/fullstackdev.html){: .btn#page-btn} | [Remote]({{ site.baseurl }}/recruit/fullstackdev.html){: .btn#page-btn} | [Taipei]({{ site.baseurl }}/recruit/fullstackdev.html){: .btn#page-btn}
 
 ## Design
 
