@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AVL
-description: "Open Sourced Company"
+description: "An Open Sourced Company"
 ---
 
 ## Radical Transparency

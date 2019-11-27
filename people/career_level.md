@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Career Levels & Promotions
+title: Career Levels & Promotion
 description: Full your potential
 ---
 
