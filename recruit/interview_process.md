@@ -4,7 +4,7 @@ title: Interview Process
 description: Seeking Engineers, Designers, and Inventors
 ---
 
-## Total interview process takes less than 3 hours of your time
+## Entire interview process takes less than 3 hours
 
 | # | Stage | Time Duration | Evaluation |
 | --- | --- | --- | --- |
@@ -12,9 +12,14 @@ description: Seeking Engineers, Designers, and Inventors
 | 2 | [Take Home Exam]({{ site.baseurl }}recruit/takehome.html) | 2 hour | Technical |
 | 3 | Phone Interview | 30 min | Personality |
 | 4 | In-Person Interview | 1 hour | Personality |
-| 5 | Offer Decision | 2 week | N/A |
-| 6 | Probationary Trial Period | 4 month | N/A |
-| 7 | Full time employment | N/A | N/A |
+
+## Quick decision and onboarding
+
+| # | Stage | Time Duration | Evaluation |
+| --- | --- | --- | --- |
+| 1 | Offer Decision | 2 week |
+| 2 | Probationary Trial Period | 4 month |
+| 3 | Full time employment | N/A |
 
 ## Exploding offer deadlines
 
