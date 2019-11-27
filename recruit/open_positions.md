@@ -21,20 +21,69 @@ We hope you apply to one of our open positions below.
 ---
 
 ### [Full Stack Developer]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
-Full Time | Remote | Taipei
+Full Time | Remote | Taipei | Web Developer
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}
 
 ---
 
 ### [JavaScript Developer]({{ site.baseurl }}/recruit/jd_jsdev.html)
-Full Time | Remote | Taipei
+Full Time | Remote | Taipei | Web Developer
+
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+
+---
+
+### [React Developer]({{ site.baseurl }}/recruit/jd_reactdev.html)
+Full Time | Remote | Taipei | Web Developer
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}
 
 ---
 
 ### [Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
+Full Time | Remote | Taipei | Web Developer
+
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+
+---
+
+### [Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
+Full Time | Remote | Taipei | Web Developer
+
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+
+---
+
+### [Python Developer]({{ site.baseurl }}/recruit/jd_pydev.html)
+Full Time | Remote | Taipei
+
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+
+---
+
+### [Mobile Developer]({{ site.baseurl }}/recruit/jd_mobiledev.html)
+Full Time | Remote | Taipei
+
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+
+---
+
+### [C++ Developer]({{ site.baseurl }}/recruit/jd_cdev.html)
+Full Time | Remote | Taipei
+
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+
+---
+
+### [DevOps Engineer]({{ site.baseurl }}/recruit/jd_devops.html)
+Full Time | Remote | Taipei
+
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+
+---
+
+### [QC/QA Engineer]({{ site.baseurl }}/recruit/jd_qcqa.html)
 Full Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}
