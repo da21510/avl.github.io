@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Full Stack Developer
-description: You are a full stack web ninja
+description: You are a Full Stack Web Ninja
 ---
 
 # Full Stack Developer
