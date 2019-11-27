@@ -25,6 +25,14 @@ We hope you apply to one of our open positions below.
 Full Time | Remote | Taipei
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}
 
+### [JavaScript Developer]({{ site.baseurl }}/recruit/jd_jsdev.html)
+Full Time | Remote | Taipei
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+
+### [Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
+Full Time | Remote | Taipei
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+
 ## Design
 
 
