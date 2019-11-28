@@ -53,42 +53,42 @@ Full Time | Remote | Taipei | Web Developer
 
 ---
 
-### [Python Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/python-software-engineer-can-work-remotely)
+### [Python Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/python-software-engineer-can-work-remotely){:target="_blank"}
 Full Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
-### [iOS/Android Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android)
+### [iOS/Android Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android){:target="_blank"}
 Full Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
-### [C++ Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/c-software-engineer-can-work-remotely)
+### [C++ Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/c-software-engineer-can-work-remotely){:target="_blank"}
 Full Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
-### [DevOps Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/devops-sre-engineer-remote-work)
+### [DevOps Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/devops-sre-engineer-remote-work){:target="_blank"}
 Full Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
-### [QC/QA Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/qa-qc-engineer-remote-work)
+### [QC/QA Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/qa-qc-engineer-remote-work){:target="_blank"}
 Full Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
-### [Data Scientist](https://www.cakeresume.com/companies/avance-venture-lab/jobs/data-analysis-engineer-remote-work)
+### [Data Scientist](https://www.cakeresume.com/companies/avance-venture-lab/jobs/data-analysis-engineer-remote-work){:target="_blank"}
 Full Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
@@ -97,7 +97,7 @@ Full Time | Remote | Taipei
 
 ## Design
 
-### [Graphic UX Designer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8)
+### [Graphic UX Designer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8){:target="_blank"}
 Full Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
@@ -106,8 +106,7 @@ Full Time | Remote | Taipei
 
 ## Internship
 
-
-### [Student Intern](https://www.avancevl.com/students)
+### [Student Intern](https://www.avancevl.com/students){:target="_blank"}
 Part Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
