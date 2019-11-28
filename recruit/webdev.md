@@ -53,3 +53,8 @@ description: Take Home Exam
 1. Upload code to public github or gitlab account.
 1. Run your app in production for 1 week.
 1. **Please submit exam by completing this [survey]({{ site.exam_submit_form_url }})**
+
+<br>
+<br>
+
+[Submit Exam]({{ site.exam_submit_form_url }}){: .btn#page-btn}
