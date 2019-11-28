@@ -52,7 +52,6 @@ var app = express();
 ```
 
 ```python
-
 ## Django
 from django.db import models
 

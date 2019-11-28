@@ -49,7 +49,6 @@ http.createServer(function (request, response) {
 // Express.js
 var express = require('express');
 var app = express();
-
 ```
 
 ## Requirements
