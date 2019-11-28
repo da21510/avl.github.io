@@ -21,77 +21,77 @@ We hope you apply to one of our open positions below.
 ### [Full Stack Developer]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
 Full Time | Remote | Taipei | Web Developer
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [JavaScript Developer]({{ site.baseurl }}/recruit/jd_jsdev.html)
 Full Time | Remote | Taipei | Web Developer
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [React Developer]({{ site.baseurl }}/recruit/jd_reactdev.html)
 Full Time | Remote | Taipei | Web Developer
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
 Full Time | Remote | Taipei | Web Developer
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
 Full Time | Remote | Taipei | Web Developer
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [Python Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/python-software-engineer-can-work-remotely)
 Full Time | Remote | Taipei
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [iOS/Android Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android)
 Full Time | Remote | Taipei
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [C++ Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/c-software-engineer-can-work-remotely)
 Full Time | Remote | Taipei
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [DevOps Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/devops-sre-engineer-remote-work)
 Full Time | Remote | Taipei
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [QC/QA Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/qa-qc-engineer-remote-work)
 Full Time | Remote | Taipei
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [Data Scientist](https://www.cakeresume.com/companies/avance-venture-lab/jobs/data-analysis-engineer-remote-work)
 Full Time | Remote | Taipei
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
@@ -100,7 +100,7 @@ Full Time | Remote | Taipei
 ### [Graphic UX Designer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8)
 Full Time | Remote | Taipei
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
@@ -110,6 +110,6 @@ Full Time | Remote | Taipei
 ### [Student Intern](https://www.avancevl.com/students)
 Part Time | Remote | Taipei
 
-[Apply]({{ site.job_form_url }}){: .btn#page-btn}
+[Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---

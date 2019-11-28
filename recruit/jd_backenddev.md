@@ -11,7 +11,7 @@ description: You are a Back-End Web Ninja
 
 <br>
 
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}
+[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ## Description
 - [Team Culture]({{ site.baseurl }}/principles/principles.html)
@@ -42,4 +42,4 @@ description: You are a Back-End Web Ninja
 
 <br>
 
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}
+[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
