@@ -41,7 +41,12 @@
         {% if site.data.navigation.toc[0] %}
           {% for item in site.data.navigation.toc %}
             <b>
-              <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+              {% if page.url == item.url %}
+                <a href="{{ site.baseurl }}{{ item.url }}" class="active">{{ item.title }}</a>
+              {% else %}
+                <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+              {% endif %}
+              }
             </b><br>
               {% if item.subfolderitems[0] %}
                 <ul>
