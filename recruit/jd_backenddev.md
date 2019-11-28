@@ -20,6 +20,37 @@ description: You are a Back-End Web Ninja
 - [Interview Process]({{ site.baseurl }}/recruit/interview_process.html)
 - [Expectations]({{ site.baseurl }}/principles/actions.html)
 
+### Back-End Stack
+```javascript
+// AVL's back-end stack
+
+// Node.js
+var http = require("http");
+http.createServer(function (request, response) {
+	// Hello World!
+}).listen(8081);
+
+// Express.js
+var express = require('express');
+var app = express();
+```
+
+```python
+
+## Django
+from django.db import models
+
+## Django Restframework
+from django.conf.urls import url, include
+from django.contrib.auth.models import User
+from rest_framework import routers, serializers, viewsets
+```
+
+```
+// SQL
+SELECT column1, column2, columnN FROM table_name;
+```
+
 ## Requirements
 
 ### Education & professional

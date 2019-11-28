@@ -36,6 +36,22 @@ import { createStore } from 'reduce';
 
 ```
 
+### Back-End Stack
+```javascript
+// AVL's back-end stack
+
+// Node.js
+var http = require("http");
+http.createServer(function (request, response) {
+	// Hello World!
+}).listen(8081);
+
+// Express.js
+var express = require('express');
+var app = express();
+
+```
+
 ## Requirements
 
 ### Education & professional
