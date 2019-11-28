@@ -6,9 +6,14 @@ description: “Home is where our story begins…”
 
 # Communication
 
+Please read [principles and best practices for effective communication.]({{ site.baseurl }}/principles/communication.html)
 
 ## Slack
-
+Slack is the primary means of communication within teams at AVL. The main development-focused channels are:
+* `#dev`
+* #dev-back-end
+* #dev-front-end
+* #devops
 
 ## Engineering Mailing List
 
