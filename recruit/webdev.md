@@ -55,6 +55,5 @@ description: Take Home Exam
 1. **Please submit exam by completing this [survey]({{ site.exam_submit_form_url }})**
 
 <br>
-<br>
 
 [Submit Exam]({{ site.exam_submit_form_url }}){: .btn#page-btn}
