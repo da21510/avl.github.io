@@ -20,6 +20,15 @@ description: You are a Front-End Web Ninja
 - [Interview Process]({{ site.baseurl }}/recruit/interview_process.html)
 - [Expectations]({{ site.baseurl }}/principles/actions.html)
 
+### Front-End Stack
+```javascript
+// AVL's front-end stack
+
+import React from 'react';
+import {Text, View} from 'react-native';
+
+```
+
 ## Requirements
 
 ### Education & professional
