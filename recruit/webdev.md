@@ -40,15 +40,14 @@ description: Take Home Exam
 1. Your code, hosted on Github. (This can serve as a portfolio for your future interviews and resume.)
 
 ## Pre-Exam Preparation
+> **IMPORTANT**
+> We highly, HIGHLY recommend you setup a live web server with a static web page (e.g. Django, Rails, Node.js) BEFORE your exam.
+> It will save you a lot of time during the exam.
+
 1. **Development Environment.** Setup a linux-based development environment. We recommend MacOS or Ubuntu.
 	1. Setup JavaScript, Python, or any language you wish to use.
 	1. Setup any web framework you’re most familiar with (e.g. Django, React.js, Node.js)
 	1. Setup IDEs or any developer tools to maximize your efficiency during the exam.
-
-> **IMPORTANT**
-> We HIGHLY recommend you setup a live web server with a static web page (e.g. Django, Rails, Node.js) BEFORE your exam.
-> It will save you a lot of time during the exam.
-
 1. **Self-Hosting Test.** Make sure you can host a webpage from you development box on the world wide web.
 	1. Open a port that is more secure than commonly scanned ports (e.g. Port 22)
 	1. Make sure firewall configured so you can see your web page outside of your local area network.
