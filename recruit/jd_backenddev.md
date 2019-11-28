@@ -9,6 +9,10 @@ description: You are a Back-End Web Ninja
 | **Employment Type** | Full Time |
 | **Location** | Remote, Taipei |
 
+<br>
+
+[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}
+
 ## Description
 - [Team Culture]({{ site.baseurl }}/principles/principles.html)
 - [Employee Benefits]({{ site.baseurl }}/people/benefits.html)
@@ -35,5 +39,7 @@ description: You are a Back-End Web Ninja
 - Quick learner, team player, proactive contributor, and self-motivated
 - Passionate about creating problem-solving products
 - GitHub profile preferred in addition to a resume
+
+<br>
 
 [Apply Now]({{ site.job_form_url }}){: .btn#page-btn}
