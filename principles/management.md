@@ -2,12 +2,11 @@
 layout: default
 title: Management's Responsibility
 description: “Hire people who are better than you are, then leave them to get on with it. Look for people who will aim for the remarkable, who will not settle for the routine.”
-navigation_weight: 9
 ---
 
-## External Meetings
+## Management's Responsibility
 
-In addition to all of the above, hold management accountable to provide the following:
+Hold management accountable to provide the following:
 
 ### 1. Make thoughtful and timely decisions
 
