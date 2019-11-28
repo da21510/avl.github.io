@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Engineering
-description: “Home is where our story begins…”
+description: “Engineers like to solve problems. If there are no problems handily available, they will create their own problems.”
 ---
 
 # Communication
