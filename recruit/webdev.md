@@ -12,7 +12,7 @@ description: Take Home Exam
 1. [Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
 
 ## Exam Instructions
-> **IMPORTANT**
+> **IMPORTANT:**
 > We highly, HIGHLY recommend you setup a live web server with a blank static web page (e.g. Django, Rails, Node.js) BEFORE your exam. It will save you a lot of time during the exam.
 
 1. You will have **2 hours**.
@@ -43,7 +43,7 @@ description: Take Home Exam
 1. Your code, hosted on Github. (This can serve as a portfolio for your future interviews and resume.)
 
 ## Pre-Exam Preparation
-> **IMPORTANT**
+> **IMPORTANT:**
 > We highly, HIGHLY recommend you setup a live web server with a blank static web page (e.g. Django, Rails, Node.js) BEFORE your exam. It will save you a lot of time during the exam.
 
 1. **Development Environment.** Setup a linux-based development environment. We recommend MacOS or Ubuntu.
