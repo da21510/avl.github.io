@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Employee Benefits
-description: “Home is where our story begins…”
+title: Benefits
+description: “Success has whatever elements you wish to contribute to it.”
 ---
 
 ## Compensation
 * Competitive industry salary
-* Compensation commensurate with experience
+* [Compensation commensurate with experience]({{ site.baseurl }}/people/compensation.html)
 * Annual performance-based bonus
 * Equity allocation
 
