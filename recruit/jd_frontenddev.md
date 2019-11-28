@@ -24,8 +24,15 @@ description: You are a Front-End Web Ninja
 ```javascript
 // AVL's front-end stack
 
+// React.js
 import React from 'react';
+
+// ReactNative.js
 import {Text, View} from 'react-native';
+
+// Redux
+import { Provider } from 'react-redux';
+import { createStore } from 'reduce';
 
 ```
 

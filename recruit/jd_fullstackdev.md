@@ -20,6 +20,22 @@ description: You are a Full Stack Web Ninja
 - [Interview Process]({{ site.baseurl }}/recruit/interview_process.html)
 - [Expectations]({{ site.baseurl }}/principles/actions.html)
 
+### Front-End Stack
+```javascript
+// AVL's front-end stack
+
+// React.js
+import React from 'react';
+
+// ReactNative.js
+import {Text, View} from 'react-native';
+
+// Redux
+import { Provider } from 'react-redux';
+import { createStore } from 'reduce';
+
+```
+
 ## Requirements
 
 ### Education & professional
