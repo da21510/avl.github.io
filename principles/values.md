@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Actions Expected
-description: "Perfect is the enemy of the good."
-navigation_weight: 2
+title: Values
+description: Actions Expected
 ---
 
-## Actions Expected
+## Values and Expectations
 
 ### 1. Be Honest
 * We are built on trust — always be honest with your team and with yourself 
