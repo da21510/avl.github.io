@@ -4,11 +4,11 @@ title: Strategy
 description: "Our Competitive Advantage"
 ---
 
-# Customer First
+## Customer First
 * Always be in communication with our customers, understanding who they are and what they want. 
 * Making customers happy is always a winning strategy.
 
-# Execute Fast
+## Execute Fast
 * Deliver features and value to our customers constantly; faster than the competition.
 	* **CI/CD** for continuous releases of new features to our customers.
 	* **Weekly sprints** for fast feedback loops.
@@ -18,7 +18,7 @@ description: "Our Competitive Advantage"
 	* **ORKs** define clear targets for where our KPIs should be.
 	* **Agile** sprint schedule to define clear milestones and checkpoints for OKRs.
 
-# Strict Cost Control
+## Strict Cost Control
 * Always be in the driver seat of our operating cost and seek out positive cash flow.
 	* **ROI.** Real-time measurement of the ROI of all of our projects and features.
 	* Always be cash-flow positive or maintain a 2-year operating runway.
@@ -26,9 +26,9 @@ description: "Our Competitive Advantage"
 	* **Quarterly evaluation** of all aspects of our business.
 * Flexible in seeking out new and global operating solutions.
 	* **Remote work** allowed
-	* **Global hiring** outside of Silicon Valley
+	* **Global hiring** for the best talent. Not every talented engineer can be in Silicon Valley.
 
-# First-Tier Engineering
+## First-Tier Engineering
 * Hire only the best engineering talent.
 	* [**Rigorous hiring process**]({{ site.baseurl }}/recruit/interview_process.html) to seek out the best engineering talent.
 	* [**Take home exams**]({{ site.baseurl }}/recruit/takehome.html) that accurately reflect real work.
