@@ -21,6 +21,7 @@ description: "Our Competitive Advantage"
 # Cost Control
 * Always be in the driver seat of our operating cost and seek out positive cash flow.
 	* **ROI.** Real-time measurement of the ROI of all of our projects and features.
+	* Always be cash-flow positive or maintain a 2-year fundraising runway.
 * Relentless in increasing the operating efficiency of all aspects of our business.
 	* **Quarterly evaluation** of all aspects of our business.
 * Flexible in seeking out new and global operating solutions.
