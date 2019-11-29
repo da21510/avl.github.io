@@ -14,11 +14,11 @@ description: You are a Back-End Web Ninja
 [Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ## Description
-- [Team Culture]({{ site.baseurl }}/principles/principles.html)
-- [Employee Benefits]({{ site.baseurl }}/people/benefits.html)
-- [Salary Levels]({{ site.baseurl }}/people/engineering_level.html)
-- [Interview Process]({{ site.baseurl }}/recruit/interview_process.html)
-- [Expectations]({{ site.url_jd_values }})
+- [Team Culture]({{ site.url_jd_culture}})
+- [Employee Benefits]({{ site.url_jd_benefits}})
+- [Salary Levels]({{ site.url_jd_salary}})
+- [Interview Process]({{ site.url_jd_interview_process}})
+- [Expectations]({{ site.url_jd_expectations }})
 
 ### Back-End Stack
 ```javascript
