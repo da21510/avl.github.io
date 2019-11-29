@@ -5,4 +5,4 @@ google_analytics: UA-140600686-5
 splash_btn_text: View Opportunities
 job_form_url: https://forms.gle/uuvw3TYH2YpZvT5m9
 exam_submit_form_url: https://forms.gle/LW9UAo2YWpUrgFLq6
-url_jd_expectations: {{ site.baseurl}}/values.html
+url_jd_expectations: "{{ site.baseurl }}/values.html"
