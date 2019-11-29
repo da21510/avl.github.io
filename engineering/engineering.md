@@ -26,7 +26,7 @@ All engineering tasks and features originate from a JIRA issues ticket. The tick
 
 Delivering value to our customers in the fastest way possible is the driver for how engineering processes are structured at AVL. Being able to execute as a velocity faster than the competition is absolutely paramount to the success of our business. As the old adage goes, time is money.
 
-## Measurement of Velocity
+## Measurement
 
 We measure velocity of work by dividing time into **1-week sprints**, and measuring the amount of work completed within each sprint. We use JIRA to manage your Agile sprint process. Each task is assigned a **Story Point**, which is a relative unit of work.
 
@@ -38,18 +38,18 @@ We track the number of story points completed within each sprint, and the summed
 
 We will compare your KPI across many sprints over sprints, with your peers within the same team, and across the firm.
 
-## OKRs
+### OKRs
 
 We will set a goal we hope each individual contributor is able to achive for their KPI number. This goal system that defines a certain KPI value at a certain point in time in the future, is a **Objective and Key Result (OKR)**. Each engineer will have OKRs for their KPIs.
 
 
-## Velocity vs. Stability
+## Iterations
 
 Prioritizing the velocity at which we deliver new value and features to our customers means a cosntantly changing product. We believe in the [**Innovator's Dilemma**](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma){:target="_blank"} and the constant need to innovate. 
 
 We believe in launching an imperfect product fast over delivering a perfect product. Iterate fast. Fail fast. Learn.
 
-## Velocity vs Refactoring
+## Refactoring
 
 Our philosophy on refactoring is that it must serve our customers. If refactoring will demomnstratably allow us serve our customers better, then we will refactor.
 
