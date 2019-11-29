@@ -18,8 +18,7 @@ description: Seeking Engineers, Designers, and Inventors
 | # | Stage | Time Duration |
 | --- | --- | --- |
 | 1 | Offer Decision | 2 week |
-| 2 | Probationary Trial Period | 4 month |
-| 3 | Full time employment | N/A |
+| 2 | Full time employment | N/A |
 
 ## Exploding offer deadlines
 
