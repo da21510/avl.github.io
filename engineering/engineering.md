@@ -24,6 +24,7 @@ All engineering tasks and features originate from a JIRA issues ticket. The tick
 
 <br>
 <br>
+---
 
 # Velocity of Work
 
@@ -60,6 +61,7 @@ In our experience, the best time to refactor is immmediately after a big product
 
 <br>
 <br>
+---
 
 # Code Standards
 
@@ -89,6 +91,7 @@ We follow [**Google Style Guides**](https://google.github.io/styleguide/){:targe
 
 <br>
 <br>
+---
 
 # Quality Control & Testing
 
@@ -98,6 +101,7 @@ We follow [**Google Style Guides**](https://google.github.io/styleguide/){:targe
 
 <br>
 <br>
+---
 
 # Produciton & Site Reliability
 
