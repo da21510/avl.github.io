@@ -14,11 +14,11 @@ description: You are a Front-End Web Ninja
 [Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ## Description
-- [Team Culture]({{ site.baseurl }}/principles/principles.html)
-- [Employee Benefits]({{ site.baseurl }}/people/benefits.html)
-- [Salary Levels]({{ site.baseurl }}/people/engineering_level.html)
-- [Interview Process]({{ site.baseurl }}/recruit/interview_process.html)
-- [Expectations]({{ site.baseurl }}/principles/actions.html)
+- [Team Culture]({{ site.baseurl }}{{ site.link_jd_culture }})
+- [Employee Benefits]({{ site.baseurl }}{{ site.link_jd_benefits }})
+- [Salary Levels]({{ site.baseurl }}{{ site.link_jd_salary}})
+- [Interview Process]({{ site.baseurl }}{{ site.link_jd_interview_process }})
+- [Expectations]({{ site.baseurl }}{{ site.link_jd_expectations }})
 
 ### Front-End Stack
 ```javascript
