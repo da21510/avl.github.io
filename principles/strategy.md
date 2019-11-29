@@ -29,8 +29,8 @@ description: "Our Competitive Advantage"
 
 # First-Tier Engineering
 * Hire only the best engineering talent.
-	* Rigorous hiring process to seek out the best engineering talent.
-	* Take home exams that accurately reflect real work.
+	* **Rigorous hiring process** to seek out the best engineering talent.
+	* **Take home exams** that accurately reflect real work.
 * Solid, robust engineering talent and management is absolutely necessary to execute fast and efficiently.
 	* Technical debt will slow down our ability to release new features to customers.
 	* Refactoring costs due to poor technical foundations will add up over time.
