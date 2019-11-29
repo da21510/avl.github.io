@@ -4,22 +4,23 @@ toc:
   - title: Principles
     url: /principles/principles.html
     subfolderitems:
-      - page: Actions Expected
-        url: /principles/actions.html
-      - page: Effective Communication
-        url: /principles/communication.html
-      - page: Team Dynamics Expectation
-        url: /principles/team_dynamics.html
-      - page: Protocol for Meetings
-        url: /principles/meetings.html
-      - page: Written Communication Etiquette
-        url: /principles/written_communication.html
-      - page: Deliverables Etiquette
-        url: /principles/deliverables.html
-      - page: External Meetings
-        url: /principles/external_meetings.html
-      - page: Management's Responsibility
-        url: /principles/management.html
+      - page: Values
+        url: /principles/values.html
+        subsubfolderitems:
+          - page: Effective Communication
+            url: /principles/communication.html
+          - page: Team Dynamics Expectation
+            url: /principles/team_dynamics.html
+          - page: Protocol for Meetings
+            url: /principles/meetings.html
+          - page: Written Communication Etiquette
+            url: /principles/written_communication.html
+          - page: Deliverables Etiquette
+            url: /principles/deliverables.html
+          - page: External Meetings
+            url: /principles/external_meetings.html
+          - page: Management's Responsibility
+            url: /principles/management.html
   - title: People
     url: /people/people.html
     subfolderitems:

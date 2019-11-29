@@ -18,7 +18,7 @@ description: You are a Back-End Web Ninja
 - [Employee Benefits]({{ site.baseurl }}/people/benefits.html)
 - [Salary Levels]({{ site.baseurl }}/people/engineering_level.html)
 - [Interview Process]({{ site.baseurl }}/recruit/interview_process.html)
-- [Expectations]({{ site.baseurl }}/principles/actions.html)
+- [Expectations]({{ site.url_jd_values }})
 
 ### Back-End Stack
 ```javascript
