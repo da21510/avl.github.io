@@ -22,6 +22,9 @@ You will be added to the relevant email lists as part of your onboarding process
 
 All engineering tasks and features originate from a JIRA issues ticket. The ticket will describe the features list, deliverables, story points, priority, and relevant manager. JIRA is the **primary software project management tool** used to manage software at our firm.
 
+<br>
+<br>
+
 # Velocity of Work
 
 Delivering value to our customers in the fastest way possible is the driver for how engineering processes are structured at AVL. Being able to execute as a velocity faster than the competition is absolutely paramount to the success of our business. As the old adage goes, time is money.
@@ -55,6 +58,9 @@ Our philosophy on refactoring is that it must serve our customers. If refactorin
 
 In our experience, the best time to refactor is immmediately after a big product launch. Refactoring should be done *before* adding any updates or new features to existing code. Developers also have more time to refactor immediatley after delivering a product to market.
 
+<br>
+<br>
+
 # Code Standards
 
 We are a strong adherent to coding standards, and code quality. 
@@ -81,11 +87,17 @@ We follow [**Google Style Guides**](https://google.github.io/styleguide/){:targe
 * Consistency in design and coding style.
 * Catching bugs, anti-patterns, and design flaws early.
 
+<br>
+<br>
+
 # Quality Control & Testing
 
 * Testing should be done by a different person than the one who wrote the code.
 * Therefore, testing is the responsiblity of QC / QA Engineers, and not the developers.
 * QC Engineers will write automated tests that run after each pull request into the main branch.
+
+<br>
+<br>
 
 # Produciton & Site Reliability
 
