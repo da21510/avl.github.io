@@ -24,4 +24,4 @@ Focus on delighting, building trust, and creating a loyal customer base.
 
 ### Strategy
 
-It's a marathon, not a sprint.
+[It's a marathon, not a sprint.]({{ site.baseurl }}/principles/strategy.html)
