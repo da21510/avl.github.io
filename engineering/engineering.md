@@ -16,7 +16,7 @@ Slack is the primary means of communication within teams at AVL. The main develo
 * `#devops`
 
 ## Engineering Mailing List
-
+You will be added to the relevant email lists as part of your onboarding process.
 
 ## JIRA Project Backlog
 

@@ -25,7 +25,9 @@ description: Take Home Exam
 	1. **Modern RWD.** Bonus points for fully responsive web / mobile design.
 1. **Quality over quantity.** We value working prototypes, so make sure your site is live and running before you move onto additional features.
 1. **Reuse and leverage.** We highly encourage you to reuse other people's work. Don't reinvent the wheel.
-1. **Self host.** We will ask you to spin up and host your app for 1 week.
+1. **Self or cloud host.** We will ask you to spin up and host your app for 1 week.
+	1. Your own self hosted server.
+	1. Cloud server, e.g. AWS, Heroku.
 
 ## How You Will Be Evaluated
 * Our exam is designed to be an accurate reflection of the type of work you will be doing at our fast growing, lean startup. 
@@ -50,10 +52,10 @@ description: Take Home Exam
 	1. Setup JavaScript, Python, or any language you wish to use.
 	1. Setup any web framework you’re most familiar with (e.g. Django, React.js, Node.js)
 	1. Setup IDEs or any developer tools to maximize your efficiency during the exam.
-1. **Self-Hosting Test.** Make sure you can host a webpage from you development box on the world wide web.
+1. **Self or Cloud Hosted Test.** Make sure you can host a webpage from your development box or cloud on the world wide web.
 	1. Open a port that is more secure than commonly scanned ports (e.g. Port 22)
-	1. Make sure firewall configured so you can see your web page outside of your local area network.
-1. **GitHub Account.** Make sure you have a public GitHub account that you can host your exam submission code for us to evaluate.
+	1. Make sure firewall configured so you can see your web page outside of your local area or cloud network.
+1. **GitHub or GitLab Account.** Make sure you have a public GitHub/GitLab account that you can host your exam submission code for us to evaluate.
 
 ## How to Submit
 1. Upload code to public github or gitlab account.
