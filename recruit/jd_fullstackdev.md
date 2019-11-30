@@ -43,10 +43,6 @@ description: You are a Full Stack Web Ninja
 - Passionate about creating problem-solving products
 - GitHub profile preferred in addition to a resume
 
-<br>
-
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
-
 ### Front-End Stack
 ```javascript
 // AVL's front-end stack
@@ -92,3 +88,7 @@ from rest_framework import routers, serializers, viewsets
 // SQL
 SELECT column1, column2, columnN FROM table_name;
 ```
+
+<br>
+
+[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}

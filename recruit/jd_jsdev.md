@@ -43,10 +43,6 @@ description: You are a JavaScript Ninja
 - Passionate about creating problem-solving products
 - GitHub profile preferred in addition to a resume
 
-<br>
-
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
-
 ### Front-End Stack
 ```javascript
 // AVL's front-end stack
@@ -76,3 +72,7 @@ http.createServer(function (request, response) {
 var express = require('express');
 var app = express();
 ```
+
+<br>
+
+[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
