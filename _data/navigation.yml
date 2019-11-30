@@ -19,8 +19,6 @@ toc:
             url: /principles/deliverables.html
           - page: External Meetings
             url: /principles/external_meetings.html
-          - page: Management's Responsibility
-            url: /principles/management.html
       - page: Strategy
         url: /principles/strategy.html
         subsubfolderitems:
@@ -30,6 +28,11 @@ toc:
             url: /principles/language.html
           - page: No Experience Required
             url: /principles/inexperience.html
+      - page: Management
+        url: /principles/management.html
+        subsubfolderitems:
+          - page: Areas of Responsibility
+            url: /principles/areas_responsibility.html
   - title: People
     url: /people/people.html
     subfolderitems:
