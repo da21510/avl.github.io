@@ -29,4 +29,5 @@ Our mission is to move, experiment, and execute on a variety of ideas extremely 
 
 We are not an outsourcing firm, and we do not accept outside clients for our development project. While the business of portfolio companies is fast and fluid, AVL is here to provide stability on the human resource side. 
 
+### Recruiting Funnel & Human Processes
 Recruiting funnels, campus relationships, team culture, engineering processes take time to build. Therefore, we separate the business and engineering entities of our organization in order to maintain flexibility in changing the business needs. We need flexiblity without affecting the solid recruiting process, team culture, robust engineering, and effective management process that we have built over time.
