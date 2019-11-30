@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Performance Review
-description: Defining engineering performance
+description: Defining engineering excellence
 ---
 
 Performance reviews are done **monthly** in order to correct mistakes fast and reward great contribution. Performance review results are averaged over the course of a quarter (3 months) to determine promotion, year-end bonuses, stock options, etc.
@@ -16,6 +16,8 @@ Management's goals for effective performance management center around **transpar
 
 > You don't promote based on potential. You don't promote based on favoritism. You don't promote based on a feeling. You promote based on actual performance.
 
+<br>
+
 ## Software Developer Rubric
 
 ### Qualitative
@@ -26,7 +28,7 @@ Management's goals for effective performance management center around **transpar
 
 > Able to communicate clearly on technical topics.
 
-#### Design
+#### 1. Design
 
 > Contributes to design.
 
@@ -36,7 +38,7 @@ Management's goals for effective performance management center around **transpar
 
 > Leads the design for medium to large projects with feedback from other engineers.
 
-#### Code Quality
+#### 2. Code Quality
 
 > Leaves code in substantially better shape than before.
 
@@ -46,7 +48,7 @@ Management's goals for effective performance management center around **transpar
 
 > Demonstrates effective use of testing.
 
-#### Impact and Contribution
+#### 3. Impact and Contribution
 
 > Capable of working on small projects independently, and medium to large projects with supervision.
 
@@ -54,7 +56,7 @@ Management's goals for effective performance management center around **transpar
 
 > Strong desire to learn and grow. Should be rapidly improving.
 
-#### Culture
+#### 4. Culture
 
 > A good cultural fit. Team player.
 
@@ -62,9 +64,15 @@ Management's goals for effective performance management center around **transpar
 
 ### Quantitative
 
-#### OKR Performance
+#### 1. OKR Performance
 
 > Perform, overperform, or underperform at 
+
+#### 2. Total JIRA Story Points Completed
+
+> Add up all the story points completed for this performance review cycle.
+
+<br>
 
 ## Rating Levels
 
