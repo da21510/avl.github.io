@@ -6,14 +6,30 @@ description: Fulfill your potential
 
 ## Salary, end-year bonus, promotions are decided annually with several objective evaluations:
 
-### 1. Company OKRs
+<br>
+
+### OKRs
+
+#### 1. Company OKRs
 Has the company as whole reached its annual OKRs? How much is the under or over performance?
 
-### 2. Team OKRs
+#### 2. Team OKRs
 Has the individual's team reached its annual OKRs? How much is the under or over performance?
 
-### 3. Peer Performance Review
+#### 3. Individual OKRs
+Has the individual's team reached its annual OKRs? How much is the under or over performance?
+
+<br>
+
+### Performance Review
+
+[View engineering performance review standards.]({{ site.baseurl }}/engineering/performance_review.html)
+
+#### 1. Self Performance Review
+What did you think of your own performance?
+
+#### 2. Peer Performance Review
 How is the individual contributor reviewed by his or her peers?
 
-### 4. Manager Performance Review
+#### 3. Manager Performance Review
 How does the individual contributor's manager review his or her performance for the year?

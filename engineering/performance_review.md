@@ -14,7 +14,7 @@ Management's goals for effective performance management center around **transpar
 1. Don't be soft on low performance.
 1. Be consistent without losing speed.
 
-> You don't promote based on potential. You don't promote based on favoritism. You don't promote based on a feeling. You promote based on actual performance.
+We don't promote based on potential. We don't promote based on favoritism. We don't promote based on a feeling. We promote based on actual performance.
 
 <br>
 
