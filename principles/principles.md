@@ -25,4 +25,6 @@ The mission of AVL is to have a legal entity in Taiwan to hire talented employee
 
 ## Are you a dev shop or outsourcing firm?
 
-We are not an outsourcing firm, and we do not accept outside clients for our development project. While the business of portfolio companies is fast and fluid, AVL is here to provide stability on the human resource side. Recruiting funnels, campus relationships, team culture, engineering processes take time to build. Therefore, we separate the business and engineering entities of our organization in order to maintain flexibility in changing the business needs and direction without affecting the solid recruiting process, team culture, robust engineering, and effective management process that we have built over time.
+We are not an outsourcing firm, and we do not accept outside clients for our development project. While the business of portfolio companies is fast and fluid, AVL is here to provide stability on the human resource side. 
+
+Recruiting funnels, campus relationships, team culture, engineering processes take time to build. Therefore, we separate the business and engineering entities of our organization in order to maintain flexibility in changing the business needs and direction without affecting the solid recruiting process, team culture, robust engineering, and effective management process that we have built over time.
