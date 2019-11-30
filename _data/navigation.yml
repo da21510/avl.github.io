@@ -28,6 +28,8 @@ toc:
             url: /principles/remote.html
           - page: Language
             url: /principles/language.html
+          - page: No Experience Required
+            url: /principles/inexperience.html
   - title: People
     url: /people/people.html
     subfolderitems:
