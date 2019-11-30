@@ -26,6 +26,8 @@ toc:
         subsubfolderitems:
           - page: Remote
             url: /principles/remote.html
+          - page: Language
+            url: /principles/language.html
   - title: People
     url: /people/people.html
     subfolderitems:

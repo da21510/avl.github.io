@@ -24,7 +24,7 @@ description: "The benefit of remote work is priceless"
 * Healither interpersonal relationships and family life.
 * Fewer meetings
 
-### Right Culture: The Remote Manifesto
+### Better Culture: The Remote Manifesto
 * We naturally attract self-motivated people.
 * Focus on effective written communication. Remote work forces people to write knowledge down, rather than have it be repeated over and over again.
 * There is more sharing of knowledge.
