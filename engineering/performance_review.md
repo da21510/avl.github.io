@@ -8,10 +8,53 @@ description: Defining engineering performance
 
 ## Software Developer Rubric
 
+### Qualitative
+
 #### Technical Skills
+
 > Great programmer – able to write modular, maintainable code.
 
 > Able to communicate clearly on technical topics.
+
+#### Design
+
+> Contributes to design.
+
+> Understands the user or customer.
+
+> Begins to show architectural perspective.
+
+> Leads the design for medium to large projects with feedback from other engineers.
+
+#### Code Quality
+
+> Leaves code in substantially better shape than before.
+
+> Rarely introduces production bugs.
+
+> Provides thorough and timely code feedback for peers.
+
+> Demonstrates effective use of testing.
+
+#### Impact and Contribution
+
+> Capable of working on small projects independently, and medium to large projects with supervision.
+
+#### Drive for Improvement
+
+> Strong desire to learn and grow. Should be rapidly improving.
+
+#### Culture
+
+> A good cultural fit. Team player.
+
+> Reflects our values and principles.
+
+### Quantitative
+
+#### OKR Performance
+
+> Perform, overperform, or underperform at 
 
 ## Rating Levels
 
