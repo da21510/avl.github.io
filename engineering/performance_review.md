@@ -65,3 +65,11 @@ description: Defining engineering performance
 > **Achieves expectations:** This is where 50 to 60% of people are expected to land. Achieving expectations means you’re hitting an already very high bar.
 
 > **Does not achieve expectations:** Getting this rating means you're struggling and either need help, plan to improve or both. Your manager and People Ops are responsible for helping you turn this around.
+
+## Types of Reviews
+
+#### Self
+
+#### Peer
+
+#### Manager
