@@ -12,16 +12,17 @@ We are one team working towards a common goal: we believe technology, social res
 
 ### Vision
 
-Build extraordinary products.
+Build extraordinary products. Focus on delighting, building trust, and creating a loyal customer base.
 
 ### Mission
 
-We're solving challenges in search relevance, loyalty rewards, payments, security, and growth — all the while creating a seamless experience.
-
-### Purpose
-
-Focus on delighting, building trust, and creating a loyal customer base.
+The mission of AVL is to have a legal entity in Taiwan to hire talented employees to design, build, and maintain our software products built for international markets. The mission of AVL is to move, experiment, and execute on a variety of ideas extremely fast, because a large part of business success is timing. To capture new trends and opportunities that arise, we need to be quick and flexible in adapting to the needs of the market.
 
 ### Strategy
 
 [It's a marathon, not a sprint.]({{ site.baseurl }}/principles/strategy.html)
+
+
+## Are you a dev shop or outsourcing firm?
+
+We are not an outsourcing firm, and we do not accept outside clients for our development project. While the business of portfolio companies is fast and fluid, AVL is here to provide stability on the human resource side. Recruiting funnels, campus relationships, team culture, engineering processes take time to build. Therefore, we separate the business and engineering entities of our organization in order to maintain flexibility in changing the business needs and direction without affecting the solid recruiting process, team culture, robust engineering, and effective management process that we have built over time.
