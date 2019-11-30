@@ -16,7 +16,9 @@ Build extraordinary products. Focus on delighting, building trust, and creating 
 
 ### Mission
 
-The mission of AVL is to have a legal entity in Taiwan to hire talented employees to design, build, and maintain our software products built for international markets. The mission of AVL is to move, experiment, and execute on a variety of ideas extremely fast, because a large part of business success is timing. To capture new trends and opportunities that arise, we need to be quick and flexible in adapting to the needs of the market.
+Our mission to build a structure to hire talented employees to design, build, and maintain our software products built for international markets. 
+
+Our mission is to move, experiment, and execute on a variety of ideas extremely fast, because a large part of business success is timing. To capture new trends and opportunities that arise, we need to be quick and flexible in adapting to the needs of the market.
 
 ### Strategy
 
@@ -27,4 +29,4 @@ The mission of AVL is to have a legal entity in Taiwan to hire talented employee
 
 We are not an outsourcing firm, and we do not accept outside clients for our development project. While the business of portfolio companies is fast and fluid, AVL is here to provide stability on the human resource side. 
 
-Recruiting funnels, campus relationships, team culture, engineering processes take time to build. Therefore, we separate the business and engineering entities of our organization in order to maintain flexibility in changing the business needs and direction without affecting the solid recruiting process, team culture, robust engineering, and effective management process that we have built over time.
+Recruiting funnels, campus relationships, team culture, engineering processes take time to build. Therefore, we separate the business and engineering entities of our organization in order to maintain flexibility in changing the business needs. We need flexiblity without affecting the solid recruiting process, team culture, robust engineering, and effective management process that we have built over time.
