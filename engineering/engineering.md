@@ -22,6 +22,13 @@ You will be added to the relevant email lists as part of your onboarding process
 
 All engineering tasks and features originate from a JIRA issues ticket. The ticket will describe the features list, deliverables, story points, priority, and relevant manager. JIRA is the **primary software project management tool** used to manage software at our firm.
 
+## 1-Week Sprints
+
+Engineering JIRA issues are grouped into 1-week sprints. Each engineer, remote or otherwise, is responsible for completing all JIRA tasks in the sprint. Within each sprint, JIRA tasks are ranked by:
+- High Priority
+- Medium Priority
+- Low Priority
+
 <br>
 <br>
 
