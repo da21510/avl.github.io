@@ -45,6 +45,8 @@ toc:
             url: /people/engineering_level.html
       - page: Work Hours
         url: /people/work_hours.html
+      - page: Team Events
+        url: /people/team_events.html
   - title: Recruiting
     url: /recruit/recruit.html
     subfolderitems:
@@ -70,3 +72,6 @@ toc:
             url: /recruit/webdev.html
   - title: Engineering
     url: /engineering/engineering.html
+    subfolderitems:
+      - page: Performance Review
+        url: /recruit/performance_review.html
