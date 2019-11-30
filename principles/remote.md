@@ -42,6 +42,7 @@ All-remote work promotes:
 > 8. The results of work over the hours put in.
 > 9. Formal communication channels over informal communication channels.
 
-## Remote Work Guidelines
+## How to Remote?
 
-[Read our remote working hours and guideliness.]({{ site.baseurl }}/people/work_hours.html)
+* [Remote working hours and guideliness.]({{ site.baseurl }}/people/work_hours.html)
+* [Remote engineering processes.]({{ site.baseurl }}/engineering/engineering.html)
