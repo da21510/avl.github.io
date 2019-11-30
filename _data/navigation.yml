@@ -40,6 +40,8 @@ toc:
         subsubfolderitems:
           - page: Engineer Level
             url: /people/engineering_level.html
+      - page: Work Hours
+        url: /people/work_hours.html
   - title: Recruiting
     url: /recruit/recruit.html
     subfolderitems:

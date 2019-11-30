@@ -29,7 +29,7 @@ description: "The benefit of remote work is priceless"
 * Focus on effective written communication. Remote work forces people to write knowledge down, rather than have it be repeated over and over again.
 * There is more sharing of knowledge.
 
-[From GitLab](https://about.gitlab.com/company/culture/all-remote/)
+[From GitLab](https://about.gitlab.com/company/culture/all-remote/){:target="_blank"}
 
 All-remote work promotes:
 > 1. Hiring and working from all over the world instead of from a central location.
@@ -41,3 +41,7 @@ All-remote work promotes:
 > 7. Asynchronous communication over synchronous communication.
 > 8. The results of work over the hours put in.
 > 9. Formal communication channels over informal communication channels.
+
+## Remote Work Guidelines
+
+[Read our remote working hours and guideliness.]({{ site.baseurl }}/people/work_hours.html)
