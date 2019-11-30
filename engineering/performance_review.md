@@ -4,6 +4,16 @@ title: Performance Review
 description: Defining engineering performance
 ---
 
+Performance reviews are done **monthly** in order to correct mistakes fast and reward great contribution. Performance review results are averaged over the course of a quarter (3 months) to determine promotion, year-end bonuses, stock options, etc.
+
+Management's goals for effective performance management center around **transparency and fairness.**
+
+1. Have clear standards for performance.
+1. Have an opinion on the role of managers.
+1. Have a process for evaluation and reward.
+1. Don't be soft on low performance.
+1. Be consistent without losing speed.
+
 > You don't promote based on potential. You don't promote based on favoritism. You don't promote based on a feeling. You promote based on actual performance.
 
 ## Software Developer Rubric
@@ -68,8 +78,17 @@ description: Defining engineering performance
 
 ## Types of Reviews
 
+Each engineer will be evaluated by three types of individuals using the same exact rubric above.
+
 #### Self
+
+> Self evaluation. Be honest about both your strengths and weaknesses.
 
 #### Peer
 
+> Everyone who's worked closely with you, and are at the same level as you.
+
 #### Manager
+
+> Your direct manager and CTO.
+
