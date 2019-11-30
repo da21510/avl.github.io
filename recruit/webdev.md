@@ -51,6 +51,7 @@ description: Take Home Exam
 1. **Development Environment.** Setup a linux-based development environment. We recommend MacOS or Ubuntu.
 	1. Setup JavaScript, Python, or any language you wish to use.
 	1. Setup any web framework you’re most familiar with (e.g. Django, React.js, Node.js)
+	1. Setup a database you are most familar with to store customer data. Both SQL or no SQL database are OK.
 	1. Setup IDEs or any developer tools to maximize your efficiency during the exam.
 1. **Self or Cloud Hosted Test.** Make sure you can host a webpage from your development box or cloud on the world wide web.
 	1. Open a port that is more secure than commonly scanned ports (e.g. Port 22)
