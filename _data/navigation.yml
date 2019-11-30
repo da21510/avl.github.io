@@ -23,6 +23,7 @@ toc:
             url: /principles/management.html
       - page: Strategy
         url: /principles/strategy.html
+        subsubfolderitems:
         - page: Remote
             url: /principles/remote.html
   - title: People
