@@ -50,6 +50,8 @@ We don't promote based on potential. We don't promote based on favoritism. We do
 
 > Demonstrates effective use of testing.
 
+> Conforms to company code styles.
+
 #### 3. Impact and Contribution
 
 > Capable of working on small projects independently, and medium to large projects with supervision.
