@@ -6,6 +6,8 @@ description: Defining engineering excellence
 
 Performance reviews are done **monthly** in order to correct mistakes fast and reward great contribution. Performance review results are averaged over the course of a quarter (3 months) to determine promotion, year-end bonuses, stock options, etc.
 
+## Goals
+
 Management's goals for effective performance management center around **transparency and fairness.**
 
 1. Have clear standards for performance.
@@ -83,6 +85,8 @@ We don't promote based on potential. We don't promote based on favoritism. We do
 > **Achieves expectations:** This is where 50 to 60% of people are expected to land. Achieving expectations means you’re hitting an already very high bar.
 
 > **Does not achieve expectations:** Getting this rating means you're struggling and either need help, plan to improve or both. Your manager and People Ops are responsible for helping you turn this around.
+
+<br>
 
 ## Types of Reviews
 
