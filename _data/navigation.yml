@@ -24,7 +24,7 @@ toc:
       - page: Strategy
         url: /principles/strategy.html
         subsubfolderitems:
-        - page: Remote
+          - page: Remote
             url: /principles/remote.html
   - title: People
     url: /people/people.html
