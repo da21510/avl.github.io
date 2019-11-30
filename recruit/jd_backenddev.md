@@ -42,6 +42,12 @@ description: You are a Back-End Web Ninja
 - Passionate about creating problem-solving products
 - GitHub profile preferred in addition to a resume
 
+<br>
+
+[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
 ### Back-End Stack
 ```javascript
 // AVL's back-end stack
@@ -71,7 +77,3 @@ from rest_framework import routers, serializers, viewsets
 // SQL
 SELECT column1, column2, columnN FROM table_name;
 ```
-
-<br>
-
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}

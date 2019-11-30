@@ -43,6 +43,12 @@ description: You are a React, React Native Ninja
 - Passionate about creating problem-solving products
 - GitHub profile preferred in addition to a resume
 
+<br>
+
+[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
 ### Front-End Stack
 ```javascript
 // AVL's front-end stack
@@ -57,7 +63,3 @@ import {Text, View} from 'react-native';
 import { Provider } from 'react-redux';
 import { createStore } from 'reduce';
 ```
-
-<br>
-
-[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
