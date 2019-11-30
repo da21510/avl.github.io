@@ -1,3 +1,4 @@
+---
 layout: default
 title: No Experience Required
 description: Stay hungry. Stay foolish.
