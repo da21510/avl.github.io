@@ -12,6 +12,7 @@ description: "The benefit of remote work is priceless"
 * Ability to hire candidates with children or pets at home.
 * Our hiring is not limited to cities with very high cost of living.
 * Freedom for employees to relocated to a city with lower cost of living, e.g. central and southern Taiwan.
+* Easier and quicker to attract candidates and hire. Savings in time and money on hiring process.
 
 ### Productivity Gains
 * Time and money saved on long commutes. Long commutes can be stressful and lower productivity.
@@ -21,8 +22,12 @@ description: "The benefit of remote work is priceless"
 * Eating at home is healthier and cheaper.
 * Work clothes not required.
 * Healither interpersonal relationships and family life.
+* Fewer meetings
 
 ### Right Culture: The Remote Manifesto
+* We naturally attract self-motivated people.
+* Focus on effective written communication. Remote work forces people to write knowledge down, rather than have it be repeated over and over again.
+* There is more sharing of knowledge.
 
 [From GitLab](https://about.gitlab.com/company/culture/all-remote/)
 
