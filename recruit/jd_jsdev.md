@@ -14,11 +14,11 @@ description: You are a JavaScript Ninja
 [Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ## Description
-- [Team Culture]({{ site.baseurl }}{{ site.link_jd_culture }})
-- [Employee Benefits]({{ site.baseurl }}{{ site.link_jd_benefits }})
-- [Salary Levels]({{ site.baseurl }}{{ site.link_jd_salary}})
-- [Interview Process]({{ site.baseurl }}{{ site.link_jd_interview_process }})
-- [Expectations]({{ site.baseurl }}{{ site.link_jd_expectations }})
+- [Team Culture]({{ site.baseurl }}{{ site.link_jd_culture }}): Silicon Valley startup culture.
+- [Employee Benefits]({{ site.baseurl }}{{ site.link_jd_benefits }}): Opportunity for relocation to US.
+- [Salary Levels]({{ site.baseurl }}{{ site.link_jd_salary}}): Up to NT$3 million annual salary.
+- [Interview Process]({{ site.baseurl }}{{ site.link_jd_interview_process }}): Total process less than 3 hours.
+- [Expectations]({{ site.baseurl }}{{ site.link_jd_expectations }}): Integrity. Hard work. Team player.
 
 ### Front-End Stack
 ```javascript
