@@ -16,7 +16,6 @@ We host monthly tech talks by a lucky engineer to share something of technical i
 * New APIs and services
 * Anything of interest to the speaker
 
-
 ## Source Code
 
 Reading, understanding, and contributing to our source code is the best way to learn from other engineers more senior than you. There is no better substitute in learning than actually doing -- coding. Learning from your talented peers is one of the best ways to become a better developer.
@@ -28,6 +27,8 @@ Our company's philosophy is to put as many shared knowledge and resources online
 ## Technical Book Library 
 
 We have a shared drive of technical documents, papers, and e-books on programming languages and frameworks. All engineers are highly encouraged to peruse and download resources from our Company Library.
+
+<br>
 
 # Changing Projects and Roles
 
