@@ -47,6 +47,8 @@ toc:
         url: /people/work_hours.html
       - page: Team Events
         url: /people/team_events.html
+      - page: Learning and Training
+        url: /people/learning_training.html
   - title: Recruiting
     url: /recruit/recruit.html
     subfolderitems:
