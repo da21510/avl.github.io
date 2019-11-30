@@ -20,20 +20,7 @@ description: You are a React, React Native Ninja
 - [Interview Process]({{ site.baseurl }}{{ site.link_jd_interview_process }}): Total process less than 3 hours.
 - [Expectations]({{ site.baseurl }}{{ site.link_jd_expectations }}): Integrity. Hard work. Team player.
 
-### Front-End Stack
-```javascript
-// AVL's front-end stack
-
-// React.js
-import React from 'react';
-
-// ReactNative.js
-import {Text, View} from 'react-native';
-
-// Redux
-import { Provider } from 'react-redux';
-import { createStore } from 'reduce';
-```
+<br>
 
 ## Requirements
 
@@ -59,3 +46,18 @@ import { createStore } from 'reduce';
 <br>
 
 [Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+### Front-End Stack
+```javascript
+// AVL's front-end stack
+
+// React.js
+import React from 'react';
+
+// ReactNative.js
+import {Text, View} from 'react-native';
+
+// Redux
+import { Provider } from 'react-redux';
+import { createStore } from 'reduce';
+```

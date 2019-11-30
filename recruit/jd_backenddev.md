@@ -20,6 +20,8 @@ description: You are a Back-End Web Ninja
 - [Interview Process]({{ site.baseurl }}{{ site.link_jd_interview_process }}): Total process less than 3 hours.
 - [Expectations]({{ site.baseurl }}{{ site.link_jd_expectations }}): Integrity. Hard work. Team player.
 
+<br>
+
 ## Requirements
 
 ### Education & professional
