@@ -44,7 +44,12 @@ All-remote work promotes:
 
 <br>
 
-## How to Remote?
+## How We Manage Remote?
 
 * [Remote working hours and guideliness.]({{ site.baseurl }}/people/work_hours.html)
 * [Remote engineering processes.]({{ site.baseurl }}/engineering/engineering.html)
+
+## Examples of Remote Teams to Aspire To
+
+* [GitLab](https://about.gitlab.com/company/culture/all-remote/){:target="_blank"}
+* [Zapier](https://zapier.com/learn/remote-work/){:target="_blank"}
