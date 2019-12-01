@@ -13,12 +13,16 @@ description: Seeking Engineers, Designers, and Inventors
 | 3 | Phone Interview | 30 min | Personality |
 | 4 | In-Person Interview | 1 hour | Personality |
 
+<br>
+
 ## Quick decision and onboarding
 
 | # | Stage | Time Duration |
 | --- | --- | --- |
 | 1 | Offer Decision | 2 week |
 | 2 | Full time employment | N/A |
+
+<br>
 
 ## Exploding offer deadlines
 
