@@ -4,11 +4,11 @@ title: Compensation
 description: Fulfill your potential
 ---
 
-## Salary, end-year bonus, promotions are decided annually with several objective evaluations:
+Salary, end-year bonus, promotions are decided annually with several objective evaluations:
 
 <br>
 
-### OKRs
+## OKRs
 
 #### 1. Company OKRs
 Has the company as whole reached its annual OKRs? How much is the under or over performance?
@@ -21,7 +21,7 @@ Has the individual's team reached its annual OKRs? How much is the under or over
 
 <br>
 
-### Performance Review
+## Performance Review
 
 [View engineering performance review standards.]({{ site.baseurl }}/engineering/performance_review.html)
 
