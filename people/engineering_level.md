@@ -28,6 +28,8 @@ We believe individuals should be rewarded fairly and transparently for their per
 
 > **We wish to attract talent who believe performance should be rewarded (1) PROPORTIONALLY, and (2) MATERIALLY DIFFERENT from peers with a different performance.**
 
+> In our experience, there is less motivation to work hard if salaries were all roughly the same.
+
 <br>
 
 ## Are you hiring at both Intern and CTO level?
