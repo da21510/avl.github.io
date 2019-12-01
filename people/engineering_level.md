@@ -26,7 +26,7 @@ description: Rewarding technical skills objectively
 
 We believe individuals should be rewarded fairly and transparently for their performance. The truth is, not all individual performances are the same. Between a **communist** system where everyone is paid roughly the same, verus a more **capitalistic** system where there is a wide spread between top and bottom performances, we believe in the capitalistic system.
 
-**We wish to attract talent who believe performance should be rewarded (1) PROPORTIONALLY, and (2) MATERIALLY DIFFERENT from peers with a different performance.**
+> **We wish to attract talent who believe performance should be rewarded (1) PROPORTIONALLY, and (2) MATERIALLY DIFFERENT from peers with a different performance.**
 
 <br>
 
@@ -39,7 +39,7 @@ Part Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-<br>
+---
 
 ### [Full Stack Developer (CTO)]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
 Part Time | Remote | Taipei
