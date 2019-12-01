@@ -49,7 +49,7 @@ All-remote work promotes:
 * [Remote working hours and guideliness.]({{ site.baseurl }}/people/work_hours.html)
 * [Remote engineering processes.]({{ site.baseurl }}/engineering/engineering.html)
 
-## Examples of Remote Teams to Aspire To
+### Great Examples of Remote Teams
 
 * [GitLab](https://about.gitlab.com/company/culture/all-remote/){:target="_blank"}
 * [Zapier](https://zapier.com/learn/remote-work/){:target="_blank"}
