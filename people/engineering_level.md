@@ -49,7 +49,7 @@ The results were **overwhelmingly** in favor of a wide salary range.
 
 > (15%) 內部薪水年終獎金差距小，即使大家對共識貢獻有差距
 
-<a href='https://photos.google.com/share/AF1QipOIy2fQDxMeB6pKwXaLHSoYHhL4v2L0onwhsfSrxMZ4EqVV_-3NoUEXtpXR6tHH3w?key=Vkhhd0hrVU5zRkJzSmF5Y2tHYzlHTHI3RHhDdkN3&source=ctrlq.org' target="_blank"><img src='https://lh3.googleusercontent.com/dIiaRDcIhltq9Uv5W4yan37xEmDp2sng6GXvluWZj3xBVbXY_CiPE55oq7JsmIRkodGt-Sx9OL8VRvmHTidjwYFW53rIYg9jQ0bcowNsZf8r9_2tvDTSMeOpc72lah9rezb7aWdoZg=w2400' /></a>
+<a href='https://photos.google.com/share/AF1QipPZ3fACGsFJRQxhLKTaLQ-eDQdKGN6bB5dz0Erq0TBQa1wNXe2xd5Ohv05GqQjasA?key=aE5fS0xkYkZ4cDFSYks5T1djdDNqOFZvQ3ZleS1R&source=ctrlq.org' target="_blank"><img src='https://lh3.googleusercontent.com/Nrnj01a58O2hfF15N9p6ceSQb9lnDqZOqcj-7-FPMrlGsn0z9dJJ5HXbqsqh1iPQvV-qIGSZsbcjQYv2h3RF-XDzDyEAQUf90E9nmCPEd7wWwEajHmJvlFjjq1j2tu9nK-nWfdU9-w=w2400' /></a>
 
 ### Less Motivation in Communist Systems
 
