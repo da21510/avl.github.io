@@ -5,7 +5,7 @@ description: "If everyone is moving forward together, then success takes care of
 navigation_weight: 4
 ---
 
-### How to Resolve Conflicts?
+## How to Resolve Conflicts?
 
 In a survey, we asked over 100 candidates about their ideal company culture.
 
