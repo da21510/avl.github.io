@@ -38,11 +38,11 @@ Things are easier if everything was completely transparent from day 1.
 
 <br>
 
-## Why is there such a large salary range?
+## Why is there such a wide salary range?
 
 We believe individuals should be rewarded fairly and transparently for their performance. 
 
-### Candidates Tell Us Want a Large Salary Range
+### Candidates Tell Us They Want a Wide Salary Range
 
 In a survey, we asked over 100 candidates about their ideal company. 
 
@@ -89,7 +89,7 @@ This is close to the minimum wage in Taiwan. For someone with zero previous soft
 
 Our CTO salary range is around USD $100K per year, which is equivalent to roughly the starting salary of a fresh college graduate with a CS degree in Silicon Valley.
 
-While this value may seem **astronomical** in Taiwan, it is actually quite modest in the US.
+While this value may seem astronomical in Taiwan, it is actually quite modest in the US.
 
 [View Silicon Valley Software Salaries](https://www.levels.fyi/){: .btn#page-btn}{:target="_blank"}
 
