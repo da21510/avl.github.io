@@ -6,7 +6,7 @@ description: Rewarding technical skills objectively
 
 ## Engineering Levels
 
-Salary levels for new hires are determined by a [take-home exam.]({{ site.baseurl }}/recruit/takehome.html)
+[Compare Silicon Valley Software Salaries](https://www.levels.fyi/){:target="_blank"}
 
 | Level | Title | Monthly Salary |
 | --- | --- | --- |
@@ -22,7 +22,9 @@ Salary levels for new hires are determined by a [take-home exam.]({{ site.baseur
 | E9 | Senior Vice President | 19-22W |
 | E10 | CTO | 22+W |
 
-[Compare Silicon Valley Software Salaries](https://www.levels.fyi/){: .btn#page-btn}{:target="_blank"}
+Salary levels for new hires are determined by a take-home exam.
+
+[View Take Home Exam]({{ site.baseurl }}/recruit/takehome.html){: .btn#page-btn}
 
 <br>
 
