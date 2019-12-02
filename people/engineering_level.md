@@ -26,11 +26,35 @@ Salary levels for new hires are determined by a [take-home exam.]({{ site.baseur
 
 ## Why is there such a large salary range?
 
-We believe individuals should be rewarded fairly and transparently for their performance. The truth is, not all individual performances are the same. Between a **communist** system where everyone is paid roughly the same, verus a more **capitalistic** system where there is a wide spread between top and bottom performances, we believe in the capitalistic system.
+We believe individuals should be rewarded fairly and transparently for their performance. 
 
-> We wish to attract talent who believe performance should be rewarded **(1) PROPORTIONALLY, and (2) MATERIALLY DIFFERENT from peers with a different performance.**
+#### This is What Candidates Want
 
-> In our experience, there is less motivation to work hard if salaries were all roughly the same.
+In a survey, we asked over 100 candidates about their ideal company. 
+
+[View Survey]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+
+We asked:
+
+**Bonus distrubtion: 獎勵制度**
+
+> (1) 內部薪水年終獎金差距大，依照每人的工作成績
+
+> (2) 內部薪水年終獎金差距小，即使大家對共識貢獻有差距
+
+<img src="{{site.baseurl}}/assets/img/my-image.jpg">
+
+#### Less Motivation in Communist Systems
+
+The truth is, not all individual performances are the same. Between a **communist** system where everyone is paid roughly the same, verus a more **capitalistic** system where there is a wide spread between top and bottom performances, we believe in the capitalistic system. In our experience, there is less motivation to work hard if salaries were all roughly the same.
+
+#### Attracting the Right Talent
+
+We wish to attract talent who believe performance should be rewarded 
+
+1. **Proportionally**, and 
+2. **Materially different** from peers with a different performance.
 
 <br>
 
