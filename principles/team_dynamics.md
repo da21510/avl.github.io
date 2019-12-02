@@ -5,6 +5,29 @@ description: "If everyone is moving forward together, then success takes care of
 navigation_weight: 4
 ---
 
+### How to Resolve Conflicts?
+
+In a survey, we asked over 100 candidates about their ideal company culture.
+
+[View Survey]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+
+We asked:
+
+> **Conflict resolution: 如果團員同事有事做的不佳，你會如何處理？**
+
+> (1) 不說 (1%）
+
+> (2) 很直接跟他說（38%）
+
+> (3) 暗示他（54%）
+
+> (4) 跟主管說（7%）
+
+Over half of the respondents believe subtle hint is an effective communication strategy.
+
+<a href='https://photos.google.com/share/AF1QipM47q4pqlMTaKKJDTh0Bj8GOu3Rjs2-lON_bXwZz-MnlTrSzDYWgnW5nC_9pwgcbQ?key=ZWJEcVlfQlJoQXRCbEZuWEVLLUhDNGhVcDF3ZUdB&source=ctrlq.org' target="_blank"><img src='https://lh3.googleusercontent.com/hnO54C8BPl93Di8DGk3YKgwXxSPygzRJkEqImI_aoOLYosbEmuJ1c1wfj_w-P951RbVjgtwd67ViE4oPlTpQM_xkfmTObOoXag4eReGgFcRGZJc0rTXsEKgY_40Zw59T2J9V3djVpg=w2400' /></a>
+
 ## Team Dynamics Expectations
 
 ### 1. Effective communication is key
