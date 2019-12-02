@@ -43,7 +43,7 @@ We asked:
 
 > (2) 內部薪水年終獎金差距小，即使大家對共識貢獻有差距
 
-<img src="{{site.baseurl}}/assets/img/my-image.jpg">
+<img src="https://photos.app.goo.gl/qXKmKJiqmbuHAdXH7">
 
 #### Less Motivation in Communist Systems
 
