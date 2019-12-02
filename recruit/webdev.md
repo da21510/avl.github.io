@@ -59,6 +59,11 @@ description: Take Home Exam
 1. **GitHub or GitLab Account.** Make sure you have a public GitHub/GitLab account that you can host your exam submission code for us to evaluate.
 
 ## How to Submit
+
+> **IMPORTANT:**
+> Please submit your exam (complete the form) regardless of whether you have a live site.
+> The form collects your GitHub URL. We want to see your source code regardless of the progress you've made.
+
 1. Upload code to public GitHub or GitLab account.
 1. Run your app in production for 1 week.
 1. **Please submit exam by completing this [survey]({{ site.exam_submit_form_url }})**
