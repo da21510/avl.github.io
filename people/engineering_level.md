@@ -47,7 +47,12 @@ We asked:
 
 ### Less Motivation in Communist Systems
 
-The truth is, not all individual performances are the same. Between a **communist** system where everyone is paid roughly the same, verus a more **capitalistic** system where there is a wide spread between top and bottom performances, we believe in the capitalistic system. In our experience, there is less motivation to work hard if salaries were all roughly the same.
+The truth is, not all individual performances are the same. Between a
+
+- **Communist System** where everyone is paid roughly the same, verus a 
+- **Capitalist System** where there is a wide spread between top and bottom performances
+
+We believe in the capitalistic system. In our experience, there is less motivation to work hard if salaries were all roughly the same.
 
 ### Attracting the Right Talent
 
