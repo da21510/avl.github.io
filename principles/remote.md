@@ -25,6 +25,24 @@ Almost half of candidates prefer working remotely at home.
 
 <a href='https://photos.google.com/share/AF1QipMxsIEq8YerJCd6zmfEUiECgl2EfopQelywUxn5uC1byZcX-KwyqrxhqBWC5sUiag?key=LUFUcy00YWxPNGd1SFZ5THpub3ByZTR0NHVCRkF3&source=ctrlq.org' target="_blank"><img src='https://lh3.googleusercontent.com/06kx9VW65UYz3j6FOYyqaMA3JoorZ9POR9hioF4CcV2SA_aI0zBEa9owLHn0kw3FXtvoJrMrtc0GEg9FIFAjq4A1NdD65ywDwthdCtG69FP2TBNP8L4F4Cjk112RUZbglsgfoNPs9A=w2400' /></a>
 
+## Employees Want Convenience
+
+In the same survey, we asked whether convenient location or office with nice decor.
+
+[View Survey]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+We asked:
+
+> **Office location vs decor: 辦公室與工作環境**
+
+> (1) 地點好離捷運近，但室內裝潢普通 (66%)
+
+> (2) 地點離捷運遠，但室內裝潢很厲害 (34%)
+
+Two-thirds of candidates value convenient commute.
+
+<a href='https://photos.google.com/share/AF1QipP8_u94Y7OcEGkXXecPgg5kx7f74-_YtkhI7IbVFcxynsh5ULxrUgjRs3CJekgVag?key=TWJvUjRncmZpYTV4WjNTRmpzMkIxRHp4eW5hN3NB&source=ctrlq.org' target="_blank"><img src='https://lh3.googleusercontent.com/AOt7BxBzjJgfN2kslLoQlev4tK6g1ILFt4BMZvsQeafIY66qOc53kE3T2AhIjE3te3G18L57jSiBHWG8mRyBsnc503AIKsQN67mCMviOJTrLHBPRbv4zunMv-XFcySvC_FNHP7pzug=w2400' /></a>
+
 ### Cost Savings
 * Cost savings on office space.
 * Ability to hire candidates from any location globally. 
