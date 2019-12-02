@@ -23,10 +23,6 @@ We asked:
 
 Almost half of candidates prefer working remotely at home.
 
-> (44%) 喜歡在家工作
-
-> (56%) 喜歡在辦公室人事同事
-
 <a href='https://photos.google.com/share/AF1QipMxsIEq8YerJCd6zmfEUiECgl2EfopQelywUxn5uC1byZcX-KwyqrxhqBWC5sUiag?key=LUFUcy00YWxPNGd1SFZ5THpub3ByZTR0NHVCRkF3&source=ctrlq.org' target="_blank"><img src='https://lh3.googleusercontent.com/06kx9VW65UYz3j6FOYyqaMA3JoorZ9POR9hioF4CcV2SA_aI0zBEa9owLHn0kw3FXtvoJrMrtc0GEg9FIFAjq4A1NdD65ywDwthdCtG69FP2TBNP8L4F4Cjk112RUZbglsgfoNPs9A=w2400' /></a>
 
 ### Cost Savings
