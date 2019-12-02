@@ -28,7 +28,7 @@ Salary levels for new hires are determined by a [take-home exam.]({{ site.baseur
 
 We believe individuals should be rewarded fairly and transparently for their performance. 
 
-#### This is What Candidates Want
+### This is What Candidates Want
 
 In a survey, we asked over 100 candidates about their ideal company. 
 
@@ -43,11 +43,11 @@ We asked:
 
 <img src="https://photos.app.goo.gl/qXKmKJiqmbuHAdXH7">
 
-#### Less Motivation in Communist Systems
+### Less Motivation in Communist Systems
 
 The truth is, not all individual performances are the same. Between a **communist** system where everyone is paid roughly the same, verus a more **capitalistic** system where there is a wide spread between top and bottom performances, we believe in the capitalistic system. In our experience, there is less motivation to work hard if salaries were all roughly the same.
 
-#### Attracting the Right Talent
+### Attracting the Right Talent
 
 We wish to attract talent who believe performance should be rewarded 
 
