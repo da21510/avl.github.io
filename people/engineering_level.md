@@ -28,7 +28,7 @@ Salary levels for new hires are determined by a [take-home exam.]({{ site.baseur
 
 We believe individuals should be rewarded fairly and transparently for their performance. 
 
-### This is What Candidates Want
+### Candidates Tell Us Want a Large Salary Range
 
 In a survey, we asked over 100 candidates about their ideal company. 
 
