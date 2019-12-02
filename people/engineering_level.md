@@ -32,7 +32,7 @@ It is impossible to keep salary information confidential.
 
 #### 2. How would you feel if someone with equal or less contribution was paid more than you?
 
-Things are easier if everything was open from day 1.
+Things are easier if everything was completely transparent from day 1.
 
 <br>
 
