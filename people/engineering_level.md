@@ -22,6 +22,8 @@ Salary levels for new hires are determined by a [take-home exam.]({{ site.baseur
 | E9 | Senior Vice President | 19-22W |
 | E10 | CTO | 22+W |
 
+[Compare Silicon Valley Software Salaries](https://www.levels.fyi/){: .btn#page-btn}{:target="_blank"}
+
 <br>
 
 ## Why are salaries so transparent?
@@ -74,6 +76,22 @@ We wish to attract talent who believe performance should be rewarded
 
 1. **Proportional** to their performance, and 
 2. **Materially different** from peers with a different performance.
+
+<br>
+
+## How are the upper and lower bounds of these salaries chosen?
+
+#### Lower Bound (E0 - 36W)
+
+This is close to the minimum wage in Taiwan. For someone with zero previous software development experience, and requires substantial training and investment, we do not think this is an unfair starting point. The focus should be on where you are going, and not where you're starting at.
+
+#### Upper Bound (E10 - 300W)
+
+Our CTO salary range is around USD $100K per year, which is equivalent to roughly the starting salary of a fresh college graduate with a CS degree in Silicon Valley.
+
+While this value may seem **astronomical** in Taiwan, it is actually quite modest in the US.
+
+[View Silicon Valley Software Salaries](https://www.levels.fyi/){: .btn#page-btn}{:target="_blank"}
 
 <br>
 
