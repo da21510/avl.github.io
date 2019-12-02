@@ -43,7 +43,7 @@ We asked:
 
 > (2) 內部薪水年終獎金差距小，即使大家對共識貢獻有差距
 
-The results:
+The results were **overwhelmingly** in favor of a wide salary range.
 
 > (86%) 內部薪水年終獎金差距大，依照每人的工作成績
 
