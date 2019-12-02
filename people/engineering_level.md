@@ -24,6 +24,18 @@ Salary levels for new hires are determined by a [take-home exam.]({{ site.baseur
 
 <br>
 
+## Why are salaries so transparent?
+
+#### 1. Team members will share salary information among themselves soon or later.
+
+It is impossible to keep salary information confidential.
+
+#### 2. How would you feel if someone with equal or less contribution was paid more than you?
+
+Things are easier if everything was open from day 1.
+
+<br>
+
 ## Why is there such a large salary range?
 
 We believe individuals should be rewarded fairly and transparently for their performance. 
