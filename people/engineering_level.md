@@ -6,8 +6,6 @@ description: Rewarding technical skills objectively
 
 ## Engineering Levels
 
-[Compare Silicon Valley Software Salaries](https://www.levels.fyi/){:target="_blank"}
-
 | Level | Title | Monthly Salary |
 | --- | --- | --- |
 | E0 | Intern/Part-Time | 2.4-3W |
