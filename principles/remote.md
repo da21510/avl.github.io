@@ -17,9 +17,9 @@ We asked:
 
 > **Remote vs in-person: 遠端工作**
 
-> (1) 喜歡在家工作
+> (1) 喜歡在家工作 (46%)
 
-> (2) 喜歡在辦公室人事同事
+> (2) 喜歡在辦公室人事同事 (54%)
 
 Almost half of candidates prefer working remotely at home.
 

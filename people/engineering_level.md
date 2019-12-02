@@ -39,11 +39,11 @@ We asked:
 
 > **Bonus distrubtion: 獎勵制度**
 
-> (1) 內部薪水年終獎金差距大，依照每人的工作成績
+> (1) 內部薪水年終獎金差距大，依照每人的工作成績 (86%)
 
-> (2) 內部薪水年終獎金差距小，即使大家對共識貢獻有差距
+> (2) 內部薪水年終獎金差距小，即使大家對共識貢獻有差距 (14%)
 
-The results were **overwhelmingly (86-14)** in favor of a wide salary range.
+The results were **overwhelmingly** in favor of a wide salary range.
 
 <a href='https://photos.google.com/share/AF1QipPZ3fACGsFJRQxhLKTaLQ-eDQdKGN6bB5dz0Erq0TBQa1wNXe2xd5Ohv05GqQjasA?key=aE5fS0xkYkZ4cDFSYks5T1djdDNqOFZvQ3ZleS1R&source=ctrlq.org' target="_blank"><img src='https://lh3.googleusercontent.com/Nrnj01a58O2hfF15N9p6ceSQb9lnDqZOqcj-7-FPMrlGsn0z9dJJ5HXbqsqh1iPQvV-qIGSZsbcjQYv2h3RF-XDzDyEAQUf90E9nmCPEd7wWwEajHmJvlFjjq1j2tu9nK-nWfdU9-w=w2400' /></a>
 
