@@ -37,10 +37,8 @@ In a survey, we asked over 100 candidates about their ideal company.
 
 We asked:
 
-**Bonus distrubtion: 獎勵制度**
-
+> **Bonus distrubtion: 獎勵制度**
 > (1) 內部薪水年終獎金差距大，依照每人的工作成績
-
 > (2) 內部薪水年終獎金差距小，即使大家對共識貢獻有差距
 
 <img src="https://photos.app.goo.gl/qXKmKJiqmbuHAdXH7">
