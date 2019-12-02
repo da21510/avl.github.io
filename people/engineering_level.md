@@ -64,7 +64,7 @@ We believe in the capitalistic system. In our experience, there is less motivati
 
 We wish to attract talent who believe performance should be rewarded 
 
-1. **Proportionally**, and 
+1. **Proportional** to their performance, and 
 2. **Materially different** from peers with a different performance.
 
 <br>
