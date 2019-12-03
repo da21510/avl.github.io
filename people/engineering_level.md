@@ -89,7 +89,7 @@ This is close to the minimum wage in Taiwan. For someone with zero previous soft
 
 Our CTO salary range is around USD $100K per year, which is equivalent to roughly the starting salary of a fresh college graduate with a CS degree in Silicon Valley.
 
-While this value may seem astronomical in Taiwan, it is actually quite modest in the US.
+While this value may seem high, it is modest in SV.
 
 [View Silicon Valley Software Salaries](https://www.levels.fyi/){: .btn#page-btn}{:target="_blank"}
 
