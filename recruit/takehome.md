@@ -14,9 +14,9 @@ description: Because we value your time.
 * We design our exams to be as close to the work you will be doing as much as possible.
 * You will have access to your own dev environment, online resources, just like in real work.
 
-### 3. Time limited to 2 hours
+### 3. Time limited to 2.5 hours
 * Never ending interview processes are disrespectful to the candidates.
-* We limit how much of your time we take up to make a technical decision to 2 hours.
+* We limit how much of your time we take up to make a technical decision to 2.5 hours.
 * This is the only technical evaluation.
 
 ### 4. Creative room

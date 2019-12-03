@@ -15,7 +15,7 @@ description: Take Home Exam
 > **IMPORTANT:**
 > We highly, HIGHLY recommend you setup a live web server with a blank static web page (e.g. Django, Rails, Node.js) **BEFORE** your exam. It will save you a lot of time during the exam.
 
-1. You will have **2 hours**.
+1. You will have **2.5 hours**.
 1. You will be given a list of web app features at the start of the exam. 
 1. **Pick a few features.**
 	1. You can choose and implement features you're most interested in.
