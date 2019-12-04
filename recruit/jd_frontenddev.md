@@ -4,7 +4,7 @@ title: 前端軟體工程師
 description: You are a Front-End Web Ninja
 ---
 
-# Front-End Developer
+# 前端軟體工程師
 
 | **Employment Type** | Full Time |
 | **Location** | Remote, Taipei |
