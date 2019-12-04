@@ -14,6 +14,8 @@ description: "I am not a product of my circumstances. I am a product of my decis
 | Zapier | {{ site.user_g }} |
 | Wix | {{ site.user_d }} |
 | CakeResume | {{ site.user_d }} |
+| AI Academy | {{ site.user_d }} |
 | Reply to hr@avancevl.com | {{ site.user_d }} |
 | Schedule exam emails in "Drafts" folder | {{ site.user_d }} |
 | Phone interview exam candidates for feedback | {{ site.user_d }} |
+| Recruit email marketing | {{ site.user_d }} |

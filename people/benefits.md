@@ -5,9 +5,9 @@ description: “Success has whatever elements you wish to contribute to it.”
 ---
 
 ## Compensation
-* Competitive industry salary
+* [Competitive industry salary]({{ site.baseurl }}/people/engineering_level.html)
 * [Compensation commensurate with experience]({{ site.baseurl }}/people/compensation.html)
-* Annual performance-based bonus
+* [Annual performance-based bonus]({{ site.baseurl }}/engineering/performance_review.html)
 * Equity allocation
 
 ## Compliant labor benefits
@@ -24,11 +24,22 @@ description: “Success has whatever elements you wish to contribute to it.”
 * Opportunity for overseas work opportunities (US, China, Europe) 
 
 ## Team building & networking events
-* Monthly employee activities: lunch, dinner, bar hop, sports, hiking, games, escape the room
-* Monthly organized talks and events
-* Major holiday company events
-* Birthday team celebrations
-* Major milestone celebrations and rewards
-* Mixers with other companies
-* Represent the companies at recruiting events
-* Vote on company outings, end of the year events, trips
+* [Monthly employee activities]({{ site.baseurl }}/people/team_events.html)
+	* Lunch
+	* Dinner
+	* Bar hop
+	* Sports
+	* Hiking
+	* Game nights
+	* Escape room
+* [Monthly organized tech talks]({{ site.baseurl }}/people/learning_training.html)
+* Major milestones
+	* Holiday events
+	* Birthday team celebrations
+	* Major milestone celebrations and rewards
+* Social events
+	* Mixers with other companies
+	* Represent the companies at recruiting events
+* Company outings
+	* Vote on end of the year events, trips
+	* Leadership retreats
