@@ -9,16 +9,16 @@ description: Rewarding technical skills objectively
 | Level | Title | Monthly Salary |
 | --- | --- | --- |
 | E0 | Intern/Part-Time | 2.4-3W |
-| E1 | Junior Engineer | 3－5W |
-| E2 | Engineer | 5－7W |
-| E3 | Senior Engineer | 7－9W |
-| E4 | Staff Engineer | 9－11W |
-| E5 | Lead Engineer | 11－13W |
-| E6 | Director | 13－15W |
-| E7 | Senior Director | 15－17W |
-| E8 | Vice President | 17－19W |
-| E9 | Senior Vice President | 19-22W |
-| E10 | CTO | 22+W |
+| E1 | Junior Engineer I | 3－5W |
+| E2 | Junior Engineer II | 5－7W |
+| E3 | Junior Engineer III | 7－9W |
+| E4 | Senior Engineer I | 9－11W |
+| E5 | Senior Engineer II | 11－13W |
+| E6 | Senior Engineer III | 13－15W |
+| E7 | Lead Engineer I | 15－17W |
+| E8 | Lead Engineer II | 17－19W |
+| E9 | Lead Engineer III | 19-22W |
+| E10 | CTO | 22-25W+ |
 
 Salary levels for new hires are determined by a take-home exam.
 
