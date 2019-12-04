@@ -19,42 +19,42 @@ We hope you apply to one of our open positions below.
 ## Engineering
 
 ### [Full Stack Developer]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
-Full Time | Remote | Taipei | Lead, Sernior, or Junior
+Full-Time | Remote | Taipei | Lead, Senior, or Junior
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
-Full Time | Remote | Taipei | Senior
+Full-Time | Remote | Taipei | Senior
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
-Full Time | Remote | Taipei | Senior
+Full-Time | Remote | Taipei | Senior
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [iOS/Android Mobile App Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android){:target="_blank"}
-Full Time | Remote | Taipei | Senior
+Full-Time | Remote | Taipei | Senior
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [DevOps Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/devops-sre-engineer-remote-work){:target="_blank"}
-Full Time | Remote | Taipei
+Full-Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [QC/QA Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/qa-qc-engineer-remote-work){:target="_blank"}
-Full Time | Remote | Taipei
+Full-Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
@@ -63,7 +63,7 @@ Full Time | Remote | Taipei
 ## Design
 
 ### [Graphic UX Designer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8){:target="_blank"}
-Full Time | Remote | Taipei
+Full-Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
@@ -72,7 +72,7 @@ Full Time | Remote | Taipei
 ## Internship & Part-time
 
 ### [Full Stack Student Intern Engineer](https://www.avancevl.com/students){:target="_blank"}
-Part Time | Remote | Taipei
+Part-Time | Remote | Taipei
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
