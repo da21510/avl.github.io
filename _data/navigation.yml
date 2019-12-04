@@ -7,17 +7,17 @@ toc:
       - page: 價值觀
         url: /principles/values.html
         subsubfolderitems:
-          - page: Effective Communication
+          - page: 有效溝通
             url: /principles/communication.html
-          - page: Team Dynamics Expectation
+          - page: 團隊互動
             url: /principles/team_dynamics.html
-          - page: Protocol for Meetings
+          - page: 會議流程
             url: /principles/meetings.html
-          - page: Written Communication Etiquette
+          - page: 書面交流
             url: /principles/written_communication.html
-          - page: Deliverables Etiquette
+          - page: 可交付成果
             url: /principles/deliverables.html
-          - page: External Meetings
+          - page: 對外會議
             url: /principles/external_meetings.html
       - page: 執行澤柳
         url: /principles/strategy.html
