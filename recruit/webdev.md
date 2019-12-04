@@ -13,21 +13,23 @@ description: Take Home Exam
 
 ## Exam Instructions
 > **IMPORTANT:**
-> We highly, HIGHLY recommend you setup a live web server with a blank static web page (e.g. Django, Rails, Node.js) **BEFORE** your exam. It will save you a lot of time during the exam.
+> We HIGHLY recommend you setup a live web server with a blank static web page (e.g. Django, Rails, Node.js) **BEFORE** your exam. It will save you a lot of time during the exam. 為節省時間，我們強烈建議您在**考試前**先設置一個空白的網頁 (e.g. Django, Rails, Node.js) 
 
-1. You will have **2.5 hours**.
-1. You will be given a list of web app features at the start of the exam. 
+1. You will have **2.5 hours**. 您有 2.5 小時盡量完成網頁功能。
+1. You will be given a list of web app features at the start of the exam via email. 考試時間開始時，我們會 email 您需要開發的功能。
 1. **Pick a few features.**
-	1. You can choose and implement features you're most interested in.
+	1. Choose a few features to implement: 請自由選擇您想要開發的功能，最能表現你的能力，沒有先後次序。
+
 1. **Any framework.** You choose the programming language and framework.
-	1. Choose language and framework you are the most familiar and proficient in. 
-	1. However, we use **JS, Express, Node, and React Redux at AVL.**
-	1. **Modern RWD.** Bonus points for fully responsive web / mobile design.
-1. **Quality over quantity.** We value working prototypes, so make sure your site is live and running before you move onto additional features.
-1. **Reuse and leverage.** We highly encourage you to reuse other people's work. Don't reinvent the wheel.
+	1. Choose language and framework you are the most familiar and proficient in. 選擇您最熟悉的程式語言和架構。
+	1. However, we use **JS, Express, Node, and React Redux** at AVL.
+	1. **Modern RWD.** Bonus points for fully responsive web / mobile design. RWD 加分。
+1. **Quality over quantity.** We value working prototypes, so make sure your site is live and running before you move onto additional features. 我們想看的是一個前後端可以使用的網站，功能可以去後端完整測試使用最好。
+1. **Reuse and leverage.** We highly encourage you to reuse other people's work. Don't reinvent the wheel.我們鼓勵你重複使用現有的架構，不需要從零開始。
 1. **Self or cloud host.** We will ask you to spin up and host your app for 1 week.
-	1. Your own self hosted server.
-	1. Cloud server, e.g. AWS, Heroku.
+	1. Your own self hosted server. 自己的 server。
+	1. Cloud server, e.g. AWS, Heroku. 
+
 
 ## How You Will Be Evaluated
 * Our exam is designed to be an accurate reflection of the type of work you will be doing at our fast growing, lean startup. 
