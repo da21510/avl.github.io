@@ -1,75 +1,75 @@
 toc:
-  - title: Introduction
+  - title: 介紹
     url: /index.html
-  - title: Principles
+  - title: 公司理念
     url: /principles/principles.html
     subfolderitems:
-      - page: Values
+      - page: 價值觀
         url: /principles/values.html
         subsubfolderitems:
-          - page: Effective Communication
+          - page: 有效溝通
             url: /principles/communication.html
-          - page: Team Dynamics Expectation
+          - page: 團隊互動
             url: /principles/team_dynamics.html
-          - page: Protocol for Meetings
+          - page: 會議流程
             url: /principles/meetings.html
-          - page: Written Communication Etiquette
+          - page: 書面交流
             url: /principles/written_communication.html
-          - page: Deliverables Etiquette
+          - page: 可交付成果
             url: /principles/deliverables.html
-          - page: External Meetings
+          - page: 對外會議
             url: /principles/external_meetings.html
-      - page: Strategy
+      - page: 執行澤柳
         url: /principles/strategy.html
         subsubfolderitems:
-          - page: Remote
+          - page: 遠端工作
             url: /principles/remote.html
-          - page: Language
+          - page: 工作語言
             url: /principles/language.html
-          - page: No Experience Required
+          - page: 新人
             url: /principles/inexperience.html
-      - page: Management
+      - page: 管理方式
         url: /principles/management.html
         subsubfolderitems:
-          - page: Areas of Responsibility
+          - page: 負責分配
             url: /principles/areas_responsibility.html
-  - title: People
+  - title: 人資管理
     url: /people/people.html
     subfolderitems:
-      - page: Benefits
+      - page: 員工福利
         url: /people/benefits.html
-      - page: Compensation
+      - page: 薪資制度
         url: /people/compensation.html
         subsubfolderitems:
           - page: 工程師薪水
             url: /people/engineering_level.html
-      - page: Work Hours
+      - page: 工作時間
         url: /people/work_hours.html
-      - page: Team Events
+      - page: 團隊活動
         url: /people/team_events.html
-      - page: Learning and Training
+      - page: 學習培訓
         url: /people/learning_training.html
-  - title: Recruiting
+  - title: 徵才
     url: /recruit/recruit.html
     subfolderitems:
-      - page: Open Positions
+      - page: 職缺
         url: /recruit/open_positions.html
         subsubfolderitems:
-          - page: Full Stack Developer
+          - page: 全端軟體工程師
             url: /recruit/jd_fullstackdev.html
-          - page: Front-End Developer
+          - page: 前端軟體工程師
             url: /recruit/jd_frontenddev.html
-          - page: Back-End Developer
+          - page: 後端軟體工程師
             url: /recruit/jd_backenddev.html
-      - page: Interview Process
+      - page: 面試過程
         url: /recruit/interview_process.html
-      - page: Take Home Exams
+      - page: 功課考試
         url: /recruit/takehome.html
         subsubfolderitems:
-          - page: Web Developer Exam
+          - page: 網頁軟體工程師
             url: /recruit/webdev.html
-  - title: Engineering
+  - title: 軟體工程流程
     url: /engineering/engineering.html
     subfolderitems:
-      - page: Performance Review
+      - page: 績效評估
         url: /engineering/performance_review.html
