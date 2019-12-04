@@ -22,19 +22,19 @@ description: Rewarding technical skills objectively
 * Expert and technical leader in driving architecture and engineering design.
 * Can implement entire product end-to-end faster than anyone else.
 
-| Level | Title | Monthly Salary |
-| --- | --- | --- |
-| E0 | Intern/Part-Time | 2.4-3W |
-| E1 | Junior Engineer I | 3－5W |
-| E2 | Junior Engineer II | 5－7W |
-| E3 | Junior Engineer III | 7－9W |
-| E4 | Senior Engineer I | 9－11W |
-| E5 | Senior Engineer II | 11－13W |
-| E6 | Senior Engineer III | 13－15W |
-| E7 | Lead Engineer I | 15－17W |
-| E8 | Lead Engineer II | 17－19W |
-| E9 | Lead Engineer III | 19-22W |
-| E10 | CTO | 22-25W+ |
+| Level | Title | Monthly Salary | Annual Salary |
+| --- | --- | --- | --- |
+| E0 | Intern/Part-Time | 2.4-3W | |
+| E1 | Junior Engineer I | 3－5W | > 36W |
+| E2 | Junior Engineer II | 5－7W | |
+| E3 | Junior Engineer III | 7－9W | |
+| E4 | Senior Engineer I | 9－11W | > 108W |
+| E5 | Senior Engineer II | 11－13W | |
+| E6 | Senior Engineer III | 13－15W | |
+| E7 | Lead Engineer I | 15－17W | > 180W |
+| E8 | Lead Engineer II | 17－19W | |
+| E9 | Lead Engineer III | 19-22W | |
+| E10 | CTO | 22-25W+ | < 300W |
 
 Salary levels for new hires are determined by a take-home exam.
 
