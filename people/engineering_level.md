@@ -18,7 +18,7 @@ description: Rewarding technical skills objectively
 * Fully capable to implement entire product end-to-end.
 
 #### Lead Engineer
-* Best engineer in team.
+* Recognized by peers as one of the truly best engineers in the team.
 * Expert and technical leader in driving architecture and engineering design.
 * Can implement entire product end-to-end faster than anyone else.
 
