@@ -57,10 +57,6 @@ toc:
         subsubfolderitems:
           - page: Full Stack Developer
             url: /recruit/jd_fullstackdev.html
-          - page: React Developer
-            url: /recruit/jd_reactdev.html
-          - page: JavaScript Developer
-            url: /recruit/jd_jsdev.html
           - page: Front-End Developer
             url: /recruit/jd_frontenddev.html
           - page: Back-End Developer
