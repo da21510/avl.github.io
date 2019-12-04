@@ -6,6 +6,22 @@ description: Rewarding technical skills objectively
 
 ## Engineering Levels
 
+#### Junior Engineer
+* New college graduate or less than two years of full-time programming work experience.
+* Some knowledge or experience with relevant technology.
+* May need help from other team members.
+* Can implement parts of stack, but not the entire stack or application.
+
+#### Senior Engineer
+* At least 2 years of working experience in relevant position.
+* Self proficient in accomplishing every single technical task assigned.
+* Fully capable to implement entire product end-to-end.
+
+#### Lead Engineer
+* Best engineer in team.
+* Expert and technical leader in driving architecture and engineering design.
+* Can implement entire product end-to-end faster than anyone else.
+
 | Level | Title | Monthly Salary |
 | --- | --- | --- |
 | E0 | Intern/Part-Time | 2.4-3W |
@@ -23,22 +39,6 @@ description: Rewarding technical skills objectively
 Salary levels for new hires are determined by a take-home exam.
 
 [View Take Home Exam]({{ site.baseurl }}/recruit/takehome.html){: .btn#page-btn}
-
-#### Junior Engineer
-* New college graduate or less than two years of full-time programming work experience.
-* Some knowledge or experience with relevant technology.
-* May need help from other team members.
-* Can implement parts of stack, but not the entire stack or application.
-
-#### Senior Engineer
-* At least 2 years of working experience in relevant position.
-* Self proficient in accomplishing every single technical task assigned.
-* Fully capable to implement entire product end-to-end.
-
-#### Lead Engineer
-* Best engineer in team.
-* Expert and technical leader in driving architecture and engineering design.
-* Can implement entire product end-to-end faster than anyone else.
 
 <br>
 
