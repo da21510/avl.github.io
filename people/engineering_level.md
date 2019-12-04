@@ -38,7 +38,7 @@ description: Rewarding technical skills objectively
 | E9 | Lead Engineer III | 19-22W | |
 | E10 | CTO | 22-25W+ | < 300W |
 
-Salary levels for new hires are determined by a take-home exam.
+You choose your salary with our take-home exam.
 
 [View Take Home Exam]({{ site.baseurl }}/recruit/takehome.html){: .btn#page-btn}
 
