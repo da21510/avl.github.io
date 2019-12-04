@@ -8,7 +8,7 @@ description: You are a Front-End Web Ninja
 
 | **Employment Type** | Full Time |
 | **Location** | Remote, Taipei |
-| **Open Levels** | Senior |
+| **Open Levels** | Senior Engineer |
 
 <br>
 

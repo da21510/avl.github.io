@@ -8,7 +8,7 @@ description: You are a Full Stack Web Ninja
 
 | **Employment Type** | Full Time |
 | **Location** | Remote, Taipei |
-| **Open Levels** | Intern, Junior, Senior, Lead |
+| **Open Levels** | Intern, Junior, Senior, Lead Engineers |
 
 <br>
 
