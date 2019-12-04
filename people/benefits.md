@@ -5,9 +5,9 @@ description: “Success has whatever elements you wish to contribute to it.”
 ---
 
 ## Compensation
-* Competitive industry salary
+* [Competitive industry salary]({{ site.baseurl }}/people/engineering_level.html)
 * [Compensation commensurate with experience]({{ site.baseurl }}/people/compensation.html)
-* Annual performance-based bonus
+* [Annual performance-based bonus]({{ site.baseurl }}/engineering/performance_review.html)
 * Equity allocation
 
 ## Compliant labor benefits
