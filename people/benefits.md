@@ -39,4 +39,4 @@ description: “Success has whatever elements you wish to contribute to it.”
 * Mixers with other companies
 * Represent the companies at recruiting events
 * Vote on company outings, end of the year events, trips
-* Leadership retreats({{ site.baseurl }}/people/team_events.html)
+* Leadership retreats
