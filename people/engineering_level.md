@@ -22,6 +22,8 @@ description: Rewarding technical skills objectively
 * Expert and technical leader in driving architecture and engineering design.
 * Can implement entire product end-to-end faster than anyone else.
 
+<br>
+
 | Level | Title | Monthly Salary | Annual Salary |
 | --- | --- | --- | --- |
 | E0 | Intern/Part-Time | 2.4-3W | |
