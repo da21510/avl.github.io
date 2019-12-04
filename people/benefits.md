@@ -32,11 +32,14 @@ description: “Success has whatever elements you wish to contribute to it.”
 	* Hiking
 	* Game nights
 	* Escape room
-* Monthly organized talks and events
-* Major holiday company events
-* Birthday team celebrations
-* Major milestone celebrations and rewards
-* Mixers with other companies
-* Represent the companies at recruiting events
-* Vote on company outings, end of the year events, trips
-* Leadership retreats
+* [Monthly organized tech talks]({{ site.baseurl }}/people/learning_training.html)
+* Major milestones
+	* Holiday events
+	* Birthday team celebrations
+	* Major milestone celebrations and rewards
+* Social events
+	* Mixers with other companies
+	* Represent the companies at recruiting events
+* Company outings
+	* Vote on end of the year events, trips
+	* Leadership retreats
