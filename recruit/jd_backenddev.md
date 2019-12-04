@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Back-End Developer
+title: 後端軟體工程師
 description: You are a Back-End Web Ninja
 ---
 
@@ -8,6 +8,7 @@ description: You are a Back-End Web Ninja
 
 | **Employment Type** | Full Time |
 | **Location** | Remote, Taipei |
+| **Open Levels** | Senior |
 
 <br>
 
@@ -15,8 +16,8 @@ description: You are a Back-End Web Ninja
 
 ## Description
 - [Team Culture]({{ site.baseurl }}{{ site.link_jd_culture }}): Silicon Valley startup culture.
-- [Employee Benefits]({{ site.baseurl }}{{ site.link_jd_benefits }}): Opportunity for relocation to US.
-- [Salary Levels]({{ site.baseurl }}{{ site.link_jd_salary}}): Up to NT$3 million annual salary.
+- [Employee Benefits]({{ site.baseurl }}{{ site.link_jd_benefits }}): Remote work possible.
+- [Salary Levels]({{ site.baseurl }}{{ site.link_jd_salary}}): Annual salary starting at NT$108W for Senior Engineers.
 - [Interview Process]({{ site.baseurl }}{{ site.link_jd_interview_process }}): Total process less than 3 hours.
 - [Expectations]({{ site.baseurl }}{{ site.link_jd_expectations }}): Integrity. Hard work. Team player.
 
