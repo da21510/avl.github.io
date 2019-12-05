@@ -14,11 +14,11 @@ If you’re interested in playing a key role both in experimentation and in impl
 
 We hope you apply to one of our open positions below.
 
-# Open Positions
+# 職缺：Open Positions
 
-## Engineering
+## 工程師：Engineering
 
-### [Full Stack Developer]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
+### [全端軟體工程師：Full Stack Developer]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
 Full-Time | Remote | Taipei
 
 `Lead Engineer` | `Senior Engineer` | `Junior Engineer`
@@ -27,7 +27,7 @@ Full-Time | Remote | Taipei
 
 ---
 
-### [Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
+### [前端工程師：Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
 Full-Time | Remote | Taipei
 
 `Senior Engineer`
@@ -36,7 +36,7 @@ Full-Time | Remote | Taipei
 
 ---
 
-### [Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
+### [後端工程師：Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
 Full-Time | Remote | Taipei
 
 `Senior Engineer`
@@ -45,7 +45,7 @@ Full-Time | Remote | Taipei
 
 ---
 
-### [iOS/Android Mobile App Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android){:target="_blank"}
+### [手機應用工程師：iOS/Android Mobile App Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android){:target="_blank"}
 Full-Time | Remote | Taipei
 
 `Senior Engineer`
@@ -68,7 +68,7 @@ Full-Time | Remote | Taipei
 
 ---
 
-## Design
+## 設計師：Design
 
 ### [Graphic UX Designer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8){:target="_blank"}
 Full-Time | Remote | Taipei
@@ -77,7 +77,7 @@ Full-Time | Remote | Taipei
 
 ---
 
-## Internship & Part-time
+## 實習生：Internship & Part-time
 
 ### [Full Stack Student Intern Engineer](https://www.avancevl.com/students){:target="_blank"}
 Part-Time | Remote | Taipei | Intern
