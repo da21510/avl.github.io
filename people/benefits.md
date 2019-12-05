@@ -4,6 +4,8 @@ title: 員工福利
 description: Benefits
 ---
 
+## 福利制度
+
 * 中文工作環境
 * 遠端工作制度
 * 美國工作機會 (申請美國 L1 簽證)
@@ -16,6 +18,12 @@ description: Benefits
 * 生日、各大節慶、里程碑慶祝
 * 尾牙、員工旅遊
 ​* 帶寵物一起上班
+
+<br>
+
+---
+
+<br>
 
 ## Compensation
 * [Competitive industry salary]({{ site.baseurl }}/people/engineering_level.html)
