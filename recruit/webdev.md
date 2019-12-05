@@ -21,7 +21,12 @@ description: Web Developer Exam
 1. 我們鼓勵你重複使用現有的架構像是 Redux、Bootstrap，不需要從零開始。
 1. 請上架並提供 URL：
 	1. 自備伺服器
-	1. 或是 Cloud server, 比如 AWS, Heroku. 
+	1. 或是 Cloud server, 比如 AWS, Heroku.
+
+## 考試結果如何被評估
+* 考試目的是準確的用實際面測量實力，題目跟工作上的應用類似。
+* 你的考試成就會決定你的職位與薪資。
+	* 越多可完整使用的功能，分數越高。
 
 <br>
 
@@ -52,9 +57,9 @@ description: Web Developer Exam
 	1. Cloud server, e.g. AWS, Heroku. 
 
 ## How You Will Be Evaluated
-* Our exam is designed to be an accurate reflection of the type of work you will be doing at our fast growing, lean startup. 考試目的是準確的用實際面測量實力，題目跟工作上的應用類似。
-* Your Engineer Level (E0-10) and therefore salary package will be decided by the completeness of your web app and the quality of your work. 你的考試成就會決定你的職位與薪資。
-	* The more functional features you are able to complete on our checklist, the higher your engineering/salary level. 越多可完整使用的功能，分數越高。
+* Our exam is designed to be an accurate reflection of the type of work you will be doing at our fast growing, lean startup.
+* Your Engineer Level (E0-10) and therefore salary package will be decided by the completeness of your web app and the quality of your work.
+	* The more functional features you are able to complete on our checklist, the higher your engineering/salary level.
 
 ### We value 我們重視:
 1. **Speed 數度.** How quickly can you build a working app with a list of features? 多快速能架構好有各功能的網頁？
