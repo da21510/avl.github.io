@@ -19,28 +19,32 @@ We hope you apply to one of our open positions below.
 ## Engineering
 
 ### [Full Stack Developer]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
-Full-Time | Remote | Taipei | Lead, Senior, Junior Engineers
+Full-Time | Remote | Taipei
+`Lead Engineer` | `Senior Engineer` | `Junior Engineer`
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
-Full-Time | Remote | Taipei | `Senior Engineer`
+Full-Time | Remote | Taipei
+`Senior Engineer`
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
-Full-Time | Remote | Taipei | Senior Engineer
+Full-Time | Remote | Taipei
+`Senior Engineer`
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ---
 
 ### [iOS/Android Mobile App Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android){:target="_blank"}
-Full-Time | Remote | Taipei | Senior Engineer
+Full-Time | Remote | Taipei
+`Senior Engineer`
 
 [Apply]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
