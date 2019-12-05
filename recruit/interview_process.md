@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Interview Process
-description: Seeking Engineers, Designers, and Inventors
+title: 面試過程
+description: Interview Process
 ---
 
 ## Entire interview process takes less than 3 hours

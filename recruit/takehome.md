@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Take Home Exam Manifesto
-description: Because we value your time.
+title: 功課考試
+description: Take Home Exam
 ---
 
 ## Why we do take home exams?

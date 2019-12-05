@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Open Positions
-description: Seeking Talented Engineers, Designers, and Inventors
+title: 職缺
+description: Open Positions
 ---
 
 ## We are always hiring.

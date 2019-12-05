@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Recruiting
-description: Seeking Engineers, Designers, and Inventors
+title: 徵才
+description: Recruiting
 ---
 
 ## If you want to create technology that solves problems.

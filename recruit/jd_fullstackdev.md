@@ -1,10 +1,8 @@
 ---
 layout: default
 title: 全端軟體工程師
-description: You are a Full Stack Web Ninja
+description: Full Stack Developer
 ---
-
-# 全端軟體工程師
 
 | **Employment Type** | Full Time |
 | **Location** | Remote, Taipei |
