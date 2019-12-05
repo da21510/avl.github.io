@@ -10,7 +10,7 @@ description: Engineering Levels
 
 | Level | Title | Annual Salary |
 | --- | --- | --- | --- |
-| E0 | Intern/Part-Time 實習/兼職 | 28～36萬 |
+| E0 | Intern/Part-Time 實習/兼職 | 28.8～36萬 |
 | E1 | Junior Engineer 初級工程師 I | 36～60萬 |
 | E2 | Junior Engineer 初級工程師 II | 50～84萬 |
 | E3 | Junior Engineer 初級工程師 III | 84～108萬 |

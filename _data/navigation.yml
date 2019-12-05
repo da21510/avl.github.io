@@ -63,7 +63,7 @@ toc:
             url: /recruit/jd_backenddev.html
       - page: 面試過程 Interview Process
         url: /recruit/interview_process.html
-      - page: 功課考試 Take Home Exam
+      - page: 在家線上考試 Take-Home Exam
         url: /recruit/takehome.html
         subsubfolderitems:
           - page: 網頁軟體工程師考試 Web Developer Exam
