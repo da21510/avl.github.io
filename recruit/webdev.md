@@ -64,7 +64,7 @@ description: Web Developer Exam
 > 不管進度，請使用以下問卷提交你的網頁 live demo 網址。
 
 1. 上傳進度到GitHub或GitLab。
-1. Run your app in production for 1 week. 
+1. 跑你的網頁一週。
 1. **請用以下的按鈕【上傳考試結果】。**
 
 <br>
