@@ -10,7 +10,7 @@ description: Engineering Levels
 | --- | --- | --- | 
 | E0 | 實習/兼職 | 28～36萬 |
 | E1 | 初級工程師 I | 36～60萬 |
-| E2 | 初級工程師 II | 50～84萬 |
+| E2 | 初級工程師 II | 60～84萬 |
 | E3 | 初級工程師 III | 84～108萬 |
 | E4 | 資深工程師 I | 108～132萬 |
 | E5 | 資深工程師 II | 132～156萬 |
@@ -54,7 +54,7 @@ description: Engineering Levels
 | --- | --- | --- |
 | E0 | Intern/Part-Time | 28～36萬 |
 | E1 | Junior Engineer I | 36～60萬 |
-| E2 | Junior Engineer II | 50～84萬 |
+| E2 | Junior Engineer II | 60～84萬 |
 | E3 | Junior Engineer III | 84～108萬 |
 | E4 | Senior Engineer I | 108～132萬 |
 | E5 | Senior Engineer II | 132～156萬 |
