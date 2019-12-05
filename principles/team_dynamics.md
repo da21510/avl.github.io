@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Team Dynamics Expectations
-description: "If everyone is moving forward together, then success takes care of itself."
-navigation_weight: 4
+title: 團隊互動
+description: Team Dynamics Expectations
 ---
 
 ## How to Resolve Conflicts?

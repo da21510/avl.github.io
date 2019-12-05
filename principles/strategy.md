@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Strategy
-description: "Our Competitive Advantage"
+title: 執行澤柳
+description: Strategy
 ---
 
 ## Customer First

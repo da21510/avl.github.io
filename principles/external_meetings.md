@@ -1,8 +1,7 @@
 ---
 layout: default
-title: External Meetings
-description: "What you lack in talent can be made up with desire, hustle, and giving 110% all the time."
-navigation_weight: 8
+title: 對外會議
+description: External Meetings
 ---
 
 ## External Meetings

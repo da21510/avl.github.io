@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Protocol for Meetings
-description: “I think there needs to be a meeting to set an agenda for more meetings about meetings.”
-navigation_weight: 5
+title: 會議流程
+description: Protocol for Meetings
 ---
 
 ## Protocol for Meetings

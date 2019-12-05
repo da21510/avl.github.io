@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Performance Review
-description: Defining engineering excellence
+title: 績效評估
+description: Performance Review
 ---
 
 Performance reviews are done **monthly** in order to correct mistakes fast and reward great contribution. Performance review results are averaged over the course of a quarter (3 months) to determine promotion, year-end bonuses, stock options, etc.

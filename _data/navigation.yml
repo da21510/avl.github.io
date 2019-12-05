@@ -7,15 +7,15 @@ toc:
       - page: 價值觀 Values
         url: /principles/values.html
         subsubfolderitems:
-          - page: 有效溝通 Communication
+          - page: 有效溝通 Effective Communication
             url: /principles/communication.html
           - page: 團隊互動 Team Dynamics
             url: /principles/team_dynamics.html
-          - page: 會議流程 Meetings
+          - page: 會議流程 Protocol for Meetings
             url: /principles/meetings.html
           - page: 書面交流 Written Communication
             url: /principles/written_communication.html
-          - page: 可交付成果 Deliverables
+          - page: 可交付成果 Deliverables Etiquette
             url: /principles/deliverables.html
           - page: 對外會議 External Meetings
             url: /principles/external_meetings.html
@@ -26,7 +26,7 @@ toc:
             url: /principles/remote.html
           - page: 工作語言 Language
             url: /principles/language.html
-          - page: 新人 No Experience Required
+          - page: 職場新人 No Experience Required
             url: /principles/inexperience.html
       - page: 管理方式 Management
         url: /principles/management.html

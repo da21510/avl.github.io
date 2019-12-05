@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Principles
-description: "I am not a product of my circumstances. I am a product of my decisions."
+title: 公司理念
+description: Principles
 ---
 
 ## Principles

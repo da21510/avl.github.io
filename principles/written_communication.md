@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Written Communication Etiquette
-description: "Writing is like sex. First you do it for love, then you do it for your friends, and then you do it for money."
-navigation_weight: 6
+title: 書面交流
+description: Written Communication Etiquette
 ---
 
 ## Written Communication Etiquette

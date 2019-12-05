@@ -1,7 +1,7 @@
 ---
 layout: default
-title: No Experience Required
-description: Stay hungry. Stay foolish.
+title: 職場新人
+description: No Experience Required
 ---
 
 ## Why are you willing to hire candidates with no experience?

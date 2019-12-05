@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Deliverables Etiquette
-description: "Great things are done by a series of small things done together."
+title: 可交付成果
+description: Deliverables Etiquette
 navigation_weight: 7
 ---
 

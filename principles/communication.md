@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Effective Communication
-description: "Wise men speak because they have something to say; Fools because they have to say something."
+title: 有效溝通
+description: Effective Communication
 ---
 
 ## Framework for Effective Communication

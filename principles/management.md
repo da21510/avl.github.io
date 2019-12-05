@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Management
-description: “Hire people who are better than you are, then leave them to get on with it. Look for people who will aim for the remarkable, who will not settle for the routine.”
+title: 管理方式
+description: Management
 ---
 
 ## Management's Responsibility

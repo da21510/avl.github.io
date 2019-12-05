@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Language
-description: "工作語言"
+title: 工作語言
+description: Language
 ---
 
 # Chinese is the primary language used at AVL

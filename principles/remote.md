@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Remote
-description: "The benefit of remote work is priceless"
+title: 遠端工作
+description: Remote
 ---
 
 ## Why Remote?

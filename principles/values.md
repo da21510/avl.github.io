@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Values
-description: Actions Expected
+title: 價值觀
+description: Values
 ---
 
 ## Values and Expectations
