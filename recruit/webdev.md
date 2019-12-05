@@ -4,6 +4,11 @@ title: 網頁軟體工程師考試
 description: Web Developer Exam
 ---
 
+## 相關職缺
+1. [全端軟體工程師]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
+1. [前端軟體工程師]({{ site.baseurl }}/recruit/jd_frontenddev.html)
+1. [後端軟體工程師]({{ site.baseurl }}/recruit/jd_backenddev.html)
+
 ## 考試指示
 > **注意：**
 > 為節省時間，我們強烈建議您在**考試前**先設置一個空白的網頁 (列： Django, Rails, Node.js) 
