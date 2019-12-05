@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 執行澤柳
+title: 執行策略
 description: Strategy
 ---
 

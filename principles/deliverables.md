@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 可交付成果
+title: 執行 SOP
 description: Deliverables Etiquette
 navigation_weight: 7
 ---
