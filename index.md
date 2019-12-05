@@ -1,12 +1,14 @@
 ---
 layout: default
-title: 一個開源的公司
+title: 一家開源公司
 description: An Open Sourced Company
 ---
 
 ## 激進透明制度
 
 讓公司裡最好的點子永遠勝出
+
+<br>
 
 ---
 
