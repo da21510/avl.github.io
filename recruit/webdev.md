@@ -32,7 +32,7 @@ description: Web Developer Exam
 1. [Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
 1. [Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
 
-## Exam Instructions 考試指示
+## Exam Instructions
 > **IMPORTANT:**
 > We HIGHLY recommend you setup a live web server with a blank static web page (e.g. Django, Rails, Node.js) **BEFORE** your exam. It will save you a lot of time during the exam. (e.g. Django, Rails, Node.js) 
 
