@@ -40,7 +40,7 @@ description: TakeHome Exam
 
 ---
 
-Our take home exam is an accurate reflect of the daily work. The take home exam is therefore objective, fair, and accurate assessment of a candidate's ability. The exam saves the candidate time with flexible schedule and time limit to no more than 2.5 hours.
+Our take home exam is an accurate reflection of daily work at our company. The take home exam is therefore objective, fair, and accurate assessment of a candidate's ability. The exam saves the candidate time with flexible scheduling and time limit to no more than 2.5 hours.
 
 [View Exam Instructions]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
 
