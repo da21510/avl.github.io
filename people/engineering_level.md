@@ -10,7 +10,7 @@ description: Engineering Levels
 
 | Level | Title | Annual Salary |
 | --- | --- | --- | --- |
-| E0 | Intern/Part-Time 實習/兼職 | 28～26萬 |
+| E0 | Intern/Part-Time 實習/兼職 | 28～36萬 |
 | E1 | Junior Engineer 初級工程師 I | 36～60萬 |
 | E2 | Junior Engineer 初級工程師 II | 50～84萬 |
 | E3 | Junior Engineer 初級工程師 III | 84～108萬 |
@@ -18,9 +18,9 @@ description: Engineering Levels
 | E5 | Senior Engineer 資深工程師 II | 132～156萬 |
 | E6 | Senior Engineer 資深工程師 III | 156～180萬 |
 | E7 | Lead Engineer 首席工程師 I | 180～204萬 |
-| E8 | Lead Engineer 首席工程師 II | 204－228萬 |
-| E9 | Lead Engineer 首席工程師 III | 228-264萬 |
-| E10 | CTO | 264-312萬 |
+| E8 | Lead Engineer 首席工程師 II | 204～228萬 |
+| E9 | Lead Engineer 首席工程師 III | 228～264萬 |
+| E10 | CTO | 264～312萬 |
 
 <br>
 

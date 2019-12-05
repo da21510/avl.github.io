@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 功課考試
+title: 在家線上考試
 description: Take Home Exam
 ---
 
