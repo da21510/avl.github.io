@@ -4,6 +4,29 @@ title: 網頁軟體工程師考試
 description: Web Developer Exam
 ---
 
+## 考試指示
+> **注意:**
+> 為節省時間，我們強烈建議您在**考試前**先設置一個空白的網頁 (列： Django, Rails, Node.js) 
+
+1. 你有**2.5小時**盡量完成網頁功能。
+1. 考試時間開始時，我們會 email 你需要開發的功能。
+1. **Pick a few features.**
+	1. 請自由選擇你想要開發的功能，最能表現你的能力，沒有先後次序。
+
+1. **Any framework.** You choose the programming language and framework.
+	1. 選擇你最熟悉的程式語言和架構。
+	1. However, we use **JS, Express, Node, and React Redux** at AVL.
+	1. **Modern RWD.** RWD 加分。
+1. **Quality over quantity.** 我們想看的是一個前後端可以使用的網站，功能可以去後端完整測試使用最好。
+1. **Reuse and leverage.** 我們鼓勵你重複使用現有的架構像是 Redux、Bootstrap，不需要從零開始。
+1. **Self or cloud host.** 請上架並提供 URL。
+	1. 自己的 server。
+	1. 或是 Cloud server, 比如 AWS, Heroku. 
+
+<br>
+
+---
+
 ## For Positions
 1. [Full Stack Developer]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
 1. [Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
@@ -11,23 +34,22 @@ description: Web Developer Exam
 
 ## Exam Instructions 考試指示
 > **IMPORTANT:**
-> We HIGHLY recommend you setup a live web server with a blank static web page (e.g. Django, Rails, Node.js) **BEFORE** your exam. It will save you a lot of time during the exam. 為節省時間，我們強烈建議您在**考試前**先設置一個空白的網頁 (e.g. Django, Rails, Node.js) 
+> We HIGHLY recommend you setup a live web server with a blank static web page (e.g. Django, Rails, Node.js) **BEFORE** your exam. It will save you a lot of time during the exam. (e.g. Django, Rails, Node.js) 
 
-1. You will have **2.5 hours**. 你有**2.5小時**盡量完成網頁功能。
-1. You will be given a list of web app features at the start of the exam via email. 考試時間開始時，我們會 email 你需要開發的功能。
+1. You will have **2.5 hours**.
+1. You will be given a list of web app features at the start of the exam via email.
 1. **Pick a few features.**
-	1. Choose a few features to implement: 請自由選擇你想要開發的功能，最能表現你的能力，沒有先後次序。
+	1. Choose a few features to implement:
 
 1. **Any framework.** You choose the programming language and framework.
-	1. Choose language and framework you are the most familiar and proficient in. 選擇你最熟悉的程式語言和架構。
+	1. Choose language and framework you are the most familiar and proficient in.
 	1. However, we use **JS, Express, Node, and React Redux** at AVL.
-	1. **Modern RWD.** Bonus points for fully responsive web / mobile design. RWD 加分。
-1. **Quality over quantity.** We value working prototypes, so make sure your site is live and running before you move onto additional features. 我們想看的是一個前後端可以使用的網站，功能可以去後端完整測試使用最好。
-1. **Reuse and leverage.** We highly encourage you to reuse other people's work, like Bootstrap and Redux. Don't reinvent the wheel.我們鼓勵你重複使用現有的架構像是 Redux、Bootstrap，不需要從零開始。
-1. **Self or cloud host.** We will ask you to spin up and host your app for 1 week. 請上架並提供 URL。
-	1. Your own self hosted server. 自己的 server。
-	1. 或是 Cloud server, e.g. AWS, Heroku. 
-
+	1. **Modern RWD.** Bonus points for fully responsive web / mobile design.
+1. **Quality over quantity.** We value working prototypes, so make sure your site is live and running before you move onto additional features.
+1. **Reuse and leverage.** We highly encourage you to reuse other people's work, like Bootstrap and Redux. Don't reinvent the wheel.
+1. **Self or cloud host.** We will ask you to spin up and host your app for 1 week.
+	1. Your own self hosted server.
+	1. Cloud server, e.g. AWS, Heroku. 
 
 ## How You Will Be Evaluated
 * Our exam is designed to be an accurate reflection of the type of work you will be doing at our fast growing, lean startup. 考試目的是準確的用實際面測量實力，題目跟工作上的應用類似。
