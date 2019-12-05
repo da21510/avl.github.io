@@ -44,6 +44,8 @@ description: Full Stack Web Developer
 
 ---
 
+<br>
+
 | **Employment Type** | Full Time |
 | **Location** | Remote, Taipei |
 | **Open Levels** | Junior, Senior, Lead Engineers |
