@@ -28,7 +28,7 @@ description: Web Developer Exam
 * 你的考試成就會決定你的職位與薪資。
 	* 越多可完整使用的功能，分數越高。
 
-### 我們重視:
+### 我們重視
 1. **數度.** 多快速能架構好有各功能的網頁？
 1. **品質.** 其他工程師很容易瞭解並維修你寫的代碼？
 
@@ -65,7 +65,7 @@ description: Web Developer Exam
 * Your Engineer Level (E0-10) and therefore salary package will be decided by the completeness of your web app and the quality of your work.
 	* The more functional features you are able to complete on our checklist, the higher your engineering/salary level.
 
-### We value 我們重視:
+### We Value
 1. **Speed.** How quickly can you build a working app with a list of features?
 1. **Code Quality.** How easy is it for other engineers to maintain your app?
 
