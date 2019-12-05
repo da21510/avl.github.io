@@ -91,6 +91,10 @@ description: Full Stack Web Developer
 
 <br>
 
+---
+
+<br>
+
 ### Front-End Stack
 ```javascript
 // AVL's front-end stack
