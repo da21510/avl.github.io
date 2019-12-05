@@ -1,8 +1,12 @@
 ---
 layout: default
-title: 功課考試
-description: Take Home Exam
+title: 在家線上考試
+description: TakeHome Exam
 ---
+
+我們的考題是模仿我們網頁開發團隊每天實際做的工作。在家線上考試可以客觀、公平、準確的評估工程師的實踐能力，讓參考者節省時間、彈性安排時段、最佳表現實際網站開發能力。2.5小時快速測量職級並決定與薪資.
+
+[檢閱考試準備指南]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
 
 ## 在家功課考試的好處
 
