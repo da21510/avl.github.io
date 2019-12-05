@@ -10,17 +10,17 @@ description: Web Developer Exam
 
 1. 你有**2.5小時**盡量完成網頁功能。
 1. 考試時間開始時，我們會 email 你需要開發的功能。
-1. **Pick a few features.**
+1. 選幾個羨慕：
 	1. 請自由選擇你想要開發的功能，最能表現你的能力，沒有先後次序。
 
-1. **Any framework.** You choose the programming language and framework.
+1. 讓您選擇您最熟悉的語言和架構。
 	1. 選擇你最熟悉的程式語言和架構。
-	1. However, we use **JS, Express, Node, and React Redux** at AVL.
-	1. **Modern RWD.** RWD 加分。
-1. **Quality over quantity.** 我們想看的是一個前後端可以使用的網站，功能可以去後端完整測試使用最好。
-1. **Reuse and leverage.** 我們鼓勵你重複使用現有的架構像是 Redux、Bootstrap，不需要從零開始。
-1. **Self or cloud host.** 請上架並提供 URL。
-	1. 自己的 server。
+	1. 我們主要架構用 **JS, Express, Node, and React Redux**
+	1. RWD 加分。
+1. 我們想看的是一個前後端可以使用的網站，功能可以去後端完整測試使用最好。
+1. 我們鼓勵你重複使用現有的架構像是 Redux、Bootstrap，不需要從零開始。
+1. 請上架並提供 URL：
+	1. 自備伺服器
 	1. 或是 Cloud server, 比如 AWS, Heroku. 
 
 <br>
@@ -43,7 +43,7 @@ description: Web Developer Exam
 
 1. **Any framework.** You choose the programming language and framework.
 	1. Choose language and framework you are the most familiar and proficient in.
-	1. However, we use **JS, Express, Node, and React Redux** at AVL.
+	1. However, we primarily use **JS, Express, Node, and React Redux**
 	1. **Modern RWD.** Bonus points for fully responsive web / mobile design.
 1. **Quality over quantity.** We value working prototypes, so make sure your site is live and running before you move onto additional features.
 1. **Reuse and leverage.** We highly encourage you to reuse other people's work, like Bootstrap and Redux. Don't reinvent the wheel.
