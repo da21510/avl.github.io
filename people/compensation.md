@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Compensation
-description: Fulfill your potential
+title: 薪資制度
+description: Compensation
 ---
 
 Salary, end-year bonus, promotions are decided annually with several objective evaluations:

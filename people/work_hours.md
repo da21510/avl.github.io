@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Work Hours
-description: "Maximum flexibility for maximum productivity."
+title: 工作時間
+description: Work Hours
 ---
 
 ## General Guidelines

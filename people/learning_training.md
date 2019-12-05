@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Learning and Training
-description: "Life is a journey, not a destination."
+title: 學習培訓
+description: Learning & Training
 ---
 
 # Resources

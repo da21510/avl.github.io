@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Areas of Responsibility
-description: "I am not a product of my circumstances. I am a product of my decisions."
+title: 負責分配
+description: Areas of Responsibility
 ---
 
 ## Recruiting

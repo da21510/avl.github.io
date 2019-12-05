@@ -1,7 +1,7 @@
 ---
 layout: default
-title: People
-description: Human resource policies and processes
+title: 人資管理
+description: People
 ---
 
 ## Introduction

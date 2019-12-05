@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Relocation
-description: “Don't listen to what they say, go see”
+title: 外派國外
+description: Relocation
 ---
 
 ## L-1B Intracompany Transferee Specialized Knowledge

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Team Events
-description: "Alone we can do so little, together we can do so much."
+title: 團隊活動
+description: Team Events
 ---
 
 ## June 2019, Bali Leadership Retreat
