@@ -4,41 +4,71 @@ title: 工程師薪水
 description: Engineering Levels
 ---
 
-## Engineering Levels
+## Engineering Levels 職級與薪資
 
-#### Junior Engineer
+<br>
+
+| Level | Title | Annual Salary |
+| --- | --- | --- | --- |
+| E0 | Intern/Part-Time 實習/兼職 | 28～26萬 |
+| E1 | Junior Engineer 初級工程師 I | 36～60萬 |
+| E2 | Junior Engineer 初級工程師 II | 50～84萬 |
+| E3 | Junior Engineer 初級工程師 III | 84～108萬 |
+| E4 | Senior Engineer 資深工程師 I | 108～132萬 |
+| E5 | Senior Engineer 資深工程師 II | 132～156萬 |
+| E6 | Senior Engineer 資深工程師 III | 156～180萬 |
+| E7 | Lead Engineer 首席工程師 I | 180～204萬 |
+| E8 | Lead Engineer 首席工程師 II | 204－228萬 |
+| E9 | Lead Engineer 首席工程師 III | 228-264萬 |
+| E10 | CTO | 264-312萬 |
+
+<br>
+
+#### 初級工程師 I～III
+* 大學、碩士畢業生或不到2年的全職軟體開發工作經驗。
+* 有一些相關知識或經驗。
+* 需要其他團隊成員的幫助。
+* 可以獨立開發部分網頁，但不能完整卡發整個應用程式。
+
+#### 資深工程師 I～III
+* 至少2年2年相關的全職軟體開發工作經驗。
+* 可獨立完成每個分配的技術工程。
+* 有能力執行全端產品的卡發。
+
+#### 首席工程師 I～III
+* 團隊中最專業的工程師。
+* 負責推動新科技、技術、設計與工具。
+* 可以比任何人更快更完善的執行全端整個產品的開發。
+
+<br>
+
+由考試表現決定職級與薪資。
+
+[檢閱考試說明]({{ site.baseurl }}/recruit/takehome.html){: .btn#page-btn}
+
+<br>
+
+---
+
+#### Junior Engineer I～III
 * New college graduate or less than two years of full-time programming work experience.
 * Some knowledge or experience with relevant technology.
 * May need help from other team members.
 * Can implement parts of stack, but not the entire stack or application.
 
-#### Senior Engineer
+#### Senior Engineer I～III
 * At least 2 years of working experience in relevant position.
 * Self proficient in accomplishing every single technical task assigned.
 * Fully capable to implement entire product end-to-end.
 
-#### Lead Engineer
+#### Lead Engineer I～III
 * Recognized by peers as one of the truly best engineers in the team.
 * Expert and technical leader in driving architecture and engineering design.
 * Can implement entire product end-to-end faster than anyone else.
 
 <br>
 
-| Level | Title | Monthly Salary | Annual Salary |
-| --- | --- | --- | --- |
-| E0 | Intern/Part-Time | 2.4-3W | |
-| E1 | Junior Engineer I | 3－5W | > 36W |
-| E2 | Junior Engineer II | 5－7W | |
-| E3 | Junior Engineer III | 7－9W | |
-| E4 | Senior Engineer I | 9－11W | > 108W |
-| E5 | Senior Engineer II | 11－13W | |
-| E6 | Senior Engineer III | 13－15W | |
-| E7 | Lead Engineer I | 15－17W | > 180W |
-| E8 | Lead Engineer II | 17－19W | |
-| E9 | Lead Engineer III | 19-22W | |
-| E10 | CTO | 22-25W+ | < 300W |
-
-You choose your salary with our take-home exam.
+Your performance on the take-home exam determines your level and salary.
 
 [View Take Home Exam]({{ site.baseurl }}/recruit/takehome.html){: .btn#page-btn}
 
