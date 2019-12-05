@@ -47,10 +47,10 @@ description: Web Developer Exam
 	1. 設定好你最熟悉的網頁架構 （比如 Django，React.js，Node.js，等）
 	1. 提前先建立好資料庫環境。
 	1. 預先設定好幫助開發的軟體，例如：Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScripte, Babel, EJS。
-1. **Self or Cloud Hosted Test.** Make sure you can host a webpage from your development box or cloud on the world wide web.
-	1. Open a port that is more secure than commonly scanned ports (e.g. Port 22)
-	1. Make sure firewall configured so you can see your web page outside of your local area or cloud network.
-1. **GitHub or GitLab Account.** Make sure you have a public GitHub/GitLab account that you can host your exam submission code for us to evaluate.
+1. **自被電腦或雲端測試：** 確認你的網頁有起來。
+	1. 設定比較安全的port。
+	1. 確認防火牆沒把網頁擋住。
+1. **GitHub或GitLab帳戶：** 確認帳戶是公開我們才看的到您的作品。
 1. **如何準備：**
 	1. 熟悉如何設立 DB（SQL, MongoDB 環境）。
 	1. 準備設立網頁前後端，使用 JS, Express, Node, HTML, CSS, React (AJAX, JSON, REST) 或類似。
