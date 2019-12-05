@@ -28,6 +28,10 @@ description: Web Developer Exam
 * 你的考試成就會決定你的職位與薪資。
 	* 越多可完整使用的功能，分數越高。
 
+### 我們重視:
+1. **數度.** 多快速能架構好有各功能的網頁？
+1. **品質.** 其他工程師很容易瞭解並維修你寫的代碼？
+
 <br>
 
 ---
@@ -62,8 +66,8 @@ description: Web Developer Exam
 	* The more functional features you are able to complete on our checklist, the higher your engineering/salary level.
 
 ### We value 我們重視:
-1. **Speed 數度.** How quickly can you build a working app with a list of features? 多快速能架構好有各功能的網頁？
-1. **Code Quality 品質.** How easy is it for other engineers to maintain your app? 其他 engineers 很容易瞭解並維修你的code？
+1. **Speed.** How quickly can you build a working app with a list of features?
+1. **Code Quality.** How easy is it for other engineers to maintain your app?
 
 ### We will look at 我們評估:
 1. Your live web app with features as described by the exam, hosted on your own computer. 你的 web app live demo URL。
