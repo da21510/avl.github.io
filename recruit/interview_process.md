@@ -4,7 +4,40 @@ title: 面試過程
 description: Interview Process
 ---
 
-## Entire interview process takes less than 3 hours
+## 整體面試過程不到3小時
+
+| # | 階段 | 時間 | 評估 |
+| --- | --- | --- | --- |
+| 1 | [線上申請]({{ site.job_form_url }}){:target="_blank"} | 15分 | 團隊文化融合 |
+| 2 | [在家線上考試]({{ site.baseurl }}/recruit/takehome.html) | 2.5小時 | 技術面 |
+| 3 | 電話面試 | 30分 | 個性 |
+| 4 | 本人面試 | 1小時 | 個性 |
+
+<br>
+
+## 快速決定入取
+
+| # | 階段 | 時間 |
+| --- | --- | --- |
+| 1 | 決定入取 | 2週 |
+| 2 | 全職員工 | N/A |
+
+<br>
+
+## 其他Offer期限
+
+如果您已經有了其他公司的offer，請跟我們告知我們會竟量跟您配合。
+
+<br>
+[現在申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
+---
+
+<br>
+
+## Entire interview process less than 3 hours
 
 | # | Stage | Time Duration | Evaluation |
 | --- | --- | --- | --- |
