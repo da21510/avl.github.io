@@ -33,7 +33,7 @@ description: Web Developer Exam
 1. **品質.** 其他工程師很容易瞭解並維修你寫的代碼？
 
 ### 我們會看：
-1. 你的 web app live demo URL。
+1. 你的 web app live demo 網址。
 	1. 網頁是否可以使用，功能規格是依照指示。
 	1. 我們希望考試不要有bug，實際做出來的羨慕少一點品質好一點。
 1. 你在GitHub，GitLab上傳的代碼。（以後申請工作可以用）
