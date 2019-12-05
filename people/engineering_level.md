@@ -4,22 +4,20 @@ title: 工程師薪水
 description: Engineering Levels
 ---
 
-## Engineering Levels 職級與薪資
+## 職級與薪資
 
-<br>
-
-| Level | Title | Annual Salary |
-| --- | --- | --- | --- |
-| E0 | Intern/Part-Time 實習/兼職 | 28.8～36萬 |
-| E1 | Junior Engineer 初級工程師 I | 36～60萬 |
-| E2 | Junior Engineer 初級工程師 II | 50～84萬 |
-| E3 | Junior Engineer 初級工程師 III | 84～108萬 |
-| E4 | Senior Engineer 資深工程師 I | 108～132萬 |
-| E5 | Senior Engineer 資深工程師 II | 132～156萬 |
-| E6 | Senior Engineer 資深工程師 III | 156～180萬 |
-| E7 | Lead Engineer 首席工程師 I | 180～204萬 |
-| E8 | Lead Engineer 首席工程師 II | 204～228萬 |
-| E9 | Lead Engineer 首席工程師 III | 228～264萬 |
+| 位階 | 職位 | 年薪 |
+| --- | --- | --- | 
+| E0 | 實習/兼職 | 28～36萬 |
+| E1 | 初級工程師 I | 36～60萬 |
+| E2 | 初級工程師 II | 50～84萬 |
+| E3 | 初級工程師 III | 84～108萬 |
+| E4 | 資深工程師 I | 108～132萬 |
+| E5 | 資深工程師 II | 132～156萬 |
+| E6 | 資深工程師 III | 156～180萬 |
+| E7 | 首席工程師 I | 180～204萬 |
+| E8 | 首席工程師 II | 204～228萬 |
+| E9 | 首席工程師 III | 228～264萬 |
 | E10 | CTO | 264～312萬 |
 
 <br>
@@ -49,6 +47,24 @@ description: Engineering Levels
 <br>
 
 ---
+
+## Engineering Levels
+
+| Level | Title | Annual Salary |
+| --- | --- | --- |
+| E0 | Intern/Part-Time | 28～36萬 |
+| E1 | Junior Engineer I | 36～60萬 |
+| E2 | Junior Engineer II | 50～84萬 |
+| E3 | Junior Engineer III | 84～108萬 |
+| E4 | Senior Engineer I | 108～132萬 |
+| E5 | Senior Engineer II | 132～156萬 |
+| E6 | Senior Engineer III | 156～180萬 |
+| E7 | Lead Engineer I | 180～204萬 |
+| E8 | Lead Engineer II | 204～228萬 |
+| E9 | Lead Engineer III | 228～264萬 |
+| E10 | CTO | 264～312萬 |
+
+<br>
 
 #### Junior Engineer I～III
 * New college graduate or less than two years of full-time programming work experience.
