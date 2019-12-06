@@ -41,7 +41,7 @@ toc:
       - page: 薪資制度 Compensation
         url: /people/compensation.html
         subsubfolderitems:
-          - page: 工程師薪水 Engineering Level
+          - page: 工程師薪水 Engineering Levels
             url: /people/engineering_level.html
       - page: 工作時間 Working Hours
         url: /people/work_hours.html
