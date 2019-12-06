@@ -15,15 +15,14 @@ description: Web Developer Exam
 
 1. 你會有**2.5小時**盡量完成開發一個網頁，包誇一些前後端網站功能。
 1. 在你預定考試的時間，我們會 email 你的考題和需要開發的網頁功能。
-1. 考題裡會個功能讓你選擇：
+1. 考題裡會個功能**讓你選擇**：
 	1. 請自由選擇你想要開發的功能，最能表現你的能力，沒有先後次序。
-
 1. 讓你選擇你最熟悉的語言和架構。
 	1. 選擇你最熟悉的程式語言和架構。
 	1. 我們在 AVL 主要用 **JS, Express, Node, and React Redux**
 	1. RWD 加分。
 1. 我們想看的是一個前後端可以使用的網站，完善的功能，可以完整測試使用最好。
-1. 我們鼓勵你重複使用現有的架構像是 Redux、Bootstrap，不需要從零開始。
+1. 我們鼓勵你重複使用現有的架構像是 Redux、Bootstrap，**不需要從零開始**。
 1. 時間到時，請上架並提供 live demo URL：
 	1. 自備伺服器
 	1. 或是 Cloud server, 比如 AWS, Heroku.
@@ -31,7 +30,7 @@ description: Web Developer Exam
 ## 考試結果如何被評估
 * 考試目的是用實際面準確的測量實力，題目跟工作上的應用類似。
 * 你的考試成就會決定你的職位與薪資。
-	* 越多可完整使用的功能，分數越高。
+	* 越多可**完整使用的功能**，分數越高。
 
 ### 我們重視：
 1. **數度.** 多快速能架構好有各功能的網頁？
@@ -40,7 +39,7 @@ description: Web Developer Exam
 ### 我們會看：
 1. 你的 web app live demo URL。
 	1. 網頁是否可以使用，功能規格是依照指示。
-	1. 我們希望考試不要有bug，實際做出來的項目少，但是品質好。
+	1. 我們希望考試不要有bug，實際做出來的項目少，但品質好。
 1. 你在 GitHub，GitLab 上傳的代碼。（以後申請工作可以用）
 1. 你的 **Git Commits**
 	1. 我們會以你的 GitHub/GitLab 上的 git commit 時間來檢查考試期間內是否完成。
@@ -48,32 +47,25 @@ description: Web Developer Exam
 	1. 你應該大概**每30分鐘 commit 一次**，總共大約5個 commits。
 	1. 你在 2.5 小時裡，需要用你的 commits 來**顯示你的進度**。你最後的 commit 不應該包含全部或大部分的代碼。
 
-
-1. Your **Git Commits**
-	1. We use git commit times on your Github/GitLab to check that all of your exam work was completed **during your scheduled exam period**.
-	1. Your first commit should be at the start of your exam time. Your **first commit** should only be an almost blank, basic, starter code to get a webpage up and running, likley with some simple pre-built framework setup.
-	1. You should **commit every 30-minute**, with a total around 5 commits overall.
-	1. Your commits should **show your progress** in the 2.5hr. Your final commit should not contain all or most of your work. 
-
 ## 考前準備
 > **注意：**
 > 我們強烈建議您在**考試前**先做好準備，先設置空白的網頁架框和你熟悉開發網站的基本環境設定。
 
 1. **開發環境：** 預先準備好網頁開發環境，使用你習慣的語言、架構、前後端、DB。
 	1. 設定好 JavaScript 或任何你喜歡用的現代網頁開發語言。
-	1. 設定好你最熟悉的網頁架構 （比如 Django，React.js，Node.js，等）
+	1. 設定好你最熟悉的**網頁架構** （比如 Django，React.js，Node.js，等）
 	1. 提前先建立好資料庫環境。
-	1. 預先設定好幫助開發的軟體，例如：Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScripte, Babel, EJS。
+	1. **預先設定好幫助開發的工具**，例如：Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScripte, Babel, EJS。
 1. **自被電腦或雲端測試：** 確認你的網頁可上架 live demo。
 	1. 設定比較安全的port。
 	1. 確認防火牆沒把網頁擋住。
 1. **GitHub 或 GitLab帳戶：** 確認帳戶是公開我們才看的到您的作品。
 1. **如何準備考題範圍：**
-	1. 熟悉如何設立後端 database DB（SQL，MongoDB 環境）。
-	1. 準備設立網頁前後端，使用 JS, Express, Node, HTML, CSS, React, Redux (AJAX, JSON, REST), Bootstrap 等。
+	1. 熟悉如何設立**後端** database DB（SQL，MongoDB 環境）。
+	1. **準備設立網頁前後端**，使用 JS, Express, Node, HTML, CSS, React, Redux (AJAX, JSON, REST), Bootstrap 等。
 	1. 沒有陷阱或腦筋急轉彎。 你將建立一個具有用戶使用功能和管理員管制功能的網站。（比方說一個購物、訂機票/旅館或是看新聞的平台。）
-	1. 請先建立 FB Login 和 Google Developer 帳號和 key。你會需要設立使用者登入功能。 
-	1. 熟悉如何連接 API，像是 Google Maps 地圖、Stripe、寄 email SendGrid、Firebase, 等。
+	1. 請先建立 FB Login 和 Google Developer 帳號和 **key**。你會需要設立使用者登入 authentication 功能。 
+	1. 熟悉如何連接 **API**，像是 Google Maps 地圖、Stripe、寄 email SendGrid、Firebase, 等。
 
 ## 如何交卷
 
