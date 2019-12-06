@@ -42,9 +42,7 @@ We hope you apply to one of our open positions below.
 
 ### [全端軟體工程師：Full Stack Developer]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
 
-`全職` | `遠端` |`台北`
-
-`Full-Time` | `Remote` | `Taipei`
+`Full-Time 全職` | `Remote 遠端` |`Taipei 台北`
 
 `Lead Engineer 首席工程師` | `Senior Engineer 資深工程師` | `Junior Engineer 初級工程師`
 
@@ -54,9 +52,7 @@ We hope you apply to one of our open positions below.
 
 ### [前端工程師：Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
 
-全職 | 遠端 | 台北
-
-Full-Time | Remote | Taipei
+`Full-Time 全職` | `Remote 遠端` |`Taipei 台北`
 
 `Senior Engineer 資深工程師`
 
@@ -66,9 +62,7 @@ Full-Time | Remote | Taipei
 
 ### [後端工程師：Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
 
-全職 | 遠端 | 台北
-
-Full-Time | Remote | Taipei
+`Full-Time 全職` | `Remote 遠端` |`Taipei 台北`
 
 `Senior Engineer 資深工程師`
 
@@ -78,9 +72,7 @@ Full-Time | Remote | Taipei
 
 ### [手機應用工程師：iOS/Android Mobile App Developer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/mobile-application-engineer-ios-android){:target="_blank"}
 
-全職 | 遠端 | 台北
-
-Full-Time | Remote | Taipei
+`Full-Time 全職` | `Remote 遠端` |`Taipei 台北`
 
 `Senior Engineer 資深工程師`
 
@@ -89,9 +81,7 @@ Full-Time | Remote | Taipei
 ---
 ### [DevOps Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/devops-sre-engineer-remote-work){:target="_blank"}
 
-全職 | 遠端 | 台北
-
-Full-Time | Remote | Taipei
+`Full-Time 全職` | `Remote 遠端` |`Taipei 台北`
 
 `Junior Engineer 初級工程師`
 
@@ -100,9 +90,7 @@ Full-Time | Remote | Taipei
 ---
 ### [QC/QA Engineer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/qa-qc-engineer-remote-work){:target="_blank"}
 
-全職 | 遠端 | 台北
-
-Full-Time | Remote | Taipei
+`Full-Time 全職` | `Remote 遠端` |`Taipei 台北`
 
 `Junior Engineer 初級工程師`
 
@@ -116,7 +104,7 @@ Full-Time | Remote | Taipei
 
 全職 | 遠端 | 台北
 
-Full-Time | Remote | Taipei
+`Full-Time 全職` | `Remote 遠端` |`Taipei 台北`
 
 `Junior Engineer 初級工程師`
 
@@ -128,9 +116,7 @@ Full-Time | Remote | Taipei
 
 ### [Full Stack Student Intern Engineer](https://www.avancevl.com/students){:target="_blank"}
 
-兼職 | 遠端 | 台北 | 實習生
-
-Part-Time | Remote | Taipei | Intern
+`Part-Time 兼職` | `Remote 遠端` | `Taipei 台北` | `Intern 實習生`
 
 [Apply 申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
