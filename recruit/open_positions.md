@@ -116,7 +116,7 @@ We hope you apply to one of our open positions below.
 
 ### [Full Stack Student Intern Engineer](https://www.avancevl.com/students){:target="_blank"}
 
-`Part-Time 兼職` | `Remote 遠端` | `Taipei 台北` | 
+`Part-Time 兼職` | `Remote 遠端` | `Taipei 台北`
 
 `Intern 實習生`
 
