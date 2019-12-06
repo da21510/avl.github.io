@@ -26,6 +26,12 @@ If you’re interested in playing a key role both in experimentation and in impl
 
 We hope you apply to one of our open positions below.
 
+<br>
+
+---
+
+<br>
+
 # 職缺：Open Positions
 
 ## 工程師：Engineering
