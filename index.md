@@ -6,7 +6,13 @@ description: An Open Sourced Company
 
 ## 激進透明制度
 
-我們追求激進式的透明，讓團隊裡最好的想法永遠勝出。在此中央資料庫中，您會找到所有需要瞭解我們公司的資訊，徹底了解團隊運作方式。我們員工內部使用的所有信息，你也可以在這裡檢閱。
+我們追求激進式的透明，讓團隊裡最好的想法永遠勝出。在此[中央資料庫中]({{ site.github.repository_url }})，您會找到所有需要瞭解我們公司的資訊，徹底了解團隊運作方式。我們員工內部使用的所有信息，你也可以在這裡檢閱。
+
+## 歡迎大家的建議
+
+我們很歡迎任何人的建議：
+* 請由[git pull request]({{ site.github.repository_url }}/pull/new/master)建議文件更改。
+* 請由[git issue]({{ site.github.repository_url }}/issues/new)投入您的問題。
 
 <br>
 
