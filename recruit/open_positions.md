@@ -38,11 +38,11 @@ We hope you apply to one of our open positions below.
 
 ### [全端軟體工程師：Full Stack Developer]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
 
-全職 | 遠端 | 台北
+`全職` `遠端` `台北`
 
-Full-Time | Remote | Taipei
+`Full-Time`  `Remote` `Taipei`
 
-`Lead Engineer 首席工程師` | `Senior Engineer 資深工程師` | `Junior Engineer 初級工程師`
+`Lead Engineer 首席工程師` `Senior Engineer 資深工程師` `Junior Engineer 初級工程師`
 
 [Apply 申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
