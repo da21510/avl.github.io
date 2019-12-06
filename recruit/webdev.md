@@ -38,10 +38,22 @@ description: Web Developer Exam
 1. **品質.** 其他工程師很容易瞭解並維修你寫的代碼？
 
 ### 我們會看：
-1. 你的 web app live demo 網址。
+1. 你的 web app live demo URL。
 	1. 網頁是否可以使用，功能規格是依照指示。
-	1. 我們希望考試不要有bug，實際做出來的羨慕少一點品質好一點。
+	1. 我們希望考試不要有bug，實際做出來的項目少，但是品質好。
 1. 你在 GitHub，GitLab 上傳的代碼。（以後申請工作可以用）
+1. 你的 **Git Commits**
+	1. 我們會以你的 GitHub/GitLab 上的 git commit 時間來檢查考試期間內是否完成。
+	1. 你的**第一個 commit** 應該在考試開始時。應該是幾乎空白，只有基本的代碼，一些簡單網頁的架構設置。
+	1. 你應該大概**每30分鐘 commit 一次**，總共大約5個 commits。
+	1. 你在 2.5 小時裡，需要用你的 commits 來**顯示你的進度**。你最後的 commit 不應該包含全部或大部分的代碼。
+
+
+1. Your **Git Commits**
+	1. We use git commit times on your Github/GitLab to check that all of your exam work was completed **during your scheduled exam period**.
+	1. Your first commit should be at the start of your exam time. Your **first commit** should only be an almost blank, basic, starter code to get a webpage up and running, likley with some simple pre-built framework setup.
+	1. You should **commit every 30-minute**, with a total around 5 commits overall.
+	1. Your commits should **show your progress** in the 2.5hr. Your final commit should not contain all or most of your work. 
 
 ## 考前準備
 > **注意：**
@@ -118,6 +130,11 @@ description: Web Developer Exam
 	1. **Functional and working.** We value functional, working prototypes, so make sure your site is live and running before you move onto additional features. Before your exam date to save time, we recommend setting a blank single page site on your development machine accessible on the web. 
 	1. **Quality over quantity.** We would rather you focus on fewer features that are working and bug-free, rather than a bunch of broken, buggy features. 
 1. Your code, hosted on Github. (This can serve as a portfolio for your future interviews and resume.)
+1. Your **Git Commits**
+	1. We use git commit times on your Github/GitLab to check that all of your exam work was completed **during your scheduled exam period**.
+	1. Your first commit should be at the start of your exam time. Your **first commit** should only be an almost blank, basic, starter code to get a webpage up and running, likley with some simple pre-built framework setup.
+	1. You should **commit every 30-minute**, with a total around 5 commits overall.
+	1. Your commits should **show your progress** in the 2.5hr. Your final commit should not contain all or most of your work. 
 
 ## Pre-Exam Preparation
 > **IMPORTANT:**
