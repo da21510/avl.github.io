@@ -8,6 +8,7 @@ description: An Open Sourced Company
 
 加速孵化團隊內部自己創造的新點子，解決全球消費者和商務的難處（非接案、非博弈、不外包）。
 
+<br>
 
 ## 激進透明制度
 
@@ -31,6 +32,8 @@ description: An Open Sourced Company
 <br>
 
 ---
+
+<br>
 
 We incubate, accelerate, and implement ideas that our team create internally.
 

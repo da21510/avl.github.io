@@ -8,6 +8,8 @@ description: Open Positions
 
 加速孵化團隊內部自己創造的新點子，解決全球消費者和商務的難處（非接案、非博弈、不外包）。
 
+<br>
+
 ## 我們不斷的在徵才.
 
 我們是一個對創業充滿熱情的科技新創，希望與創始員工一起建立我們的團隊文化，以**風氣自由、透明制度**為傲。
@@ -21,6 +23,8 @@ description: Open Positions
 <br>
 
 ---
+
+<br>
 
 We incubate, accelerate, and implement ideas that our team create internally.
 

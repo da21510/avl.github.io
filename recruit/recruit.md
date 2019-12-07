@@ -8,6 +8,8 @@ description: Recruiting
 
 加速孵化團隊內部自己創造的新點子，解決全球消費者和商務的難處（非接案、非博弈、不外包）。
 
+<br>
+
 ## 如果你想創造新的科技
 
 AVL 正在廣尋**優秀人才**加入團隊。
@@ -25,6 +27,8 @@ AVL 正在廣尋**優秀人才**加入團隊。
 <br>
 
 ---
+
+<br>
 
 We incubate, accelerate, and implement ideas that our team create internally.
 
