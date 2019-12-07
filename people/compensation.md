@@ -70,6 +70,41 @@ How does the individual contributor's manager review his or her performance for 
 
 <br>
 
+---
+
+<br>
+
+## 職業目標
+
+我們在面試問卷當中，問了超過一百人最理想工作及理想公司。
+
+
+[查看問卷]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+
+我們問了：
+
+> **一輩子目標賺多少錢**
+
+> (1) 能養家就好 （17.5%）
+
+> (2) 新北市買房（22.4%）
+
+> (3) 台北市買房（30.1%）
+
+> (4) 信義計畫區買房（30.1%）
+
+超過一半的面試者事業目標是能在台北市買房。這需要足夠：
+
+1. 事業計畫及
+2. 策略性的投機
+
+<br>
+
+---
+
+<br>
+
 ## Career Goals
 
 In a survey, we asked over 100 candidates about their ideal company. 
@@ -79,7 +114,7 @@ In a survey, we asked over 100 candidates about their ideal company.
 
 We asked:
 
-> **Career goals: 一輩子目標賺多少錢**
+> **Career goals**
 
 > (1) 能養家就好 （17.5%）
 
