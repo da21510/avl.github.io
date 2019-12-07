@@ -129,4 +129,10 @@ More than half candidates have the ambition to buy a house in Taipei City as som
 1. Career planning and 
 1. Taking the right risks.
 
+<br>
+
+---
+
+<br>
+
 <a href='https://photos.google.com/share/AF1QipNH6fGyc9Zoyd3T5RFiHmcoDbt0M2ZJDGyJIPKKLcLL6HsNVd1RVFp99NBlEGyqqw?key=NHF2S0xSa1ozeV82ZWpLemF6dWdMa0Y1VHBZclJR&source=ctrlq.org' target="_blank"><img src='https://lh3.googleusercontent.com/XmxEvZJ_VCy4CtV8uHInGh9fNb1qZqzw-aZPEXoTa0JaX7Vu4ejhjUNzDDzySHD0Tw74nHQMfKS5OI3tHXBIRHz3mF1raIBntPv8ghCn-hUj6P_LVuFtiXShgiRs4I8d2jbH0Zs8nA=w2400' /></a>
