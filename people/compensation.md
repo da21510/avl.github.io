@@ -4,6 +4,40 @@ title: 薪資制度
 description: Compensation
 ---
 
+薪水，年終獎金，加薪由以下的規範決定：
+
+## OKRs
+
+#### 1. 公司OKRs
+公司整體有達到OKRs嗎？跟目標差距多少？
+
+#### 2. 團隊OKRs
+團隊有達到OKRs嗎？跟目標差距多少？
+
+#### 3. 個人OKRs
+個人有達到OKRs嗎？跟目標差距多少？
+
+<br>
+
+## 績效評估
+
+[查看工程師績效評估規則]({{ site.baseurl }}/engineering/performance_review.html)
+
+#### 1. 個人績效評估
+您個人覺得自己的績效如何？
+
+#### 2. 同事績效評估
+您同事覺得自己的績效如何？
+
+#### 3. 長官績效評估
+您長官覺得自己的績效如何？
+
+<br>
+
+---
+
+<br>
+
 Salary, end-year bonus, promotions are decided annually with several objective evaluations:
 
 <br>
