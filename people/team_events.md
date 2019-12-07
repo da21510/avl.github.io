@@ -14,15 +14,13 @@ description: Team Events
 
 <br>
 
-## 2019年6月，巴厘島員工旅遊
+## 2019年6月，巴厘島員工旅遊：June 2019, Bali Leadership Retreat
 
 #### 活動目的
 
 * 團隊建設
 * 教育、知識性團康活動
 * 放鬆，新環境，更多想法，改變思維方式
-
-## June 2019, Bali Leadership 
 
 #### Activity Goals
 
