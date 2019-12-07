@@ -4,9 +4,9 @@ title: 團隊活動
 description: Team Events
 ---
 
-> 為了保護員工隱私，照片必須濾鏡效果過
+> **注意：**為了保護員工隱私，照片必須濾鏡效果過
 
-> In order to respect employee privacy, all photos must be filtered.
+> **Note:** In order to respect employee privacy, all photos must be filtered.
 
 <br>
 
