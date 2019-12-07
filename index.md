@@ -6,10 +6,12 @@ description: An Open Sourced Company
 
 ## 激進透明制度
 
-我們追求激進式的透明，讓團隊裡最好的想法永遠勝出。在此[中央資料庫中]({{ site.github.repository_url }})，您會找到所有需要瞭解我們公司的資訊，徹底了解團隊運作方式。我們員工內部使用的所有信息，你也可以在這裡檢閱。
+我們追求激進式的透明，讓團隊裡最好的想法永遠勝出。在此[中央資料庫中]({{ site.github.repository_url }})，您會找到所有需要瞭解我們公司的資訊，徹底了解團隊運作方式。我們員工內部使用的所有信息，你也可以在這裡檢閱。我們鼓勵您利用這網站去了解我們。
 
-## 關於我們
-我們鼓勵您利用這網站去了解我們。我們不斷的希望與與才華的人合作，**正在廣尋優秀人才**加入團隊。
+<br>
+
+## 唯才是用
+我們不斷的希望與與才華的人合作，**正在廣尋優秀人才**加入團隊。
 
 [探索機會]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
 
@@ -27,10 +29,12 @@ description: An Open Sourced Company
 
 ## Radical Transparency 
 
-We believe in radical transparency, where the best ideas win. As such, how we run the company is [open sourced to the world]({{ site.github.repository_url }}). In this central repository, you will find all the information you need to understand what it is like to work here. All the information available to our employees is also available to you.
+We believe in radical transparency, where the best ideas win. As such, how we run the company is [open sourced to the world]({{ site.github.repository_url }}). In this central repository, you will find all the information you need to understand what it is like to work here. All the information available to our employees is also available to you. We encourage you to learn more about us here at this depository. 
 
-## About Us
-We encourage you to learn more about us here at this depository. We want to work with talented individuals and are **always actively hiring**. 
+<br>
+
+## Work with the best people
+We want to work with talented individuals and are **always actively hiring**. 
 
 [Explore opportunities]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
 
