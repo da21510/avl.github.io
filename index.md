@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 一家開源的新創
-description: An Open Sourced Company
+title: 加速孵化新創
+description: Startup Incubator
 ---
 
 <br>
