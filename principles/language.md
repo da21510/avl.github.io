@@ -4,6 +4,8 @@ title: 工作語言
 description: Language
 ---
 
+# 中文是 AVL 的主要語言。需要可以瞭解英文 API specs。
+
 # Chinese is the primary language used at AVL
 
 ## Language Requirements
@@ -11,7 +13,7 @@ description: Language
 | Language | Speaking | Listening | Writing | Reading |
 | --- | --- | --- | --- | --- |
 | English | Not Required | Not Required | Not Required | Understand Technical Documentation |
-| Chinese | Required | Required | Required | Required |
+| Chinese | Optional | Preferred | Optional | Optional |
 
 ## Why Chinese?
 

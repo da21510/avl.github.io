@@ -26,8 +26,8 @@ description: An Open Sourced Company
 ## 歡迎大家的建議
 
 我們歡迎各位的建議：
-* 請由 [git pull request] ({{ site.github.repository_url }}/pull/new/master)建議文件更改。
-* 請由 [git issue] ({{ site.github.repository_url }}/issues/new)投入您的疑問。
+* 請由 [git pull request]({{ site.github.repository_url }}/pull/new/master)建議文件更改。
+* 請由 [git issue]({{ site.github.repository_url }}/issues/new)投入您的疑問。
 
 <br>
 
