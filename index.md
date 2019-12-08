@@ -17,7 +17,7 @@ description: Startup Incubator
 <br>
 
 ## 唯才是用
-我們不斷的希望與與才華的人合作，**正在廣尋優秀人才**加入團隊。
+我們希望與有才華的你合作，**正在廣尋優秀人才**加入團隊。
 
 [探索機會]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
 
