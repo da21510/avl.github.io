@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 不一樣的加速孵化新創團隊
-description: Startup Incubator
+description: A Different Breed of Startup Incubator
 ---
 
 <br>
