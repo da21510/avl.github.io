@@ -19,14 +19,14 @@ description: Interview Process
 
 | # | 階段 | 時間 |
 | --- | --- | --- |
-| 1 | 決定入取 | 2週 |
+| 1 | 決定錄取 | 2週 |
 | 2 | 全職員工 | N/A |
 
 <br>
 
 ## 其他Offer期限
 
-如果您已經有了其他公司的offer，請跟我們告知我們會竟量跟您配合。
+如果您已經有了其他公司的offer，請跟我們告知我們會盡量跟您配合。
 
 <br>
 [現在申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}

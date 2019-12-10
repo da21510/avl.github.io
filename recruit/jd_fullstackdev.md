@@ -28,7 +28,7 @@ description: Full Stack Web Developer
 ### 全端架構需求
 - JavaScript (Express, Node, React, React Native, Redux), HTML, CSS 經驗
 - iOS mobile app 經驗加分
-- 應為我們團隊目前很小，您必須能夠跨任何技術stack, 並需要學習各種新技術
+- 因為我們團隊目前很小，您必須能夠跨任何技術stack, 並需要學習各種新技術
 
 ### 基本軟體工程
 - 對OOP有紮實的理解； 熟悉各種設計和建築模式
