@@ -1,4 +1,4 @@
-# AVL | 一家開源的新創 | An Open Sourced Company
+# AVL | 一家開源的新創 | An Open Sourced Incubator
 
 > https://avancevl.github.io/avl.github.io/
 
