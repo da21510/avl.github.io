@@ -97,7 +97,9 @@ description: Front End Developer
 
 <br>
 
-### Front-End Stack
+## 我們的架構：Our Stack
+
+### 前端：Front-End
 ```javascript
 // AVL's front-end stack
 

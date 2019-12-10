@@ -95,7 +95,9 @@ description: Full Stack Web Developer
 
 <br>
 
-### Front-End Stack
+## 我們的架構：Our Stack
+
+### 前端：Front-End
 ```javascript
 // AVL's front-end stack
 
@@ -111,7 +113,7 @@ import { createStore } from 'reduce';
 
 ```
 
-### Back-End Stack
+### 後端：Back-End
 ```javascript
 // AVL's back-end stack
 
