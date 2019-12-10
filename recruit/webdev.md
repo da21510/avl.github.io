@@ -17,13 +17,14 @@ description: Web Developer Exam
 1. 在你預定的考試時間，我們會 email 你的考題和需要開發的網頁功能。請先檢閱次考前準備。
 1. 你將會在2.5小時內，成功的開發一個網站。考題裡會有詳細的功能**讓你選擇**：
 	1. 請自由選擇你想要開發的功能，最能表現你的能力，沒有先後次序。
-1. 讓你選擇你最熟悉的語言和架構。
-	1. 選擇你最熟悉的程式語言和架構。
-	1. 我們在 AVL 主要用 **JS, Express, Node, and React Redux**
-	1. RWD 加分。
+1. 讓你選擇你最熟悉的現代網頁開發語言和架構。
+	1. 我們在 AVL 主要用 **JS, Express, Node, React Redux**
+	1. **RWD，HTML/CSS** 優化加分。
+	1. 考試時，請選擇使用：Express/Node, React/Redux, Vue, Rails, Django, HTML, CSS
+	1. 考試時，請勿使用：Java, PHP, jQuery, ASP.NET, C#
 1. 我們想看的是一個**前後端可以使用的網站**，有完善的功能，可以完整測試使用最好。
 1. 我們鼓勵你重複使用現有的架構像是 Redux、Bootstrap，**不需要從零開始**。
-1. 時間到時，**請上架**，並提供 live demo URL：
+1. 時間到時，**請上架**，並提供網站 URL：
 	1. 自備伺服器
 	1. 或是 Cloud server, 比如 AWS, Heroku.
 
@@ -37,7 +38,7 @@ description: Web Developer Exam
 1. **品質.** 其他工程師很容易瞭解並維修你寫的代碼？
 
 ### 我們會看：
-1. 你的 web app live demo URL。
+1. 你的 web app live URL。
 	1. 網頁是否可以使用，功能規格是依照指示。
 	1. 我們希望考試不要有bug，實際做出來的項目少，但品質好。
 1. 你在 GitHub，GitLab 上傳的代碼。（以後申請工作可以用）
@@ -55,7 +56,7 @@ description: Web Developer Exam
 	1. 設定好 JavaScript 或任何你喜歡用的現代網頁開發語言。
 	1. 設定好你最熟悉的**網頁架構** （比如 Django，React.js，Node.js，等）
 	1. 提前先建立好資料庫環境。
-	1. **預先設定好幫助開發的工具**，例如：Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScripte, Babel, EJS。
+	1. **預先設定好幫助開發的工具**，例如：Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScript, Babel, EJS。
 1. **自被電腦或雲端測試：** 確認你的網頁可上架 live demo。
 	1. 設定比較安全的port。
 	1. 確認防火牆沒把網頁擋住。
@@ -103,7 +104,9 @@ description: Web Developer Exam
 1. **Any framework.** You choose the programming language and framework.
 	1. Choose language and framework you are the most familiar and proficient in.
 	1. However, we primarily use **JS, Express, Node, and React Redux**
-	1. **Modern RWD.** Bonus points for fully responsive web / mobile design.
+	1. **RWD.** Bonus points for fully responsive web/mobile design with HTML/CSS.
+	1. Please use from the following: Express/Node, React/Redux, Vue, Rails, Django, HTML, CSS
+	1. Please do not use: Java/PHP/jQuery/ASP.NET/C#
 1. **Quality over quantity.** We value working prototypes, so make sure your site is live and running before you move onto additional features.
 1. **Reuse and leverage.** We highly encourage you to reuse other people's work, like Bootstrap and Redux. Don't reinvent the wheel.
 1. **Self or cloud host.** We will ask you to spin up and host your app for 1 week.
@@ -138,7 +141,7 @@ description: Web Developer Exam
 	1. Setup JavaScript or any language you wish to use.
 	1. Setup any web framework you’re most familiar with (e.g. Django, React.js, Node.js)
 	1. Setup a database you are most familar with to store customer data. Both SQL or no SQL database are OK.
-	1. Setup IDEs or any developer tools to maximize your efficiency during the exam. e.g. Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScripte, Babel, EJS
+	1. Setup IDEs or any developer tools to maximize your efficiency during the exam. e.g. Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScript, Babel, EJS
 1. **Self or Cloud Hosted Test.** Make sure you can host a webpage from your development box or cloud on the world wide web.
 	1. Open a port that is more secure than commonly scanned ports (e.g. Port 22)
 	1. Make sure firewall configured so you can see your web page outside of your local area or cloud network.
