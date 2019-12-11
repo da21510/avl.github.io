@@ -63,5 +63,5 @@ We welcome feedback.
 * Please make a [pull request]({{ site.github.repository_url }}/pull/new/master) to suggest improvements or add clarification.
 * Please create a [issue]({{ site.github.repository_url }}/issues/new) to ask questions.
 
-Shout out and thanks to our github contributors:
+Shout out and thanks to our GitHub contributors:
 * [0t2 (Jesse)](https://github.com/0t2)
