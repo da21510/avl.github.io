@@ -11,7 +11,7 @@ description: Web Developer Exam
 
 ## 考試指示
 > **注意：**
-> 為節省時間，我們強烈建議您在**考試前**先設置一個空白的網頁架構與開發網站的基本設定 (列： Django, Rails, Node.js) 
+> 為節省時間，我們強烈建議您在**考試前**先設置一個空白的網頁架構與開發網站的基本設定 (列： Django, Rails, Node.js, Express.js) 
 
 1. 你會有**2.5小時**盡量完成開發一個網頁，包括一些前後端網站功能。
 1. 在你預定的考試時間，我們會 email 你的考題和需要開發的網頁功能。請先檢閱次考前準備。
@@ -20,13 +20,13 @@ description: Web Developer Exam
 1. 讓你選擇你最熟悉的現代網頁開發語言和架構。
 	1. 我們在 AVL 主要用 **JS, Express, Node, React Redux**
 	1. **RWD，HTML/CSS** 優化加分。
-	1. 考試時，請選擇使用：Express/Node, React/Redux, Vue, Rails, Django, HTML, CSS
+	1. 考試時，請選擇使用：JavaScript, Node, Express, React, Redux, HTML, CSS, Django, Rails, Vue, Ember, Backbone, MySQL, PostgreSQL, MongoDB
 	1. 考試時，請勿使用：Java, PHP, jQuery, ASP.NET, C#
 1. 我們想看的是一個**前後端可以使用的網站**，有完善的功能，可以完整測試使用最好。
 1. 我們鼓勵你重複使用現有的架構像是 Redux、Bootstrap，**不需要從零開始**。
 1. 時間到時，**請上架**，並提供網站 URL：
 	1. 自備伺服器
-	1. 或是 Cloud server, 比如 AWS, Heroku.
+	1. 或是 cloud server, 比如 AWS, [Heroku 免費](https://medium.com/enjoy-life-enjoy-coding/heroku-搭配-git-在-heroku-上部署網站的手把手教學-bf4fd6f998b8).
 
 ## 考試結果如何被評估
 * 考試的目的是用實際面準確的測量實力，題目跟工作上的應用類似。
@@ -35,18 +35,17 @@ description: Web Developer Exam
 
 ### 我們重視：
 1. **數度.** 多快速能架構好有各功能的網頁？
-1. **品質.** 其他工程師很容易瞭解並維修你寫的代碼？
+1. **品質.** 其他工程師很容易瞭解並維修你寫的程式碼？
 
 ### 我們會看：
-1. 你的 web app live URL。
+1. 你的 web URL。
 	1. 網頁是否可以使用，功能規格是依照指示。
-	1. 我們希望考試不要有bug，實際做出來的項目少，但品質好。
-1. 你在 GitHub，GitLab 上傳的代碼。（以後申請工作可以用）
-1. 你的 **Git Commits**
-	1. 我們會以你的 GitHub/GitLab 上的 git commit 時間來檢查考試期間內是否完成。
-	1. 你的**第一個 commit** 應該在考試開始時。應該是幾乎空白，只有基本的代碼，一些簡單網頁的架構設置。
+	1. 實際做出來的項目少，但品質好。
+1. 你的 GitHub/GitLab **Git Commits**（以後申請工作可使用）
+	1. 我們會以你的 GitHub/GitLab 上的 git commit 上傳程式碼時間來檢查考試期間內是否完成。
+	1. 你的**第一個 commit** 應該在考試開始時。應該是幾乎空白，只有基本的程式碼，一些簡單網頁的架構設置。
 	1. 你應該大概**每30分鐘 commit 一次**，總共大約5個 commits。
-	1. 你在 2.5 小時裡，需要用你的 commits 來**顯示你的進度**。你最後的 commit 不應該包含全部或大部分的代碼。
+	1. 你在 2.5 小時裡，需要用你的 commits 來**顯示你的進度**。你最後的 commit 不應該包含全部或大部分的程式碼。
 
 ## 考前準備
 > **注意：**
@@ -54,9 +53,9 @@ description: Web Developer Exam
 
 1. **開發環境：** 預先準備好網頁開發環境，使用你習慣的語言、架構、前後端、DB。
 	1. 設定好 JavaScript 或任何你喜歡用的現代網頁開發語言。
-	1. 設定好你最熟悉的**網頁架構** （比如 Django，React.js，Node.js，等）
+	1. 設定好你最熟悉的**網頁架構** （比如 Django，Rails，React.js，Node.js，等）
 	1. 提前先建立好資料庫環境。
-	1. **預先設定好幫助開發的工具**，例如：Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScript, Babel, EJS。
+	1. **預先設定好幫助開發的工具**，例如：GitHub, Sublime, Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScript, Babel, EJS。
 1. **自備電腦或雲端測試：** 確認你的網頁可上架 live demo。
 	1. 設定比較安全的port。
 	1. 確認防火牆沒把網頁擋住。
@@ -105,7 +104,7 @@ description: Web Developer Exam
 	1. Choose language and framework you are the most familiar and proficient in.
 	1. However, we primarily use **JS, Express, Node, and React Redux**
 	1. **RWD.** Bonus points for fully responsive web/mobile design with HTML/CSS.
-	1. Please use from the following: Express/Node, React/Redux, Vue, Rails, Django, HTML, CSS
+	1. Please use from the following: JavaScript, Node, Express, React, Redux, HTML, CSS, Django, Rails, Vue, Ember, Backbone, MySQL, PostgreSQL, MongoDB
 	1. Please do not use: Java/PHP/jQuery/ASP.NET/C#
 1. **Quality over quantity.** We value working prototypes, so make sure your site is live and running before you move onto additional features.
 1. **Reuse and leverage.** We highly encourage you to reuse other people's work, like Bootstrap and Redux. Don't reinvent the wheel.
@@ -147,7 +146,7 @@ description: Web Developer Exam
 	1. Make sure firewall configured so you can see your web page outside of your local area or cloud network.
 1. **GitHub or GitLab Account.** Make sure you have a public GitHub/GitLab account that you can host your exam submission code for us to evaluate.
 1. **How to prepare.**
-	1. Be prepared to implement a database. (SQL, MongolDB)
+	1. Be prepared to implement a database. (SQL, MongoDB)
 	1. Be prepared to implement both front- and back- end developement. A common stack is: JS, Express, Node, HTML, CSS, React.
 	1. There are no tricks or brain teasers. You will be building a website with user and admin functions, like a shopping site, a booking site, or a news site. 
 	1. Create a Facebook Login account and a Google Developer account and have key ready. You will need to implement an OAuth for user login management.
