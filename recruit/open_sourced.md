@@ -8,7 +8,7 @@ description: Open Source Contributions
 
 Contribute to our efforts to open source the way our company is run by implementing cool Jekyll features below.
 
-* Get noticed by our HR and potentially expedite your interview process.
+* Get noticed by our HR and expedite your interview process.
 * Contribute to the open-sourced [Jekyll community](https://jekyllrb.com/){:target="_blank"}.
 * Build up your GitHub portfolio and presence.
 * Get recognized with a shout out.
