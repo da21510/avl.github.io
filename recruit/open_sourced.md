@@ -13,6 +13,8 @@ Contribute to our efforts to open source the way our company is run by implement
 * Build up your GitHub portfolio and presence.
 * Get recognized with a shout out.
 
+<br>
+
 [Fork GitHub](https://github.com/avancevl/avl.github.io){: .btn#page-btn}{:target="_blank"}.
 
 ### Feature 1. Fix Chinese Translation and Typos
@@ -23,7 +25,7 @@ Chinese is our second language, so naturally there are going to be a lot of typo
 
 We would like to have a little navigation bar at the top of each page to show where the current user is in the navigation tree, similar to the screenshot below.
 
-<img src='https://lh3.googleusercontent.com/R-3RKgPgLjzZNA3ORZp9dIsz0DMFg_Tl24jbEQTZCUv28VCr5kh8uxGXhv_GNcBMRt15wfXzQgOb69H1sbY1krdqAxlGraxjIFH1BZp8xTiUpPrLbSvMLu-Jvh1UbGQpZnVxiJGwWg=w400' />
+> You are here: 
 
 The navigation bar should make it easy to navigate one level up and down the tree.
 
