@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 不一樣的加速孵化新創團隊
-description: Call for Open Source
+title: 開源貢獻
+description: Open Source Contributions
 ---
 
 感謝在GitHub上的貢獻者：
