@@ -13,7 +13,7 @@ Contribute to our efforts to open source the way our company is run by implement
 * Build up your GitHub portfolio and presence.
 * Get recognized with a shout out.
 
-[Fork Repo](https://github.com/avancevl/avl.github.io){: .btn#page-btn}{:target="_blank"}.
+[Fork GitHub](https://github.com/avancevl/avl.github.io){: .btn#page-btn}{:target="_blank"}.
 
 ### Feature 1. Fix Chinese Translation and Typos
 
