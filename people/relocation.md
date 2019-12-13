@@ -9,9 +9,9 @@ description: Relocation
 纖細了解外派條件，請前往[美國公民移民署官網](https://www.uscis.gov/working-united-states/temporary-workers/l-1b-intracompany-transferee-specialized-knowledge){:target="_blank"}。
 
 ### 重點
-* 不能保證每人每家公司都能符合條件
+* 不能保證每人每家公司都能符合條件。
 * 不能保證每位符合條件員工或每家符合條件公司都能拿到許可，有很大的不確定因數。
-* 過程非常長
+* 過程非常長。
 
 <br>
 
