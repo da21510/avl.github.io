@@ -25,7 +25,7 @@ Chinese is our second language, so naturally there are going to be a lot of typo
 
 We would like to have a little navigation bar at the top of each page to show where the current user is in the navigation tree, similar to the screenshot below.
 
-> You are here: 
+> You are here: **徵才 Recruiting** > **職缺 Open Positions** > *全端軟體工程師 Full Stack Developer*
 
 The navigation bar should make it easy to navigate one level up and down the tree.
 
