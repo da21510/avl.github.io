@@ -4,6 +4,10 @@ title: 開源貢獻
 description: Open Source Contributions
 ---
 
+[Fork Repo](https://github.com/avancevl/avl.github.io){: .btn#page-btn}{:target="_blank"}.
+
+<br>
+
 ## Call for Features
 
 Contribute to our efforts to open source the way our company is run by implementing cool Jekyll features below.
@@ -51,11 +55,15 @@ As our open-sourced documents get more and more, we need a search bar to help em
 * Should support both Chinese and English search terms.
 * Client only, server-less.
 
+<br>
+
 ## How to Contribute
 
 1. Fork our repo [here](https://github.com/avancevl/avl.github.io){:target="_blank"}.
 1. Submit pull request.
 1. Approve and merged within 1 week.
+
+<br>
 
 ## Special Thanks
 
