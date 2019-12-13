@@ -36,7 +36,7 @@ To understand relocation requirement details, please visit [US Citizenship and I
 
 > The L-1B nonimmigrant classification enables a U.S. employer to transfer a professional employee with specialized knowledge relating to the organization’s interests from one of its affiliated foreign offices to one of its offices in the United States.  This classification also enables a foreign company which does not yet have an affiliated U.S. office to send a specialized knowledge employee to the United States to help establish one.  The employer must file Form I-129, Petition for a Nonimmigrant Worker with fee, on behalf of the employee.
 
-## General Qualifications of the Employer and Employee
+> ### General Qualifications of the Employer and Employee
 
 > To qualify for L-1 classification in this category, the employer must:
 > * Have a qualifying relationship with a foreign company (parent company, branch, subsidiary, or affiliate, collectively referred to as qualifying organizations); and
