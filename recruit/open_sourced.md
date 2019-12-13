@@ -43,9 +43,24 @@ Somtimes, for a given page, you just want to be able to list the child pages in 
 * This can be implemented in HTML-Liquid.
 * If we add a new child page to the navigation tree, we should not have to update teh HTML-Liquid in the markdown.
 
+> 職缺 Open Positions
+> * 全端軟體工程師 Full Stack Developer
+> * 前端軟體工程師 Front End Developer
+> * 後端軟體工程師 Back End Developer
+
 ### Feature 5. Hide Child Pages in Navigation
 
 Our site map navigation tree is getting longer and longer. We would like all sub-trees to be collapsed / hidden, except for the current page. For the current page, displaying child pages is OK.
+
+> 介紹 Introduction
+> 公司理念 Principles
+> 人資管理 People
+> 徵才 Recruiting
+> * 職缺 Open Positions
+> * 面試過程 Interview Process
+> * 在家線上考試 Take-Home Exam
+> * **開源貢獻 Open Source Contribution**
+> 工程流程 Engineering
 
 ### Feature 6. Search Bar
 
