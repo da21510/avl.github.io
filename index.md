@@ -29,9 +29,6 @@ description: A Different Breed of Startup Incubator
 * 請由 [git pull request]({{ site.github.repository_url }}/pull/new/master)建議文件更改。
 * 請由 [git issue]({{ site.github.repository_url }}/issues/new)投入您的疑問。
 
-感謝在GitHub上的貢獻者：
-* [0t2 (Jesse)](https://github.com/0t2)
-
 <br>
 
 ---
@@ -62,6 +59,3 @@ We want to work with talented individuals and are **always actively hiring**.
 We welcome feedback.
 * Please make a [pull request]({{ site.github.repository_url }}/pull/new/master) to suggest improvements or add clarification.
 * Please create a [issue]({{ site.github.repository_url }}/issues/new) to ask questions.
-
-Shout out and thanks to our GitHub contributors:
-* [0t2 (Jesse)](https://github.com/0t2)

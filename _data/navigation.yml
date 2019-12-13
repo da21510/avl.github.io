@@ -70,6 +70,8 @@ toc:
         subsubfolderitems:
           - page: 網頁軟體工程師考試 Web Developer Exam
             url: /recruit/webdev.html
+      - page: 開源開發貢獻 Open Source Contribution
+        url: /recruit/open_sourced.html
   - title: 工程流程 Engineering
     url: /engineering/engineering.html
     subfolderitems:
