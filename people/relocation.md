@@ -34,7 +34,7 @@ To understand relocation requirement details, please visit [US Citizenship and I
 
 <br>
 
-### Excerpt
+[查看全文](https://www.uscis.gov/working-united-states/temporary-workers/l-1b-intracompany-transferee-specialized-knowledge){:target="_blank"}.
 
 > The L-1B nonimmigrant classification enables a U.S. employer to transfer a professional employee with specialized knowledge relating to the organization’s interests from one of its affiliated foreign offices to one of its offices in the United States.  This classification also enables a foreign company which does not yet have an affiliated U.S. office to send a specialized knowledge employee to the United States to help establish one.  The employer must file Form I-129, Petition for a Nonimmigrant Worker with fee, on behalf of the employee.
 >
