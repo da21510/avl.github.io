@@ -65,11 +65,12 @@ toc:
             url: /recruit/jd_backenddev.html
       - page: 面試過程 Interview Process
         url: /recruit/interview_process.html
-      - page: 加速在家線上測驗 Accelerated Take-Home Exam
-        url: /recruit/takehome.html
         subsubfolderitems:
-          - page: 網頁軟體工程師考試 Web Developer Exam
-            url: /recruit/webdev.html
+        - page: 加速在家線上測驗 Accelerated Take-Home Exam
+          url: /recruit/takehome.html
+          subsubsubfolderitems:
+            - page: 網頁軟體工程師考試 Web Developer Exam
+              url: /recruit/webdev.html
       - page: 開源貢獻 Open Source Contribution
         url: /recruit/open_sourced.html
   - title: 工程流程 Engineering
