@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 百般考試
-description: White-Board Exam
+title: 傳統百般考試
+description: Traditional White-Board Exam
 ---
 
 Our white-board exam
