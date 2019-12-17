@@ -26,15 +26,16 @@ Our traditional software engineer whiteboard interview process is **2 full days*
 ## Why we tend not to favor white-board exam?
 
 ### 1. Algorithms do not accurate reflect real work.
-When was the last time you had to implement BubbleSort or HeapSort at work? Engineering aptitude is not necessarily tested.
+When was the last time you had to implement BubbleSort or HeapSort at work? Engineering aptitude is not necessarily tested with algorithms.
 
-### 2. Luck is a big factor (algorithm lottery)
+### 2. Luck is a big factor - algorithm lottery
+Some candidates are unlucky and happen to be given an algorthm they haven't studied for or seen in a long time. There will be a lot of randomness in this process.
 
 ### 3. Age discrimination.
-Favors young engineers and recent grads. 
+Favors young engineers and recent grads because basic computer science concepts are more recently taught in university. Algorithms also tend to favor the younger mind as well.
 
 ### 4. More time consuming for everyone.
-
+The entire process is 2 full days, which is much longer than our **[Accelerated Take Home Exam]({{ site.baseurl }}/recruit/takehome.html).**
 
 ### 5. Longer preparation time.
-Need to memorize.
+Candidates will need to memorize and review algorithms. This is a lot of unnecessary extra work that won't be relevant to your day-to-day job.
