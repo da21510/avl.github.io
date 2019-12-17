@@ -17,8 +17,10 @@ description: Interview Process
 
 ## 技術測驗
 
-1. [選項 A: 加速申請 -  線上測驗 (2.5小時）]({{ site.baseurl }}/recruit/takehome.html)
-1. [選項 B: 傳統方案 - 實際白板考試（2天）]({{ site.baseurl }}/recruit/whiteboard.html)
+| 選項 | 方案 | 測驗 | 時間 |
+| --- | --- | --- | --- |
+| A | 加速申請 | [線上測驗]({{ site.baseurl }}/recruit/takehome.html) | 2.5小時 |
+| B | 傳統方案 | [實際白板考試]({{ site.baseurl }}/recruit/whiteboard.html) | 2天 |
 
 <br>
 
