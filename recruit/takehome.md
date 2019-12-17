@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 省時在家考試
+title: 促進在家考試
 description: Expedited Take-Home Exam
 ---
 
@@ -27,7 +27,7 @@ description: Expedited Take-Home Exam
 * 因為考題要你寫出一個網站，有許多發揮您的創意空間。
 
 ### 5. 時間彈性
-* 選您最方便的時間做考試。
+* 選您最方便的時間做考試
 
 ### 6. 順便學習
 * 您做考題時也會順便學到一點新技術。
