@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 在家線上考試
-description: TakeHome Exam
+description: Take-Home Exam
 ---
 
 我們的考題是模仿我們網頁開發團隊每天實際做的工作。在家線上考試可以客觀、公平、準確的評估工程師的實踐能力，讓參考者節省時間、彈性安排時段、最佳表現實際網站開發能力。2.5小時快速測量職級並決定與薪資.
@@ -40,7 +40,7 @@ description: TakeHome Exam
 
 ---
 
-Our take home exam is an accurate reflection of daily work at our company. The take home exam is therefore objective, fair, and accurate assessment of a candidate's ability. The exam saves the candidate time with flexible scheduling and time limit to no more than 2.5 hours.
+Our take-home exam is an accurate reflection of daily work at our company. The take home exam is therefore objective, fair, and accurate assessment of a candidate's ability. The exam saves the candidate time with flexible scheduling and time limit to no more than 2.5 hours.
 
 [View Exam Instructions]({{ site.baseurl }}/recruit/webdev.html){: .btn#page-btn}
 
