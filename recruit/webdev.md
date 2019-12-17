@@ -9,6 +9,10 @@ description: Web Developer Exam
 1. [前端軟體工程師]({{ site.baseurl }}/recruit/jd_frontenddev.html)
 1. [後端軟體工程師]({{ site.baseurl }}/recruit/jd_backenddev.html)
 
+[立即申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
+
 ## 考試指示
 > **注意：**
 > 為節省時間，我們強烈建議您在**考試前**先設置一個空白的網頁架構與開發網站的基本設定 (列： Django, Rails, Node.js, Express.js) 
@@ -90,6 +94,10 @@ description: Web Developer Exam
 1. [Full Stack Developer]({{ site.baseurl }}/recruit/jd_fullstackdev.html)
 1. [Front-End Developer]({{ site.baseurl }}/recruit/jd_frontenddev.html)
 1. [Back-End Developer]({{ site.baseurl }}/recruit/jd_backenddev.html)
+
+[Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+<br>
 
 ## Exam Instructions
 > **IMPORTANT:**
