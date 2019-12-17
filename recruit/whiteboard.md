@@ -4,7 +4,11 @@ title: "選項B：傳統方案 - 實際白板考試"
 description: Traditional Whiteboard Interview
 ---
 
-Our traditional software engineer whiteboard interview process is **2 full days**. Each day of interview starts at 9am, breaks for lunchtime, and continues onto the evening. The day is broken up into several 2 hour sessions each led by a different software engineer. Candidates who successfully completes the first day will be invited back for a second day of technical interviews.
+Our traditional software engineer whiteboard interview process is **2 full days**. 
+* Each day of interview starts at 9am, breaks for lunchtime, and continues onto the evening. 
+* The day is broken up into several 1.5 hour sessions each led by a different software engineer.
+* The 1.5 hours sessions are purely technical.
+* Candidates who successfully completes the first day will be invited back for a second day of technical interviews.
 
 [Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
