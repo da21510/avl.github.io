@@ -27,7 +27,7 @@ We **highly encourage** candidates to apply through our **[Accelerated Take Home
 * Backtracking
 * Dynamic programming
 
-## Why we tend not to favor white-board exam?
+## Why we tend not to favor whiteboard exam?
 
 ### 1. Algorithms do not accurate reflect real work.
 When was the last time you had to implement BubbleSort or HeapSort at work? Engineering aptitude is not necessarily tested with algorithms.
