@@ -66,6 +66,18 @@
                                 <a href="{{ site.baseurl }}{{ subentry.url }}">{{ subentry.page }}</a>
                               {% endif %}
                               </li>
+                              {% if entry.subsubsubfolderitems[0] %}
+                                <ul>
+                                {% for subsubentry in entry.subsubsubfolderitems %}
+                                    <li>
+                                    {% if page.url == subsubentry.url %}
+                                      <a href="{{ site.baseurl }}{{ subsubentry.url }}" class="active">{{ subsubentry.page }}</a>
+                                    {% else %}
+                                      <a href="{{ site.baseurl }}{{ subsubentry.url }}">{{ subsubentry.page }}</a>
+                                    {% endif %}
+                                    </li>
+                                {% endfor %}
+                              {% endif %}
                           {% endfor %}
                           </ul>
                         {% endif %}
