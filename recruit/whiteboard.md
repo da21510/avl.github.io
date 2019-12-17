@@ -14,6 +14,10 @@ Our traditional software engineer whiteboard interview process is **2 full days*
 
 <br>
 
+## Accelerated Alternative
+
+We **highly encourage** candidates to apply through our **[Accelerated Take Home Exam]({{ site.baseurl }}/recruit/takehome.html)** instead.
+
 ## General Topics
 
 * Arrays/Strings
