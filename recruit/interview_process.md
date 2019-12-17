@@ -51,9 +51,18 @@ description: Interview Process
 | # | Stage | Time Duration | Evaluation |
 | --- | --- | --- | --- |
 | 1 | [Online Application]({{ site.job_form_url }}){:target="_blank"} | 15 min | Cultural Fit |
-| 2 | [Take Home Exam]({{ site.baseurl }}/recruit/takehome.html) | 2.5 hour | Technical |
+| 2 | Technical Evaluation | 2.5 hour | Technical |
 | 3 | Phone Interview | 30 min | Personality |
 | 4 | In-Person Interview | 1 hour | Personality |
+
+<br>
+
+## Technical Evaluation
+
+| Choice | Method | Evaluation | Time Duration |
+| --- | --- | --- | --- |
+| A | Accelerated | [Take Home Exam]({{ site.baseurl }}/recruit/takehome.html) | 2.5 hour |
+| B | Normal | [Whiteboard Interview]({{ site.baseurl }}/recruit/whiteboard.html) | 2 days |
 
 <br>
 
