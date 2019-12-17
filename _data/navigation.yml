@@ -66,7 +66,7 @@ toc:
       - page: 面試過程 Interview Process
         url: /recruit/interview_process.html
         subsubfolderitems:
-        - page: "選項A：加速申請 - 線上測驗 Method A: Accelerated Take-Home Exam"
+        - page: 選項A：加速申請 - 線上測驗 Accelerated Take-Home Exam
           url: /recruit/takehome.html
           subsubsubfolderitems:
             - page: 網頁軟體工程師考試 Web Developer Exam
