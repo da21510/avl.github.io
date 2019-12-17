@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 傳統百般考試
-description: Traditional White-Board Exam
+title: "選項B：傳統方案 - 實際白板考試"
+description: Traditional White-Board Interview
 ---
 
 Our white-board exam

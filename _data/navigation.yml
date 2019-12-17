@@ -66,11 +66,13 @@ toc:
       - page: 面試過程 Interview Process
         url: /recruit/interview_process.html
         subsubfolderitems:
-        - page: 選項A：加速申請 - 線上測驗 Accelerated Take-Home Exam
+        - page: "選項A：加速申請 - 線上測驗（2.5小時）Accelerated Take-Home Exam"
           url: /recruit/takehome.html
           subsubsubfolderitems:
             - page: 網頁軟體工程師考試 Web Developer Exam
               url: /recruit/webdev.html
+        - page: "選項B：傳統方案 - 實際白板考試（2天）Traditional Whiteobard Interview"
+          url: /recruit/whiteboard.html
       - page: 開源貢獻 Open Source Contribution
         url: /recruit/open_sourced.html
   - title: 工程流程 Engineering
