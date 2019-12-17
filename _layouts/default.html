@@ -68,7 +68,7 @@
                               </li>
                               {% if subentry.subsubsubfolderitems[0] %}
                                 <ul>
-                                {% for subsubentry in entry.subsubsubfolderitems %}
+                                {% for subsubentry in subentry.subsubsubfolderitems %}
                                     <li>
                                     {% if page.url == subsubentry.url %}
                                       <a href="{{ site.baseurl }}{{ subsubentry.url }}" class="active">{{ subsubentry.page }}</a>
