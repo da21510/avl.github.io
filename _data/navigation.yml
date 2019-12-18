@@ -41,9 +41,9 @@ toc:
       - page: 薪資制度 Compensation
         url: /people/compensation.html
         subsubfolderitems:
-          - page: 工程師薪水 Engineering Levels
+          - page: 全職工程師薪水 Full Time Engineering Levels
             url: /people/engineering_level.html
-          - page: 特案兼職費用 Engineering Levels
+          - page: 特案兼職費用 Project-Based/Part Time Engineering Levels
             url: /people/projectbased_level.html
       - page: 工作時間 Working Hours
         url: /people/work_hours.html
