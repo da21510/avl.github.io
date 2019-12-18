@@ -37,3 +37,16 @@ Do real startup work, create real production code. No wasted effort or “sample
 1. Gain real world experience working with the latest technology, tools, and the most robust software development and product management processes.
 1. Learn how to make integrated business decisions, conduct meetings, and present effectively.
 1. Learn non-engineering skills like marketing, sales, and analytics techniques necessary to run a business. 
+
+### HAVE OWNERSHIP
+
+You will get complete ownership of your own critical projects. You will be assigned personal OKRs and KPIs on weekly and monthly basis. 
+
+### RECEIVE MENTORSHIP AND CAREER DEVELOPMENT
+
+Regular coaching feedback from Stanford and MIT alumni. Get real experiences to develop your future career direction. 
+
+### RECEIVE COMPENSATION
+
+You will receive compensation based on OKR performance as bonus, scholarship, or stipend.
+
