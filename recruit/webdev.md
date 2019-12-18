@@ -15,14 +15,14 @@ description: Web Developer Exam
 
 ## 考試指示
 > **注意：**
-> 為節省時間，我們強烈建議您在**考試前**先設置一個空白的網頁架構與開發網站的基本設定 (列： Django, Rails, Node.js, Express.js) 
+> 為節省時間，我們強烈建議您在**考試前**先設置一個空白的網頁架構與開發網站的基本設定 (列：Django, Rails, Node.js, Express.js) 
 
 1. 你會有**2.5小時**盡量完成開發一個網頁，包括一些前後端網站功能。
 1. 在你預定的考試時間，我們會 email 你的考題和需要開發的網頁功能。請先檢閱次考前準備。
 1. 你將會在2.5小時內，成功的開發一個網站。考題裡會有詳細的功能**讓你選擇**：
 	1. 請自由選擇你想要開發的功能，最能表現你的能力，沒有先後次序。
 1. 讓你選擇你最熟悉的現代網頁開發語言和架構。
-	1. 我們在 AVL 主要用 **JS, Express, Node, React Redux**
+	1. 我們在 AVL 主要用 **JS, Express, Node, React, Redux, Rails, Django**
 	1. **RWD，HTML/CSS** 優化加分。
 	1. 考試時，請選擇使用：JavaScript, Node, Express, React, Redux, HTML, CSS, Django, Rails, Vue, Ember, Backbone, MySQL, PostgreSQL, MongoDB
 	1. 考試時，請勿使用：Java, PHP, jQuery, ASP.NET, C#
@@ -57,9 +57,9 @@ description: Web Developer Exam
 
 1. **開發環境：** 預先準備好網頁開發環境，使用你習慣的語言、架構、前後端、DB。
 	1. 設定好 JavaScript 或任何你喜歡用的現代網頁開發語言。
-	1. 設定好你最熟悉的**網頁架構** （比如 Django，Rails，React.js，Node.js，等）
+	1. 設定好你最熟悉的**網頁架構** （比如 Django，Rails，React.js，Express.js，等）
 	1. 提前先建立好資料庫環境。
-	1. **預先設定好幫助開發的工具**，例如：GitHub, Sublime, Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScript, Babel, EJS。
+	1. **預先設定好幫助開發的工具**，例如：GitHub, Sublime, Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScript, Babel, EJS, unittest/pyUnit, RSpec。
 1. **自備電腦或雲端測試：** 確認你的網頁可上架 live demo。
 	1. 設定比較安全的port。
 	1. 確認防火牆沒把網頁擋住。
@@ -146,15 +146,15 @@ description: Web Developer Exam
 
 1. **Development Environment.** Setup a linux-based development environment. We recommend MacOS or Ubuntu.
 	1. Setup JavaScript or any language you wish to use.
-	1. Setup any web framework you’re most familiar with (e.g. Django, React.js, Node.js)
+	1. Setup any web framework you’re most familiar with (e.g. Django, Rails, React.js, Express.js)
 	1. Setup a database you are most familar with to store customer data. Both SQL or no SQL database are OK.
-	1. Setup IDEs or any developer tools to maximize your efficiency during the exam. e.g. Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScript, Babel, EJS
+	1. Setup IDEs or any developer tools to maximize your efficiency during the exam. e.g. Gulp.js, Webpack, ESLint, Jest, Mocha, Chai, Jasmine, TypeScript, Babel, EJS, unittest/pyUnit, RSpec.
 1. **Self or Cloud Hosted Test.** Make sure you can host a webpage from your development box or cloud on the world wide web.
 	1. Open a port that is more secure than commonly scanned ports (e.g. Port 22)
 	1. Make sure firewall configured so you can see your web page outside of your local area or cloud network.
 1. **GitHub or GitLab Account.** Make sure you have a public GitHub/GitLab account that you can host your exam submission code for us to evaluate.
 1. **How to prepare.**
-	1. Be prepared to implement a database. (SQL, MongoDB)
+	1. Be prepared to implement a database. (e.g., SQL, MongoDB)
 	1. Be prepared to implement both front- and back- end developement. A common stack is: JS, Express, Node, HTML, CSS, React.
 	1. There are no tricks or brain teasers. You will be building a website with user and admin functions, like a shopping site, a booking site, or a news site. 
 	1. Create a Facebook Login account and a Google Developer account and have key ready. You will need to implement an OAuth for user login management.
