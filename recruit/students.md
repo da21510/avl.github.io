@@ -6,6 +6,9 @@ description: Students & New Graduates
 
 ## **Mentored Intern Training MIT Program**
 
+> Do important work.
+> Create meaningful impact.
+
 ## For college students and recent graduates.
 
 Companies often treat interns as free labor for non-vital projects’ non-vital parts. We disagree.
