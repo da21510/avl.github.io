@@ -43,6 +43,8 @@ toc:
         subsubfolderitems:
           - page: 工程師薪水 Engineering Levels
             url: /people/engineering_level.html
+          - page: 特案兼職費用 Engineering Levels
+            url: /people/projectbased_level.html
       - page: 工作時間 Working Hours
         url: /people/work_hours.html
       - page: 團隊活動 Team Events
@@ -63,7 +65,7 @@ toc:
             url: /recruit/jd_frontenddev.html
           - page: 後端軟體工程師 Back End Developer
             url: /recruit/jd_backenddev.html
-          - page: 全端軟體工程師(特案兼職) Full Stack Developer (Project-Based/Part-Time)
+          - page: 全端軟體工程師(特案兼職) Full Stack (Project-Based/Part-Time)
             url: /recruit/jd_projectbased.html
       - page: 面試過程 Interview Process
         url: /recruit/interview_process.html
