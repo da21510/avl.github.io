@@ -54,32 +54,39 @@ You will receive compensation based on OKR performance as bonus, scholarship, or
 
 <br>
 
-## #MIT PROGRAM. Pioneer Taiwan’s tech startup ecosystem on a fundamental level.
+## #MIT PROGRAM
+## Pioneer Taiwan’s tech startup ecosystem on a fundamental level.
 
 This is your opportunity to contribute in a Made In Taiwan company. You will be challenged. You are expected to execute excellent results. If you’re proactive, hardworking, and highly skilled,
 
 [Join Us]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
-#### How long are your internships
+#### How long are your internships?
 
 ​We offer flexible internship lengths at a 12-week minimum.
+
 
 ​#### Who can apply?
 
 ​We look for hardworking students who can contribute as software programmers.
 
+
 ​#### Do you hire interns after graduation?
 
 A major purpose of our internship program is to give you the opportunity to explore whether you’d like to work with us full-time post-graduation. We hire many former interns. We also hire many new graduates who did not intern with us.
 
+
 #### Where is the internship?
 ​
 We allow remote working, with regular in-person meetings and events.
+
 ​
 #### When do you hire interns?
 
 We offer year-round internships, though summer is the most popular. We hire on a rolling basis, offering flexible work hours.
 
+
 ​#### How are interns placed on teams?
 
 ​We look at your background and preferences, factor in team bandwidth, and then assign you a team that will be the best fit for everyone involved.
+
