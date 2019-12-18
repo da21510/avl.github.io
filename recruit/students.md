@@ -18,6 +18,10 @@ If you’re intelligent, proactive, and hardworking, we want the opportunity to 
 
 <br>
 
+---
+
+<br>
+
 ## Solve real challenges. Help real people.
 
 > Interns have the opportunity to own projects that directly and positively affect our business. 
@@ -51,6 +55,10 @@ Regular coaching feedback from Stanford and MIT alumni. Get real experiences to 
 ### RECEIVE COMPENSATION
 
 You will receive compensation based on OKR performance as bonus, scholarship, or stipend.
+
+<br>
+
+---
 
 <br>
 
