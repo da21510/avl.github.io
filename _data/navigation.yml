@@ -63,6 +63,8 @@ toc:
             url: /recruit/jd_frontenddev.html
           - page: 後端軟體工程師 Back End Developer
             url: /recruit/jd_backenddev.html
+          - page: 全端軟體工程師(特案兼職) Full Stack Developer (Project-Based/Part-Time)
+            url: /recruit/jd_projectbased.html
       - page: 面試過程 Interview Process
         url: /recruit/interview_process.html
         subsubfolderitems:
