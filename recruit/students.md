@@ -73,11 +73,11 @@ This is your opportunity to contribute in a Made In Taiwan company. You will be 
 [Join Us]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 
-### How long are your internships?
+<h3>How long are your internships?</h3>
 
 ​We offer flexible internship lengths at a 12-week minimum.
 
-​### Who can apply?
+​<h3>Who can apply</h3>
 
 ​We look for hardworking students who can contribute as software programmers.
 
