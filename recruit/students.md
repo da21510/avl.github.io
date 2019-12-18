@@ -65,7 +65,7 @@ You will receive compensation based on OKR performance as bonus, scholarship, or
 
 <br>
 
-## #MIT PROGRAM
+## **#MIT PROGRAM**
 ## Pioneer Taiwan’s tech startup ecosystem on a fundamental level.
 
 This is your opportunity to contribute in a Made In Taiwan company. You will be challenged. You are expected to execute excellent results. If you’re proactive, hardworking, and highly skilled,
