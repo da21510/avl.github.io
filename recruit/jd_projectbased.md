@@ -12,7 +12,7 @@ description: Project-Based/Part-Time Full Stack Web Developer
 [現在就申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ## 工作資料
-- [**薪資**]({{ site.baseurl }}{{ site.link_jd_projectfee}}): 資深全端網頁工程師：個案10～100萬。
+- [**費用**]({{ site.baseurl }}{{ site.link_jd_projectfee}}): 資深全端網頁工程師：個案10～100萬。
 - [**面試過程**]({{ site.baseurl }}{{ site.link_jd_interview_process }}): 3 小時以內。
 - [**期望**]({{ site.baseurl }}{{ site.link_jd_expectations }}): 誠信。勤奮。有團隊精神。
 
@@ -52,7 +52,7 @@ description: Project-Based/Part-Time Full Stack Web Developer
 [Apply Now]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 
 ## Description
-- [**Salary Levels**]({{ site.baseurl }}{{ site.link_jd_projectfee}}): NT$10-100W per project.
+- [**Fee**]({{ site.baseurl }}{{ site.link_jd_projectfee}}): NT$10-100W per project.
 - [**Interview Process**]({{ site.baseurl }}{{ site.link_jd_interview_process }}): Total process fewer than 3 hours.
 - [**Expectations**]({{ site.baseurl }}{{ site.link_jd_expectations }}): Integrity. Hard work. Team player.
 
