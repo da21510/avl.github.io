@@ -1,6 +1,11 @@
 toc:
   - title: 介紹 Introduction
     url: /index.html
+    subfolderitems:
+      - page: 團隊 Team
+        url: /team.html
+      - page: 產品 Product
+        url: /product.html
   - title: 公司理念 Principles
     url: /principles/principles.html
     subfolderitems:
@@ -43,7 +48,7 @@ toc:
         subsubfolderitems:
           - page: 全職工程師薪水 Full Time Engineering Levels
             url: /people/engineering_level.html
-          - page: 特案兼職費用 Project-Based/Part Time Engineering Levels
+          - page: 特案兼職費用 Project-Based/Part-Time Engineering Levels
             url: /people/projectbased_level.html
       - page: 工作時間 Working Hours
         url: /people/work_hours.html
@@ -53,6 +58,10 @@ toc:
         url: /people/learning_training.html
       - page: 外派國外 Relocation
         url: /people/relocation.html
+      - page: 績效評估 General Performance Review
+        url: /people/general_performance_review.html
+      - page: 工作政策 Workplace Policy
+        url: /people/workplace_policy.html
   - title: 徵才 Recruiting
     url: /recruit/recruit.html
     subfolderitems:
@@ -77,10 +86,14 @@ toc:
               url: /recruit/webdev.html
         - page: "選項B：傳統方案 - 實際白板考試（2天）Traditional Whiteboard Interview"
           url: /recruit/whiteboard.html
+      - page: 性別平等 Gender Equality
+        url: /recruit/women.html
       - page: 開源貢獻 Open Source Contribution
         url: /recruit/open_sourced.html
       - page: 學生及職場新人 Students & New Graduates
         url: /recruit/students.html
+      - page: 推薦獎金 Referral Program
+        url: /recruit/referral.html
   - title: 工程流程 Engineering
     url: /engineering/engineering.html
     subfolderitems:
