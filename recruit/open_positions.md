@@ -6,10 +6,6 @@ description: Open Positions
 
 <br>
 
-加速孵化團隊內部自己創造的新點子，解決全球消費者和商務的難處（非接案、非博弈、不外包）。
-
-<br>
-
 ## 我們不斷的在徵才.
 
 我們是一個對創業充滿熱情的科技新創，希望與創始員工一起建立我們的團隊文化，以**風氣自由、透明制度**為傲。
@@ -18,7 +14,7 @@ description: Open Positions
 
 如果你渴望**挑戰與成就感**，想在實驗和執行中都參與重要主導角色，我們很想要跟你合作。
 
-對國際市場有野心，想要追求有**未來發展性**的事業，請申請缺職位。
+對國際市場有野心，想要追求有**未來發展性**的事業，請申請下方缺職位。
 
 <br>
 
@@ -26,11 +22,9 @@ description: Open Positions
 
 <br>
 
-We incubate, accelerate, and implement ideas that our team create internally.
-
-<br>
-
 ## We are always hiring.
+
+We incubate, accelerate, and implement ideas that our team create internally.
 
 We are passionate entrepreneurs who want to build our culture around our earliest employees.
 
@@ -47,6 +41,8 @@ We hope you apply to one of our open positions below.
 <br>
 
 # 職缺：Open Positions
+
+加速孵化團隊內部自己創造的新點子，解決全球消費者和商務的難處（非接案、非博弈、不外包）。
 
 ## 工程師：Engineering
 
@@ -112,8 +108,6 @@ We hope you apply to one of our open positions below.
 
 ### [Graphic UX Designer](https://www.cakeresume.com/companies/avance-venture-lab/jobs/web-designer-8d25e8){:target="_blank"}
 
-全職 | 遠端 | 台北
-
 `Full-Time 全職` | `Remote 遠端` |`Taipei 台北`
 
 `Junior Engineer 初級工程師`
@@ -122,13 +116,25 @@ We hope you apply to one of our open positions below.
 
 ---
 
-## 實習生 & 兼職：Internship & Part-time
+## 實習生：Internship
 
 ### [Full Stack Student Intern Engineer](https://www.avancevl.com/students){:target="_blank"}
 
-`Part-Time 兼職` | `Remote 遠端` | `Taipei 台北`
+`Summer Internship 暑期實習` | `Remote 遠端` | `Taipei 台北`
 
 `Intern 實習生`
+
+[Apply 申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
+
+---
+
+## 特案/兼職：Project-Based & Part-time
+
+### [Full Stack Student Intern Engineer]({{ site.baseurl }}/recruit/jd_projectbased.html)
+
+`Part-Time 兼職` | `Remote 遠端` | `Taipei 台北`
+
+`Project-Based 特案`
 
 [Apply 申請]({{ site.job_form_url }}){: .btn#page-btn}{:target="_blank"}
 

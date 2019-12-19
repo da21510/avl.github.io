@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 工作政策
+title: 職場性騷擾政策
 description: Workplace Policy
 ---
 
@@ -14,7 +14,7 @@ description: Workplace Policy
 
 <br>
 
-## Non-discrimination/Anti-Harassment Policy
+## Non-discrimination/Anti-Sexual Harassment Policy
 
 AVL is committed to a work environment in which all individuals are treated with respect and dignity. Each individual has the right to work in a professional atmosphere that promotes equal employment opportunities and prohibits unlawful discriminatory practices, including harassment. Therefore, AVL expects that all relationships among persons in the office will be business-like and free of bias, prejudice and harassment.
 

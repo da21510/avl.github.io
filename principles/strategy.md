@@ -15,7 +15,7 @@ description: Execution Strategy
 * Increase the number of shots on goal, and the likelihood we will get lucky.
 * Measure our velocity. If you don't measure it, you can't improve it.
 	* **KPIs** define how our velocity is measured.
-	* **ORKs** define clear targets for where our KPIs should be.
+	* **OKRs** define clear targets for where our KPIs should be.
 	* **Agile** sprint schedule to define clear milestones and checkpoints for OKRs.
 
 ## Strict Cost Control
