@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 執行策略
-description: Strategy
+description: Execution Strategy
 ---
 
 ## Customer First
