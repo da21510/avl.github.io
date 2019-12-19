@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 性別平等
-description: Gender Equality
+title: 性別平等就業機會
+description: Equal opportunity employment 
 ---
 
 ## 平等就業機會
@@ -14,8 +14,8 @@ AVL的政策確保種族、膚色、宗教，性別、性取向、年齡、殘�
 
 [探索性別平等就業機會]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
 
-## Equal employment opportunity
+## Equal opportunity employment 
 
-It is the policy of AVL to ensure equal employment opportunity without discrimination or harassment on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, age, disability, marital status, citizenship, national origin, genetic information, or any other characteristic protected by law. AVL prohibits any such discrimination or harassment.
+We strongly suppot Gender Equality. It is the policy of AVL to ensure equal employment opportunity without discrimination or harassment on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, age, disability, marital status, citizenship, national origin, genetic information, or any other characteristic protected by law. AVL prohibits any such discrimination or harassment.
 
 [Explore Equal Opportunities]({{ site.baseurl }}/recruit/recruit.html){: .btn#page-btn}
