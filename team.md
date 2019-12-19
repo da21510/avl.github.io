@@ -19,7 +19,6 @@ description: Team
 
 We are a team of entrepreneurs from MIT and Standford. We studied engineering as undergraduates, and worked in the world of banking, trading, and consulting in New York and Chicago, before building startups in Silicon Vallery. We are now based in Asia.
 
-We are fact-based and driven by root cause. 
 
 ## Values
 
@@ -31,17 +30,17 @@ Our 5 values are:
 1. Collaboration
 1. Efficiency
 
-Our values govern how we behave. They describe our expectations from people we hire. They help guide us on how to behave in the organization and what to expect from others. Values are a framework for distributed decision making; they allow you to determine what to do without asking your manager.
+Our values govern how we behave. They describe our expectations from people we hire. They help guide us on how to behave in the organization and what to expect from others. Values are a framework for distributed decision making; they allow you to determine what to do without asking your manager. We are fact-based and driven by finding and solving the root cause. 
 
 * It is most important to focus on **Results**
 * We trust **fast Iteration** and **radical Transperancy** will lead to Results. 
 * Our emphasis on **Collaboration** and **Efficiency** distinguishes us from other companies.
 
-# 1. Timing
-# 2. Idea
-# 3. Team
-# 4. Business Model
-# 5. Funding
+### 1. Timing
+### 2. Idea
+### 3. Team
+### 4. Business Model
+### 5. Funding
 
 # Cadence
 
